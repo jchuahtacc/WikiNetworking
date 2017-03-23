@@ -13,7 +13,7 @@
 /wiki/Albion_(comics)
 /wiki/Alchemy_(comics)
 /wiki/Abdul_Alhazred_(comics)
-/wiki/All-aroundn_(comics)
+/wiki/All-American_(comics)
 /wiki/Liz_Allan
 /wiki/Alpha_(Marvel_Comics)
 /wiki/Alpha_the_Ultimate_Mutant
@@ -282,6 +282,7 @@
 /wiki/Charon_(Marvel_Comics)
 /wiki/Chemistro
 /wiki/Lila_Cheney
+/wiki/Zhou_Cheng
 /wiki/Cheshire_Cat_(comics)
 /wiki/Chief_Examiner
 /wiki/Chimera_(comics)
@@ -687,6 +688,7 @@
 /wiki/Hawkeye_(comics)
 /wiki/Hawkeye_(Kate_Bishop)
 /wiki/Haywire_(comics)
+/wiki/Hazmat_(comics)
 /wiki/Mark_Hazzard:_Merc
 /wiki/Headlok
 /wiki/Headsman_(comics)
@@ -1060,6 +1062,8 @@
 /wiki/Kenny_McFarlane
 /wiki/Meanstreak_(comics)
 /wiki/Medusa_(comics)
+/wiki/Harold_Meachum
+/wiki/Joy_Meachum
 /wiki/Ward_Meachum
 /wiki/Meggan
 /wiki/Seamus_Mellencamp
@@ -1218,7 +1222,6 @@
 /wiki/Nuklo
 /wiki/Numinus
 /wiki/Nyx
-/wiki/O-Force
 /wiki/Solomon_O%27Sullivan
 /wiki/Obliterator_(comics)
 /wiki/Oblivion_(comics)
@@ -1404,6 +1407,7 @@
 /wiki/Razorback_(comics)
 /wiki/Reaper_(Gunther_Strauss)
 /wiki/Reaper_(Marvel_Comics)
+/wiki/Recorder_(comics)
 /wiki/Red_Barbarian
 /wiki/Red_Ghost
 /wiki/Red_Guardian
