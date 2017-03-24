@@ -28,6 +28,7 @@ def create_graph(data, host="https://en.wikipedia.org", minimum_weight=1):
 # @param	cmap 				A colormap for graph nodes. Nodes are color mapped to node degree
 # @param	edge_cmap			A colormap for graph edges. Edges are color mapped to edge weights
 # @param	node_size_factor	A node size factor. Node sizes are a product of the size factor and the node's degree
+# @return                       An HTML string of the resulting ineteractive graph
 def make_interactive_graph(graph, pos=None, cmap=plt.cm.viridis, edge_cmap=plt.cm.Reds, node_size_factor=5):
     fig = plt.figure(1, figsize=(8, 6), dpi=100)
     ax = plt.Axes(fig, [0., 0., 1., 1.])
@@ -63,7 +64,7 @@ def make_interactive_graph(graph, pos=None, cmap=plt.cm.viridis, edge_cmap=plt.c
     mpld3.plugins.connect(fig, Highlight(edges))
     mpld3.plugins.connect(fig, tooltips)
     mpld3.plugins.connect(fig, linetips)
-    mpld3.enable_notebook()
+    return mpld3.fig_to_html(fig)
 
 ## Saves a high resolution non-interactive graph, similar to @link <make_interactive_graph>
 # @param	graph 				The networkx graph to display
