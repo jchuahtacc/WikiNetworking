@@ -10,18 +10,16 @@ from highlight import Highlight
 # @param	host 				A hostname to prepend to each URL
 # @param	minimum_weight		The minimum weight for an edge to be added to the graph
 # @return						A networkx graph object
-def create_graph(data, host="https://en.wikipedia.org", minimum_weight=2):
+def create_graph(data, host="https://en.wikipedia.org", minimum_weight=1):
 	graph = nx.Graph()
-	url_dict = dict()
+	for article, article_info in data.items():
+		graph.add_node(article, url=(host + article_info["url"]))
+
 	for article, article_info in data.items():
 	    for link, num_links in article_info["edges"].items():
 	    	if num_links >= minimum_weight:
-			graph.add_edge(article, link, weight=num_links)
+				graph.add_edge(article, link, weight=num_links)
 
-	for article, article_info in data.items():
-		url_dict[article] = host + article_info["url"]
-
-	nx.set_node_attributes(graph, "url", url_dict)
 	return graph
 
 ## Creates an inline mpld3 interactive networkx graph in Jupyter Notebook from a graph
