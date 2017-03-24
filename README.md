@@ -8,14 +8,10 @@ This project consists of two Jupyter notebooks that crawl Wikipedia articles and
 
 ###  Notebooks
 
-[Wiki Networking - Text Mining Tools.ipynb](Wiki%20Networking%20-%20Text%20Mining%20Tools.ipynb) contains text mining and web crawling code for retrieving link data from Wikipedia pages. [`./mcu_network.json`](./mcu_network.json) is an example of json data generated from a web crawl for a network of characters in the Marvel Cinematic Universe. 
+[examples/Wiki Networking.ipynb](./examples/Wiki%20Networking.ipynb) contains is an abbreviated example of how to use `wikinetworking` to crawl for [Marvel Cinematic Universe data](./examples/mcu_network.html).
 
-[Wiki Networking.ipynb](Wiki%20Networking.ipynb) contains an example of how to load the result of a Wikipedia crawl and create a weighted node graphs that can be interactive or high resolution. [`./mcu_network_large.png`](./mcu_network_large.png) is a high resolution (14400 x 10800) render of the data from [`./mcu_network.json`](./mcu_network.json).
+[examples/Wiki Networking - Extebded Example.ipynb](./examples/Wiki%20Networking%20-%20Extended%20Example.ipynb) contains an extended example of how to crawl for different types of data, and is an example of how to crawl for [BET Hip Hop Award winners](./examples/bet_network.html).
 
-### Requirements
+### Install
 
-- [`jupyter`](https://pypi.python.org/pypi/jupyter)
-- [`matplotlib`](https://pypi.python.org/pypi/matplotlib)
-- [`networkx`](https://pypi.python.org/pypi/networkx)
-- [`pyquery`](https://pypi.python.org/pypi/pyquery)
-- [`mpld3`](https://pypi.python.org/pypi/mpld3)
+From the root of this repository, run the terminal command `pip install .`

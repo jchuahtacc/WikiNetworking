@@ -651,6 +651,9 @@
 /wiki/Graymalkin
 /wiki/Great_Gambonnos
 /wiki/Green_Goblin
+/wiki/Norman_Osborn
+/wiki/Harry_Osborn
+/wiki/Phil_Urich
 /wiki/Grey_Gargoyle
 /wiki/Griffin_(Marvel_Comics)
 /wiki/D._W._Griffith
