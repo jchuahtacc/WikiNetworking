@@ -1,0 +1,3475 @@
+{
+    "2 Chainz": {
+        "edges": {
+            "Big Sean": 3, 
+            "Chance the Rapper": 1, 
+            "Drumma Boy": 1, 
+            "Gucci Mane": 1, 
+            "Kanye West": 4, 
+            "Kendrick Lamar": 2, 
+            "Lil Wayne": 7, 
+            "Ludacris": 3, 
+            "Mannie Fresh": 1, 
+            "Pharrell Williams": 2, 
+            "Pusha T": 4, 
+            "Rich Homie Quan": 1, 
+            "Rick Ross": 2, 
+            "T-Pain": 1, 
+            "T.I.": 1, 
+            "Tyga": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/2_Chainz"
+    }, 
+    "21 Savage": {
+        "edges": {
+            "Future (rapper)": 2, 
+            "Gucci Mane": 2, 
+            "Lil Yachty": 1, 
+            "Metro Boomin": 4
+        }, 
+        "url": "/wiki/21_Savage"
+    }, 
+    "50 Cent": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Busta Rhymes": 1, 
+            "DMX (rapper)": 1, 
+            "Dr. Dre": 5, 
+            "Eminem": 8, 
+            "Fat Joe": 1, 
+            "Freeway (rapper)": 1, 
+            "Jadakiss": 1, 
+            "KRS-One": 1, 
+            "Kanye West": 2, 
+            "Kurupt": 1, 
+            "LL Cool J": 3, 
+            "Lil Jon": 1, 
+            "Lil Scrappy": 1, 
+            "Ludacris": 1, 
+            "Meek Mill": 1, 
+            "Nas": 4, 
+            "Nelly": 1, 
+            "Pharrell Williams": 1, 
+            "Rakim": 1, 
+            "Rick Ross": 1, 
+            "Royce da 5'9\"": 1, 
+            "Sean Combs": 1, 
+            "Snoop Dogg": 1, 
+            "Swizz Beatz": 1, 
+            "T-Pain": 1, 
+            "T.I.": 1, 
+            "The Game (rapper)": 4, 
+            "Timbaland": 1, 
+            "Wyclef Jean": 1
+        }, 
+        "url": "/wiki/50_Cent"
+    }, 
+    "Ab-Soul": {
+        "edges": {
+            "Eminem": 1, 
+            "Isaiah Rashad": 1, 
+            "Jay Rock": 4, 
+            "Joe Budden": 1, 
+            "Kendrick Lamar": 3, 
+            "Lupe Fiasco": 2, 
+            "Mac Miller": 1, 
+            "Nas": 1, 
+            "Nipsey Hussle": 1, 
+            "Schoolboy Q": 4, 
+            "Stalley": 1, 
+            "Twista": 2
+        }, 
+        "url": "/wiki/Ab-Soul"
+    }, 
+    "Ace Hood": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Akon": 1, 
+            "Birdman (rapper)": 2, 
+            "Bow Wow (rapper)": 1, 
+            "DJ Khaled": 9, 
+            "Fabolous": 1, 
+            "French Montana": 2, 
+            "Future (rapper)": 1, 
+            "Jadakiss": 2, 
+            "Juelz Santana": 1, 
+            "Kendrick Lamar": 1, 
+            "Kevin McCall": 1, 
+            "Lil Wayne": 4, 
+            "Ludacris": 1, 
+            "Meek Mill": 3, 
+            "Plies (rapper)": 2, 
+            "Rich Homie Quan": 1, 
+            "Rick Ross": 3, 
+            "T-Pain": 3, 
+            "T.I.": 1, 
+            "Talib Kweli": 1, 
+            "The-Dream": 1, 
+            "Tyga": 1, 
+            "Vado (rapper)": 2, 
+            "Wiz Khalifa": 1, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/Ace_Hood"
+    }, 
+    "Action Bronson": {
+        "edges": {
+            "DJ Mustard": 1, 
+            "Eminem": 2, 
+            "Erick Sermon": 1, 
+            "J. Cole": 1, 
+            "Kendrick Lamar": 1, 
+            "Mike Will Made It": 1, 
+            "Nas": 2, 
+            "Raekwon": 1, 
+            "Termanology": 1, 
+            "Vince Staples": 1, 
+            "Wiz Khalifa": 1
+        }, 
+        "url": "/wiki/Action_Bronson"
+    }, 
+    "Akon": {
+        "edges": {
+            "Dr. Dre": 2, 
+            "Eminem": 3, 
+            "Kardinal Offishall": 3, 
+            "Lil Wayne": 2, 
+            "Pharrell Williams": 1, 
+            "Snoop Dogg": 5, 
+            "Styles P": 1, 
+            "T-Pain": 4, 
+            "T.I.": 1, 
+            "Wiz Khalifa": 1, 
+            "Young Jeezy": 3
+        }, 
+        "url": "/wiki/Akon"
+    }, 
+    "Andy Mineo": {
+        "edges": {
+            "Busta Rhymes": 1, 
+            "Common (rapper)": 1, 
+            "DMX (rapper)": 1, 
+            "Dr. Dre": 1, 
+            "Jadakiss": 1, 
+            "Kurupt": 1, 
+            "Lecrae": 5, 
+            "Lil' Kim": 1, 
+            "Sean Combs": 1, 
+            "Snoop Dogg": 1
+        }, 
+        "url": "/wiki/Andy_Mineo"
+    }, 
+    "Angel Haze": {
+        "edges": {
+            "Eminem": 1
+        }, 
+        "url": "/wiki/Angel_Haze"
+    }, 
+    "B.G. (rapper)": {
+        "edges": {
+            "Birdman (rapper)": 6, 
+            "Bun B": 1, 
+            "Juvenile (rapper)": 4, 
+            "Lil Wayne": 6, 
+            "Mannie Fresh": 2, 
+            "T.I.": 2, 
+            "Webbie": 1
+        }, 
+        "url": "/wiki/B.G._(rapper)"
+    }, 
+    "B.o.B": {
+        "edges": {
+            "2 Chainz": 2, 
+            "Ace Hood": 1, 
+            "Big Boi": 2, 
+            "Big K.R.I.T.": 1, 
+            "Bun B": 1, 
+            "Charles Hamilton (rapper)": 3, 
+            "Cory Gunz": 1, 
+            "DMX (rapper)": 1, 
+            "Dr. Dre": 1, 
+            "Eminem": 5, 
+            "Future (rapper)": 1, 
+            "Hopsin": 1, 
+            "Iggy Azalea": 2, 
+            "J. Cole": 1, 
+            "Juicy J": 1, 
+            "Kanye West": 1, 
+            "Kevin Gates": 1, 
+            "Lil Wayne": 2, 
+            "Ludacris": 1, 
+            "Lupe Fiasco": 1, 
+            "Mac Miller": 1, 
+            "Meek Mill": 1, 
+            "Mickey Factz": 1, 
+            "Mos Def": 1, 
+            "Nelly": 1, 
+            "Rich Boy": 1, 
+            "Roscoe Dash": 1, 
+            "Swizz Beatz": 1, 
+            "T.I.": 12, 
+            "Tech N9ne": 3, 
+            "Wale (rapper)": 2, 
+            "Wiz Khalifa": 1
+        }, 
+        "url": "/wiki/B.o.B"
+    }, 
+    "Beanie Sigel": {
+        "edges": {
+            "50 Cent": 2, 
+            "DMX (rapper)": 1, 
+            "Freeway (rapper)": 4, 
+            "Jadakiss": 3, 
+            "Kanye West": 1, 
+            "Meek Mill": 1, 
+            "Omillio Sparks": 2, 
+            "Raekwon": 1, 
+            "Scarface (rapper)": 2
+        }, 
+        "url": "/wiki/Beanie_Sigel"
+    }, 
+    "Big Boi": {
+        "edges": {
+            "B.o.B": 2, 
+            "Future (rapper)": 1, 
+            "Gucci Mane": 1, 
+            "Ludacris": 1, 
+            "Nick Cannon": 1, 
+            "Pill (rapper)": 1, 
+            "Raekwon": 1, 
+            "T.I.": 1
+        }, 
+        "url": "/wiki/Big_Boi"
+    }, 
+    "Big K.R.I.T.": {
+        "edges": {
+            "B.o.B": 1, 
+            "Big Sean": 1, 
+            "Bun B": 4, 
+            "Chamillionaire": 1, 
+            "David Banner": 1, 
+            "Diggy Simmons": 1, 
+            "Future (rapper)": 1, 
+            "Kendrick Lamar": 1, 
+            "Lecrae": 1, 
+            "Ludacris": 2, 
+            "Mac Miller": 1, 
+            "Meek Mill": 1, 
+            "Scarface (rapper)": 2, 
+            "Wiz Khalifa": 5, 
+            "YG (rapper)": 1, 
+            "Yelawolf": 3
+        }, 
+        "url": "/wiki/Big_K.R.I.T."
+    }, 
+    "Big Sean": {
+        "edges": {
+            "2 Chainz": 4, 
+            "Bun B": 1, 
+            "Common (rapper)": 1, 
+            "DJ Mustard": 2, 
+            "Dom Kennedy": 1, 
+            "E-40": 4, 
+            "Eminem": 2, 
+            "French Montana": 1, 
+            "J. Cole": 2, 
+            "Juicy J": 1, 
+            "Kanye West": 16, 
+            "Kendrick Lamar": 1, 
+            "Lil Wayne": 3, 
+            "Lupe Fiasco": 1, 
+            "Mike Will Made It": 1, 
+            "Nas": 1, 
+            "Nicki Minaj": 1, 
+            "Pharrell Williams": 1, 
+            "Pusha T": 5, 
+            "Rick Ross": 1, 
+            "Roscoe Dash": 2, 
+            "Royce da 5'9\"": 1, 
+            "Tyga": 2, 
+            "Wiz Khalifa": 2
+        }, 
+        "url": "/wiki/Big_Sean"
+    }, 
+    "Birdman (rapper)": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Ace Hood": 1, 
+            "B.G. (rapper)": 1, 
+            "Bun B": 1, 
+            "DJ Khaled": 1, 
+            "Fat Joe": 1, 
+            "French Montana": 1, 
+            "Future (rapper)": 1, 
+            "Jim Jones (rapper)": 1, 
+            "Juvenile (rapper)": 1, 
+            "Lil Wayne": 7, 
+            "Mannie Fresh": 3, 
+            "Meek Mill": 1, 
+            "Nicki Minaj": 2, 
+            "Nipsey Hussle": 1, 
+            "Rich Homie Quan": 2, 
+            "Rick Ross": 2, 
+            "Tyga": 1, 
+            "Young Jeezy": 2, 
+            "Young Thug": 2
+        }, 
+        "url": "/wiki/Birdman_(rapper)"
+    }, 
+    "Black Thought": {
+        "edges": {
+            "Ab-Soul": 1, 
+            "Action Bronson": 1, 
+            "Common (rapper)": 5, 
+            "DJ Khaled": 1, 
+            "Jay Rock": 1, 
+            "Joey Badass": 1, 
+            "Jon Connor": 1, 
+            "Kanye West": 1, 
+            "Lupe Fiasco": 1, 
+            "Mos Def": 2, 
+            "Raekwon": 3, 
+            "Rahzel": 2, 
+            "Royce da 5'9\"": 2, 
+            "Saigon (rapper)": 1, 
+            "Styles P": 1, 
+            "Talib Kweli": 3, 
+            "Wale (rapper)": 1
+        }, 
+        "url": "/wiki/Black_Thought"
+    }, 
+    "Bow Wow (rapper)": {
+        "edges": {
+            "Birdman (rapper)": 5, 
+            "DJ Khaled": 1, 
+            "DMX (rapper)": 1, 
+            "Fabolous": 1, 
+            "Ice Cube": 1, 
+            "Jermaine Dupri": 4, 
+            "Lil Wayne": 4, 
+            "Nas": 1, 
+            "Nelly": 1, 
+            "Nicki Minaj": 1, 
+            "Omarion": 3, 
+            "Sean Combs": 1, 
+            "Snoop Dogg": 5, 
+            "Soulja Boy": 4, 
+            "Styles P": 1, 
+            "T-Pain": 3, 
+            "T.I.": 1, 
+            "Talib Kweli": 1
+        }, 
+        "url": "/wiki/Bow_Wow_(rapper)"
+    }, 
+    "Buckshot (rapper)": {
+        "edges": {
+            "Busta Rhymes": 1, 
+            "Eminem": 1, 
+            "KRS-One": 6, 
+            "Kurupt": 1, 
+            "Styles P": 1
+        }, 
+        "url": "/wiki/Buckshot_(rapper)"
+    }, 
+    "Bun B": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Big K.R.I.T.": 2, 
+            "David Banner": 1, 
+            "Kirko Bangz": 3, 
+            "Lil Wayne": 1, 
+            "Raekwon": 1, 
+            "Redman (rapper)": 1, 
+            "Rick Ross": 2, 
+            "Royce da 5'9\"": 1, 
+            "Webbie": 1, 
+            "Young Jeezy": 1, 
+            "Yung Joc": 1
+        }, 
+        "url": "/wiki/Bun_B"
+    }, 
+    "Busta Rhymes": {
+        "edges": {
+            "B.o.B": 1, 
+            "Birdman (rapper)": 1, 
+            "Black Thought": 1, 
+            "DJ Khaled": 1, 
+            "DMX (rapper)": 3, 
+            "Dr. Dre": 3, 
+            "Eminem": 1, 
+            "Fabolous": 1, 
+            "Fat Joe": 2, 
+            "Gucci Mane": 1, 
+            "Ice Cube": 1, 
+            "Jadakiss": 2, 
+            "Joell Ortiz": 1, 
+            "KRS-One": 1, 
+            "Kanye West": 1, 
+            "LL Cool J": 1, 
+            "Lil Wayne": 5, 
+            "Lil' Kim": 1, 
+            "Mystikal": 1, 
+            "Nas": 1, 
+            "Nicki Minaj": 2, 
+            "Papoose (rapper)": 1, 
+            "Pharrell Williams": 2, 
+            "Raekwon": 1, 
+            "Redman (rapper)": 1, 
+            "Rick Ross": 2, 
+            "Sean Combs": 5, 
+            "Snoop Dogg": 1, 
+            "Swizz Beatz": 2, 
+            "T-Pain": 2, 
+            "Tech N9ne": 1
+        }, 
+        "url": "/wiki/Busta_Rhymes"
+    }, 
+    "Casey Veggies": {
+        "edges": {
+            "Dom Kennedy": 1, 
+            "Juicy J": 1, 
+            "Kendrick Lamar": 1, 
+            "Kirko Bangz": 1, 
+            "Mac Miller": 1, 
+            "Nipsey Hussle": 1, 
+            "The Game (rapper)": 1, 
+            "Vince Staples": 1, 
+            "Wiz Khalifa": 1, 
+            "YG (rapper)": 1
+        }, 
+        "url": "/wiki/Casey_Veggies"
+    }, 
+    "Cassidy (rapper)": {
+        "edges": {
+            "Meek Mill": 1, 
+            "Swizz Beatz": 5
+        }, 
+        "url": "/wiki/Cassidy_(rapper)"
+    }, 
+    "Chamillionaire": {
+        "edges": {
+            "50 Cent": 1, 
+            "Big K.R.I.T.": 1, 
+            "Bun B": 1, 
+            "Dorrough": 1, 
+            "Krayzie Bone": 5, 
+            "Lil Wayne": 3, 
+            "Ludacris": 1, 
+            "MC Hammer": 1, 
+            "Nipsey Hussle": 1, 
+            "Saigon (rapper)": 1, 
+            "Scarface (rapper)": 1
+        }, 
+        "url": "/wiki/Chamillionaire"
+    }, 
+    "Chance the Rapper": {
+        "edges": {
+            "2 Chainz": 2, 
+            "Ab-Soul": 1, 
+            "Action Bronson": 1, 
+            "Busta Rhymes": 2, 
+            "Common (rapper)": 1, 
+            "Eminem": 1, 
+            "Isaiah Rashad": 1, 
+            "J. Cole": 2, 
+            "Jarren Benton": 1, 
+            "Jon Connor": 1, 
+            "Kanye West": 6, 
+            "Kendrick Lamar": 2, 
+            "Kevin Gates": 1, 
+            "Lil Uzi Vert": 1, 
+            "Lil Wayne": 4, 
+            "Lupe Fiasco": 1, 
+            "MC Hammer": 1, 
+            "Mac Miller": 1, 
+            "Metro Boomin": 1, 
+            "Pharrell Williams": 1, 
+            "Rich Homie Quan": 1, 
+            "Schoolboy Q": 1, 
+            "The-Dream": 1, 
+            "Troy Ave": 1, 
+            "Twista": 1, 
+            "Vic Mensa": 2
+        }, 
+        "url": "/wiki/Chance_the_Rapper"
+    }, 
+    "Charles Hamilton (rapper)": {
+        "edges": {
+            "50 Cent": 1, 
+            "Ace Hood": 1, 
+            "B.o.B": 2, 
+            "Cory Gunz": 1, 
+            "DMX (rapper)": 1, 
+            "Dr. Dre": 2, 
+            "Eminem": 4, 
+            "Kanye West": 1, 
+            "Lupe Fiasco": 1, 
+            "MC Lyte": 2, 
+            "Mickey Factz": 2, 
+            "Nas": 1, 
+            "The-Dream": 1, 
+            "Wale (rapper)": 1
+        }, 
+        "url": "/wiki/Charles_Hamilton_(rapper)"
+    }, 
+    "Chevy Woods": {
+        "edges": {
+            "Ab-Soul": 1, 
+            "B.o.B": 1, 
+            "Big Sean": 1, 
+            "DJ Drama": 1, 
+            "Dej Loaf": 2, 
+            "French Montana": 1, 
+            "Joey Badass": 1, 
+            "Juicy J": 3, 
+            "Kendrick Lamar": 1, 
+            "Kevin Gates": 1, 
+            "Mac Miller": 2, 
+            "Schoolboy Q": 1, 
+            "Soulja Boy": 1, 
+            "Wiz Khalifa": 4
+        }, 
+        "url": "/wiki/Chevy_Woods"
+    }, 
+    "Common (rapper)": {
+        "edges": {
+            "Akon": 1, 
+            "Black Thought": 1, 
+            "Eminem": 4, 
+            "Fat Joe": 1, 
+            "French Montana": 1, 
+            "Juicy J": 1, 
+            "Kanye West": 8, 
+            "Mos Def": 3, 
+            "Pharrell Williams": 1, 
+            "Queen Latifah": 1, 
+            "Rick Ross": 1, 
+            "T.I.": 1, 
+            "Talib Kweli": 2, 
+            "The Game (rapper)": 1, 
+            "Vince Staples": 2, 
+            "Wiz Khalifa": 1
+        }, 
+        "url": "/wiki/Common_(rapper)"
+    }, 
+    "Cory Gunz": {
+        "edges": {
+            "Birdman (rapper)": 2, 
+            "Busta Rhymes": 2, 
+            "DJ Drama": 2, 
+            "DJ Khaled": 1, 
+            "French Montana": 1, 
+            "Jadakiss": 1, 
+            "Jon Connor": 1, 
+            "Juicy J": 1, 
+            "Kid Ink": 1, 
+            "Lil Wayne": 5, 
+            "Meek Mill": 1, 
+            "Mystikal": 1, 
+            "Nick Cannon": 2, 
+            "Nicki Minaj": 1, 
+            "Schoolboy Q": 1, 
+            "Termanology": 1, 
+            "Tyga": 1, 
+            "Wiz Khalifa": 1
+        }, 
+        "url": "/wiki/Cory_Gunz"
+    }, 
+    "Crooked I": {
+        "edges": {
+            "Dr. Dre": 2, 
+            "Eminem": 2, 
+            "Jay Rock": 1, 
+            "Joe Budden": 4, 
+            "Joell Ortiz": 4, 
+            "Juvenile (rapper)": 1, 
+            "Kurupt": 1, 
+            "Royce da 5'9\"": 6, 
+            "Snoop Dogg": 2, 
+            "Snow Tha Product": 1, 
+            "Tech N9ne": 1, 
+            "Twista": 1, 
+            "Yelawolf": 1
+        }, 
+        "url": "/wiki/Crooked_I"
+    }, 
+    "DJ Drama": {
+        "edges": {
+            "50 Cent": 1, 
+            "Akon": 1, 
+            "Chamillionaire": 1, 
+            "Fabolous": 1, 
+            "Gucci Mane": 1, 
+            "Jim Jones (rapper)": 1, 
+            "Lil Wayne": 2, 
+            "Meek Mill": 1, 
+            "Nelly": 1, 
+            "Snoop Dogg": 1, 
+            "T-Pain": 1, 
+            "T.I.": 5, 
+            "Twista": 1, 
+            "Wale (rapper)": 1, 
+            "Yo Gotti": 1, 
+            "Young Jeezy": 2, 
+            "Yung Joc": 1
+        }, 
+        "url": "/wiki/DJ_Drama"
+    }, 
+    "DJ Khaled": {
+        "edges": {
+            "2 Chainz": 2, 
+            "Ace Hood": 5, 
+            "Akon": 4, 
+            "Beanie Sigel": 1, 
+            "Big Boi": 2, 
+            "Big K.R.I.T.": 1, 
+            "Big Sean": 3, 
+            "Birdman (rapper)": 7, 
+            "Bow Wow (rapper)": 1, 
+            "Bun B": 2, 
+            "Busta Rhymes": 6, 
+            "Chance the Rapper": 1, 
+            "Fabolous": 4, 
+            "Fat Joe": 9, 
+            "French Montana": 3, 
+            "Future (rapper)": 8, 
+            "J. Cole": 2, 
+            "Jadakiss": 5, 
+            "Jim Jones (rapper)": 1, 
+            "Kanye West": 4, 
+            "Kendrick Lamar": 1, 
+            "Kirko Bangz": 1, 
+            "Lil Wayne": 15, 
+            "Ludacris": 5, 
+            "Luther Campbell": 1, 
+            "Meek Mill": 3, 
+            "Nas": 4, 
+            "Nelly": 1, 
+            "Nicki Minaj": 5, 
+            "Plies (rapper)": 5, 
+            "Rick Ross": 12, 
+            "Scarface (rapper)": 1, 
+            "Sean Combs": 1, 
+            "Snoop Dogg": 2, 
+            "T-Pain": 7, 
+            "T.I.": 6, 
+            "Tyga": 1, 
+            "Vado (rapper)": 1, 
+            "Wale (rapper)": 2, 
+            "Wiz Khalifa": 2, 
+            "Young Jeezy": 4
+        }, 
+        "url": "/wiki/DJ_Khaled"
+    }, 
+    "DJ Mustard": {
+        "edges": {
+            "2 Chainz": 5, 
+            "B.o.B": 4, 
+            "Big Sean": 1, 
+            "Bow Wow (rapper)": 2, 
+            "Casey Veggies": 1, 
+            "Dom Kennedy": 1, 
+            "Dorrough": 1, 
+            "E-40": 1, 
+            "Fetty Wap": 1, 
+            "French Montana": 2, 
+            "Iggy Azalea": 2, 
+            "Jadakiss": 1, 
+            "Kid Ink": 7, 
+            "Lil Jon": 2, 
+            "Ludacris": 1, 
+            "Mystikal": 1, 
+            "Nelly": 1, 
+            "Nicki Minaj": 2, 
+            "Nipsey Hussle": 5, 
+            "Omarion": 1, 
+            "Problem (rapper)": 1, 
+            "Rich Homie Quan": 1, 
+            "Rick Ross": 1, 
+            "Schoolboy Q": 1, 
+            "Snoop Dogg": 1, 
+            "T-Pain": 1, 
+            "T.I.": 1, 
+            "Tyga": 4, 
+            "Wiz Khalifa": 3, 
+            "YG (rapper)": 13, 
+            "Young Dro": 1, 
+            "Young Jeezy": 4
+        }, 
+        "url": "/wiki/DJ_Mustard"
+    }, 
+    "DJ Quik": {
+        "edges": {
+            "50 Cent": 1, 
+            "Bun B": 1, 
+            "Dr. Dre": 2, 
+            "E-40": 1, 
+            "Erick Sermon": 1, 
+            "Ice Cube": 1, 
+            "Jermaine Dupri": 1, 
+            "Kurupt": 6, 
+            "Ludacris": 1, 
+            "Nas": 1, 
+            "Problem (rapper)": 2, 
+            "Snoop Dogg": 4, 
+            "Talib Kweli": 1, 
+            "The Game (rapper)": 2, 
+            "Wiz Khalifa": 1, 
+            "Xzibit": 1
+        }, 
+        "url": "/wiki/DJ_Quik"
+    }, 
+    "DMX (rapper)": {
+        "edges": {
+            "50 Cent": 1, 
+            "Busta Rhymes": 2, 
+            "Dr. Dre": 2, 
+            "Eminem": 1, 
+            "Kanye West": 1, 
+            "LL Cool J": 1, 
+            "Nas": 1, 
+            "Swizz Beatz": 4
+        }, 
+        "url": "/wiki/DMX_(rapper)"
+    }, 
+    "Dave East": {
+        "edges": {
+            "Cassidy (rapper)": 1, 
+            "DMX (rapper)": 1, 
+            "Fabolous": 2, 
+            "Future (rapper)": 1, 
+            "Jadakiss": 2, 
+            "Mac Miller": 1, 
+            "Meek Mill": 1, 
+            "Ms. Jade": 1, 
+            "Nas": 5, 
+            "Pusha T": 2, 
+            "Raekwon": 1, 
+            "Snoop Dogg": 1, 
+            "Styles P": 3, 
+            "Vado (rapper)": 1
+        }, 
+        "url": "/wiki/Dave_East"
+    }, 
+    "David Banner": {
+        "edges": {
+            "Akon": 2, 
+            "Big K.R.I.T.": 1, 
+            "Lecrae": 1, 
+            "Lil Wayne": 2, 
+            "Ludacris": 1, 
+            "Snoop Dogg": 1, 
+            "T.I.": 1, 
+            "Twista": 1, 
+            "Yung Joc": 1
+        }, 
+        "url": "/wiki/David_Banner"
+    }, 
+    "Dej Loaf": {
+        "edges": {
+            "Big Sean": 2, 
+            "Casey Veggies": 1, 
+            "Chevy Woods": 1, 
+            "E-40": 1, 
+            "Eminem": 3, 
+            "Fabolous": 1, 
+            "Future (rapper)": 3, 
+            "Kid Ink": 2, 
+            "Lil Wayne": 2, 
+            "Mike Will Made It": 1, 
+            "Nicki Minaj": 2, 
+            "Omarion": 1, 
+            "Rakim": 1, 
+            "Rich Homie Quan": 1, 
+            "Rick Ross": 1, 
+            "Royce da 5'9\"": 2, 
+            "The Game (rapper)": 2, 
+            "Young Thug": 1
+        }, 
+        "url": "/wiki/Dej_Loaf"
+    }, 
+    "Desiigner": {
+        "edges": {
+            "2 Chainz": 2, 
+            "Big Sean": 2, 
+            "Future (rapper)": 1, 
+            "Gucci Mane": 3, 
+            "Jim Jones (rapper)": 1, 
+            "Kanye West": 5, 
+            "Meek Mill": 1, 
+            "Pusha T": 1, 
+            "Rich Homie Quan": 1, 
+            "Tyga": 2, 
+            "Xzibit": 1, 
+            "Yo Gotti": 2
+        }, 
+        "url": "/wiki/Desiigner"
+    }, 
+    "Diggy Simmons": {
+        "edges": {
+            "B.o.B": 1, 
+            "French Montana": 2, 
+            "Jadakiss": 1, 
+            "Kanye West": 2, 
+            "Lupe Fiasco": 3, 
+            "Nas": 2, 
+            "Pharrell Williams": 2, 
+            "Rakim": 1, 
+            "Tyga": 1, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/Diggy_Simmons"
+    }, 
+    "Dom Kennedy": {
+        "edges": {
+            "Big K.R.I.T.": 1, 
+            "Big Sean": 1, 
+            "Casey Veggies": 2, 
+            "DJ Mustard": 1, 
+            "DJ Quik": 1, 
+            "Ice Cube": 1, 
+            "J. Cole": 1, 
+            "Kendrick Lamar": 2, 
+            "LL Cool J": 1, 
+            "Nipsey Hussle": 3, 
+            "Rick Ross": 1, 
+            "Schoolboy Q": 1, 
+            "Wale (rapper)": 1, 
+            "YG (rapper)": 1
+        }, 
+        "url": "/wiki/Dom_Kennedy"
+    }, 
+    "Dorrough": {
+        "edges": {
+            "E-40": 2, 
+            "Jermaine Dupri": 1, 
+            "Jim Jones (rapper)": 1, 
+            "Rich Boy": 1, 
+            "Soulja Boy": 1, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/Dorrough"
+    }, 
+    "Doug E. Fresh": {
+        "edges": {
+            "Ludacris": 1, 
+            "MC Hammer": 2, 
+            "Nas": 1
+        }, 
+        "url": "/wiki/Doug_E._Fresh"
+    }, 
+    "Dr. Dre": {
+        "edges": {
+            "50 Cent": 6, 
+            "Akon": 1, 
+            "Busta Rhymes": 1, 
+            "DJ Quik": 2, 
+            "Eminem": 9, 
+            "Grandmaster Flash": 1, 
+            "Ice Cube": 5, 
+            "Joell Ortiz": 1, 
+            "Kanye West": 2, 
+            "Kardinal Offishall": 1, 
+            "Kendrick Lamar": 3, 
+            "Kurupt": 2, 
+            "LL Cool J": 1, 
+            "Nas": 2, 
+            "Raekwon": 2, 
+            "Rakim": 1, 
+            "Sean Combs": 2, 
+            "Snoop Dogg": 7, 
+            "Stat Quo": 1, 
+            "The Game (rapper)": 2, 
+            "The Lady of Rage": 1, 
+            "Timbaland": 2, 
+            "Xzibit": 3
+        }, 
+        "url": "/wiki/Dr._Dre"
+    }, 
+    "Drumma Boy": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Bun B": 1, 
+            "Dr. Dre": 1, 
+            "Gucci Mane": 1, 
+            "Plies (rapper)": 1, 
+            "Rocko (rapper)": 1, 
+            "Scarface (rapper)": 1, 
+            "Yo Gotti": 1, 
+            "Young Jeezy": 1, 
+            "Yung Joc": 1
+        }, 
+        "url": "/wiki/Drumma_Boy"
+    }, 
+    "E-40": {
+        "edges": {
+            "2 Chainz": 2, 
+            "Akon": 1, 
+            "Bun B": 2, 
+            "G-Eazy": 2, 
+            "Gucci Mane": 1, 
+            "Juicy J": 1, 
+            "Kendrick Lamar": 1, 
+            "Lecrae": 1, 
+            "Lil Jon": 5, 
+            "Schoolboy Q": 1, 
+            "Snoop Dogg": 2, 
+            "T-Pain": 1, 
+            "Tech N9ne": 2, 
+            "The Game (rapper)": 1, 
+            "Twista": 1, 
+            "YG (rapper)": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/E-40"
+    }, 
+    "Eminem": {
+        "edges": {
+            "50 Cent": 7, 
+            "Ab-Soul": 1, 
+            "Akon": 1, 
+            "B.o.B": 2, 
+            "Big Sean": 3, 
+            "Busta Rhymes": 2, 
+            "Chance the Rapper": 1, 
+            "Common (rapper)": 2, 
+            "Crooked I": 1, 
+            "DMX (rapper)": 1, 
+            "David Banner": 1, 
+            "Dr. Dre": 8, 
+            "Fat Joe": 1, 
+            "Hopsin": 1, 
+            "Ice Cube": 3, 
+            "J. Cole": 1, 
+            "Jadakiss": 3, 
+            "Joe Budden": 1, 
+            "Juicy J": 1, 
+            "Kendrick Lamar": 1, 
+            "Kurupt": 1, 
+            "LL Cool J": 2, 
+            "Lil Jon": 1, 
+            "Lil Wayne": 3, 
+            "Lil' Kim": 1, 
+            "Ludacris": 1, 
+            "MC Hammer": 1, 
+            "Nas": 2, 
+            "Nicki Minaj": 2, 
+            "Pharrell Williams": 2, 
+            "Rakim": 2, 
+            "Redman (rapper)": 1, 
+            "Royce da 5'9\"": 7, 
+            "Snoop Dogg": 6, 
+            "Stalley": 1, 
+            "Stat Quo": 2, 
+            "T.I.": 3, 
+            "Talib Kweli": 1, 
+            "Tech N9ne": 2, 
+            "The Game (rapper)": 1, 
+            "Wiz Khalifa": 2, 
+            "Xzibit": 2, 
+            "Yelawolf": 3, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Eminem"
+    }, 
+    "Erick Sermon": {
+        "edges": {
+            "Busta Rhymes": 2, 
+            "KRS-One": 1, 
+            "Keith Murray (rapper)": 2, 
+            "Rakim": 1, 
+            "Redman (rapper)": 3, 
+            "Wyclef Jean": 1
+        }, 
+        "url": "/wiki/Erick_Sermon"
+    }, 
+    "Fabolous": {
+        "edges": {
+            "2 Chainz": 1, 
+            "DJ Drama": 1, 
+            "Future (rapper)": 1, 
+            "J. Cole": 1, 
+            "Jadakiss": 1, 
+            "Jermaine Dupri": 1, 
+            "Joe Budden": 3, 
+            "Kanye West": 1, 
+            "Lil Wayne": 1, 
+            "Pusha T": 1, 
+            "Remy Ma": 1, 
+            "Rick Ross": 1, 
+            "Sean Combs": 2, 
+            "Swizz Beatz": 1, 
+            "T-Pain": 1, 
+            "The-Dream": 2, 
+            "Timbaland": 1, 
+            "Wale (rapper)": 1, 
+            "Young Jeezy": 4
+        }, 
+        "url": "/wiki/Fabolous"
+    }, 
+    "Fat Joe": {
+        "edges": {
+            "50 Cent": 2, 
+            "Ace Hood": 1, 
+            "Akon": 3, 
+            "Big Boi": 1, 
+            "Birdman (rapper)": 2, 
+            "Bun B": 1, 
+            "Busta Rhymes": 4, 
+            "DJ Khaled": 2, 
+            "Eminem": 1, 
+            "Fabolous": 1, 
+            "French Montana": 3, 
+            "Jadakiss": 3, 
+            "KRS-One": 1, 
+            "Keith Murray (rapper)": 1, 
+            "LL Cool J": 1, 
+            "Lil Wayne": 6, 
+            "Lil' Kim": 1, 
+            "Ludacris": 3, 
+            "Nelly": 1, 
+            "Plies (rapper)": 1, 
+            "Raekwon": 2, 
+            "Remy Ma": 7, 
+            "Rick Ross": 1, 
+            "Sean Combs": 1, 
+            "T-Pain": 2, 
+            "T.I.": 1, 
+            "Twista": 1, 
+            "Waka Flocka Flame": 1, 
+            "Wiz Khalifa": 1, 
+            "Young Jeezy": 2
+        }, 
+        "url": "/wiki/Fat_Joe"
+    }, 
+    "Fetty Wap": {
+        "edges": {
+            "Eminem": 1, 
+            "French Montana": 3, 
+            "Gucci Mane": 2, 
+            "Kid Ink": 1, 
+            "Kirko Bangz": 1, 
+            "Lil Wayne": 1, 
+            "Nicki Minaj": 1
+        }, 
+        "url": "/wiki/Fetty_Wap"
+    }, 
+    "Foxx (rapper)": {
+        "edges": {
+            "T-Pain": 1, 
+            "Webbie": 7
+        }, 
+        "url": "/wiki/Foxx_(rapper)"
+    }, 
+    "Freeway (rapper)": {
+        "edges": {
+            "50 Cent": 2, 
+            "Beanie Sigel": 6, 
+            "Birdman (rapper)": 2, 
+            "Black Thought": 1, 
+            "Cassidy (rapper)": 1, 
+            "Erick Sermon": 1, 
+            "Kanye West": 1, 
+            "Lil Wayne": 1, 
+            "Omillio Sparks": 1, 
+            "Rick Ross": 1, 
+            "Swizz Beatz": 1
+        }, 
+        "url": "/wiki/Freeway_(rapper)"
+    }, 
+    "French Montana": {
+        "edges": {
+            "2 Chainz": 2, 
+            "Akon": 1, 
+            "Big Sean": 1, 
+            "Birdman (rapper)": 1, 
+            "Common (rapper)": 1, 
+            "DJ Drama": 1, 
+            "DJ Khaled": 3, 
+            "DJ Mustard": 1, 
+            "David Banner": 1, 
+            "Fabolous": 2, 
+            "Fat Joe": 5, 
+            "Fetty Wap": 1, 
+            "Future (rapper)": 2, 
+            "Gucci Mane": 1, 
+            "Hopsin": 1, 
+            "Iggy Azalea": 1, 
+            "J. Cole": 1, 
+            "Jadakiss": 1, 
+            "Joe Budden": 1, 
+            "Juicy J": 3, 
+            "Kevin Gates": 1, 
+            "Kid Ink": 1, 
+            "Lil Wayne": 1, 
+            "Meek Mill": 1, 
+            "Nas": 1, 
+            "Nicki Minaj": 2, 
+            "Nipsey Hussle": 1, 
+            "Raekwon": 1, 
+            "Remy Ma": 5, 
+            "Rick Ross": 5, 
+            "Roscoe Dash": 1, 
+            "Scarface (rapper)": 1, 
+            "Schoolboy Q": 1, 
+            "Sean Combs": 4, 
+            "Shawty Lo": 1, 
+            "Snoop Dogg": 3, 
+            "Swizz Beatz": 1, 
+            "T.I.": 1, 
+            "Waka Flocka Flame": 1, 
+            "Wiz Khalifa": 2
+        }, 
+        "url": "/wiki/French_Montana"
+    }, 
+    "Future (rapper)": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Ace Hood": 1, 
+            "DJ Khaled": 2, 
+            "Gucci Mane": 3, 
+            "Kanye West": 1, 
+            "Lil Wayne": 1, 
+            "Ludacris": 1, 
+            "Metro Boomin": 2, 
+            "Mike Will Made It": 1, 
+            "Pharrell Williams": 1, 
+            "Pusha T": 2, 
+            "Rick Ross": 1, 
+            "Rocko (rapper)": 3, 
+            "Sean Combs": 1, 
+            "Snoop Dogg": 1, 
+            "T-Pain": 1, 
+            "T.I.": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Future_(rapper)"
+    }, 
+    "G-Eazy": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Lil Wayne": 1, 
+            "Snoop Dogg": 1, 
+            "YG (rapper)": 1, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/G-Eazy"
+    }, 
+    "Grandmaster Flash": {
+        "edges": {}, 
+        "url": "/wiki/Grandmaster_Flash"
+    }, 
+    "Gucci Mane": {
+        "edges": {
+            "2 Chainz": 5, 
+            "Bun B": 1, 
+            "DJ Drama": 1, 
+            "Drumma Boy": 1, 
+            "Eminem": 1, 
+            "Fetty Wap": 3, 
+            "French Montana": 1, 
+            "Future (rapper)": 4, 
+            "Jadakiss": 1, 
+            "Kendrick Lamar": 1, 
+            "Lil Scrappy": 1, 
+            "Lil Wayne": 1, 
+            "Lil' Kim": 1, 
+            "Ludacris": 1, 
+            "Metro Boomin": 1, 
+            "Mike Will Made It": 1, 
+            "Nicki Minaj": 2, 
+            "Omarion": 1, 
+            "Plies (rapper)": 2, 
+            "Rick Ross": 2, 
+            "Rocko (rapper)": 3, 
+            "Shawty Lo": 1, 
+            "Swizz Beatz": 1, 
+            "T.I.": 3, 
+            "Tyga": 2, 
+            "Waka Flocka Flame": 7, 
+            "Yo Gotti": 4, 
+            "Young Jeezy": 6, 
+            "Young Thug": 5
+        }, 
+        "url": "/wiki/Gucci_Mane"
+    }, 
+    "Hopsin": {
+        "edges": {
+            "Dr. Dre": 1, 
+            "Eminem": 1, 
+            "French Montana": 1, 
+            "Iggy Azalea": 1, 
+            "Jarren Benton": 2, 
+            "Kid Ink": 1, 
+            "Lil Wayne": 1, 
+            "Lupe Fiasco": 1, 
+            "Mac Miller": 1, 
+            "Mystikal": 1, 
+            "Rick Ross": 1, 
+            "Roscoe Dash": 1, 
+            "Schoolboy Q": 1, 
+            "Soulja Boy": 2, 
+            "Tech N9ne": 3
+        }, 
+        "url": "/wiki/Hopsin"
+    }, 
+    "Ice Cube": {
+        "edges": {
+            "2 Chainz": 1, 
+            "DJ Quik": 2, 
+            "Dr. Dre": 7, 
+            "Eminem": 1, 
+            "Lil Jon": 2, 
+            "Snoop Dogg": 3, 
+            "Tech N9ne": 1, 
+            "The Game (rapper)": 1, 
+            "Xzibit": 1
+        }, 
+        "url": "/wiki/Ice_Cube"
+    }, 
+    "Iggy Azalea": {
+        "edges": {
+            "B.o.B": 1, 
+            "DJ Mustard": 1, 
+            "French Montana": 1, 
+            "Hopsin": 1, 
+            "Kendrick Lamar": 1, 
+            "Kirko Bangz": 1, 
+            "Lil' Kim": 1, 
+            "Nas": 2, 
+            "Nicki Minaj": 1, 
+            "Problem (rapper)": 1, 
+            "Roscoe Dash": 1, 
+            "T.I.": 5, 
+            "Tyga": 2, 
+            "YG (rapper)": 1
+        }, 
+        "url": "/wiki/Iggy_Azalea"
+    }, 
+    "Isaiah Rashad": {
+        "edges": {
+            "Ab-Soul": 2, 
+            "Big Boi": 1, 
+            "Chance the Rapper": 1, 
+            "Jarren Benton": 1, 
+            "Jay Rock": 2, 
+            "Joey Badass": 2, 
+            "Jon Connor": 1, 
+            "Juicy J": 2, 
+            "KRS-One": 1, 
+            "Kanye West": 1, 
+            "Kendrick Lamar": 4, 
+            "Kevin Gates": 1, 
+            "Lil Wayne": 1, 
+            "Nas": 1, 
+            "Rich Homie Quan": 1, 
+            "Scarface (rapper)": 2, 
+            "Schoolboy Q": 1, 
+            "Snoop Dogg": 1, 
+            "T.I.": 1, 
+            "Troy Ave": 1, 
+            "Vic Mensa": 1, 
+            "Vince Staples": 1
+        }, 
+        "url": "/wiki/Isaiah_Rashad"
+    }, 
+    "J. Cole": {
+        "edges": {
+            "B.o.B": 1, 
+            "Big K.R.I.T.": 1, 
+            "Big Sean": 1, 
+            "Chance the Rapper": 1, 
+            "DJ Khaled": 2, 
+            "Eminem": 3, 
+            "Jay Electronica": 1, 
+            "Kanye West": 2, 
+            "Kendrick Lamar": 4, 
+            "Mos Def": 1, 
+            "Nas": 2, 
+            "Nicki Minaj": 1, 
+            "Pusha T": 1, 
+            "Sean Combs": 1, 
+            "Talib Kweli": 1, 
+            "Wale (rapper)": 3, 
+            "Wiz Khalifa": 1
+        }, 
+        "url": "/wiki/J._Cole"
+    }, 
+    "Jadakiss": {
+        "edges": {
+            "50 Cent": 1, 
+            "Ace Hood": 1, 
+            "Beanie Sigel": 2, 
+            "Bun B": 1, 
+            "Busta Rhymes": 1, 
+            "Common (rapper)": 1, 
+            "DJ Khaled": 2, 
+            "DMX (rapper)": 3, 
+            "Eminem": 1, 
+            "Fabolous": 2, 
+            "Fat Joe": 3, 
+            "Freeway (rapper)": 1, 
+            "Future (rapper)": 1, 
+            "Lil Wayne": 1, 
+            "Ludacris": 1, 
+            "Nas": 1, 
+            "Nicki Minaj": 1, 
+            "Pharrell Williams": 1, 
+            "Rick Ross": 2, 
+            "Sean Combs": 1, 
+            "Snoop Dogg": 1, 
+            "Styles P": 5, 
+            "Swizz Beatz": 3, 
+            "The-Dream": 1, 
+            "Twista": 1, 
+            "Waka Flocka Flame": 1, 
+            "Wiz Khalifa": 1, 
+            "Yo Gotti": 2, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Jadakiss"
+    }, 
+    "Jarren Benton": {
+        "edges": {
+            "Busta Rhymes": 1, 
+            "Dr. Dre": 1, 
+            "Eminem": 1, 
+            "Erick Sermon": 2, 
+            "Freeway (rapper)": 1, 
+            "Hopsin": 9, 
+            "Locksmith (rapper)": 2, 
+            "Ludacris": 1, 
+            "Ras Kass": 1, 
+            "Redman (rapper)": 1, 
+            "Rittz": 3, 
+            "Snow Tha Product": 1, 
+            "Tech N9ne": 3
+        }, 
+        "url": "/wiki/Jarren_Benton"
+    }, 
+    "Jay Electronica": {
+        "edges": {
+            "Big Sean": 2, 
+            "Chance the Rapper": 1, 
+            "Common (rapper)": 2, 
+            "J. Cole": 1, 
+            "Jean Grae": 1, 
+            "Joell Ortiz": 1, 
+            "Kendrick Lamar": 2, 
+            "Mac Miller": 1, 
+            "Mos Def": 3, 
+            "Nas": 2, 
+            "Raekwon": 1, 
+            "Rapsody": 1, 
+            "Royce da 5'9\"": 2, 
+            "Soulja Boy": 1, 
+            "Swizz Beatz": 1, 
+            "Vince Staples": 2, 
+            "Yelawolf": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Jay_Electronica"
+    }, 
+    "Jay Rock": {
+        "edges": {
+            "50 Cent": 1, 
+            "Ab-Soul": 4, 
+            "E-40": 1, 
+            "Isaiah Rashad": 1, 
+            "Kendrick Lamar": 5, 
+            "Lil Wayne": 2, 
+            "Nipsey Hussle": 1, 
+            "Omarion": 1, 
+            "Schoolboy Q": 3, 
+            "Stalley": 1, 
+            "Tech N9ne": 5, 
+            "The Game (rapper)": 1, 
+            "YG (rapper)": 1
+        }, 
+        "url": "/wiki/Jay_Rock"
+    }, 
+    "Jean Grae": {
+        "edges": {
+            "Joell Ortiz": 1, 
+            "Mos Def": 1, 
+            "Rapsody": 1, 
+            "Styles P": 1, 
+            "Talib Kweli": 2, 
+            "Wale (rapper)": 1
+        }, 
+        "url": "/wiki/Jean_Grae"
+    }, 
+    "Jermaine Dupri": {
+        "edges": {
+            "Bow Wow (rapper)": 4, 
+            "Grandmaster Flash": 1, 
+            "Lil Wayne": 1, 
+            "Lil' Kim": 1, 
+            "Ludacris": 1, 
+            "Nelly": 1, 
+            "Queen Latifah": 1
+        }, 
+        "url": "/wiki/Jermaine_Dupri"
+    }, 
+    "Jim Jones (rapper)": {
+        "edges": {
+            "2 Chainz": 1, 
+            "DJ Khaled": 1, 
+            "DJ Mustard": 1, 
+            "Dej Loaf": 1, 
+            "Dr. Dre": 1, 
+            "Drumma Boy": 1, 
+            "Jadakiss": 2, 
+            "Juelz Santana": 8, 
+            "Juicy J": 1, 
+            "Lil Wayne": 3, 
+            "Meek Mill": 1, 
+            "Raekwon": 1, 
+            "Remy Ma": 1, 
+            "Sean Combs": 2, 
+            "Styles P": 1, 
+            "Swizz Beatz": 1, 
+            "T.I.": 2, 
+            "The Game (rapper)": 2, 
+            "Twista": 1, 
+            "Wyclef Jean": 1, 
+            "Yo Gotti": 1, 
+            "Young Dro": 1
+        }, 
+        "url": "/wiki/Jim_Jones_(rapper)"
+    }, 
+    "Joe Budden": {
+        "edges": {
+            "B.o.B": 1, 
+            "Busta Rhymes": 2, 
+            "Crooked I": 2, 
+            "Eminem": 2, 
+            "Fabolous": 2, 
+            "French Montana": 1, 
+            "Joell Ortiz": 3, 
+            "Juicy J": 1, 
+            "Kirko Bangz": 1, 
+            "Lil Wayne": 1, 
+            "Omarion": 1, 
+            "Royce da 5'9\"": 3, 
+            "Styles P": 1, 
+            "Twista": 1, 
+            "Wiz Khalifa": 1
+        }, 
+        "url": "/wiki/Joe_Budden"
+    }, 
+    "Joell Ortiz": {
+        "edges": {
+            "Akon": 2, 
+            "B.o.B": 1, 
+            "Crooked I": 2, 
+            "Dr. Dre": 3, 
+            "Eminem": 3, 
+            "Jermaine Dupri": 2, 
+            "Joe Budden": 3, 
+            "KRS-One": 1, 
+            "Ras Kass": 2, 
+            "Royce da 5'9\"": 3, 
+            "Snow Tha Product": 1, 
+            "Styles P": 2
+        }, 
+        "url": "/wiki/Joell_Ortiz"
+    }, 
+    "Joey Badass": {
+        "edges": {
+            "Ab-Soul": 1, 
+            "Action Bronson": 1, 
+            "Big K.R.I.T.": 2, 
+            "Black Thought": 1, 
+            "Fat Joe": 1, 
+            "Juicy J": 1, 
+            "Kendrick Lamar": 1, 
+            "Mac Miller": 1, 
+            "Nas": 1, 
+            "Styles P": 1, 
+            "Troy Ave": 1, 
+            "Yelawolf": 1
+        }, 
+        "url": "/wiki/Joey_Badass"
+    }, 
+    "Jon Connor": {
+        "edges": {
+            "50 Cent": 1, 
+            "Big K.R.I.T.": 1, 
+            "Big Sean": 1, 
+            "Bun B": 1, 
+            "Busta Rhymes": 1, 
+            "Dr. Dre": 4, 
+            "Eminem": 2, 
+            "Freeway (rapper)": 1, 
+            "Kid Ink": 1, 
+            "Nas": 1, 
+            "Rick Ross": 2, 
+            "Royce da 5'9\"": 1, 
+            "Scarface (rapper)": 1, 
+            "Talib Kweli": 1, 
+            "The Game (rapper)": 1, 
+            "Xzibit": 1
+        }, 
+        "url": "/wiki/Jon_Connor"
+    }, 
+    "Juelz Santana": {
+        "edges": {
+            "DJ Khaled": 1, 
+            "DJ Mustard": 1, 
+            "Fabolous": 1, 
+            "Jadakiss": 1, 
+            "Jim Jones (rapper)": 3, 
+            "Lil Wayne": 4, 
+            "Meek Mill": 1, 
+            "Rick Ross": 1, 
+            "Swizz Beatz": 1, 
+            "Vado (rapper)": 1, 
+            "Wale (rapper)": 1, 
+            "Wiz Khalifa": 1, 
+            "Yelawolf": 1, 
+            "Yo Gotti": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Juelz_Santana"
+    }, 
+    "Juicy J": {
+        "edges": {
+            "2 Chainz": 2, 
+            "B.o.B": 1, 
+            "Big Sean": 2, 
+            "Common (rapper)": 1, 
+            "Dr. Dre": 1, 
+            "Eminem": 2, 
+            "French Montana": 1, 
+            "Lil Wayne": 2, 
+            "Mike Will Made It": 2, 
+            "Nas": 1, 
+            "Nicki Minaj": 2, 
+            "T.I.": 1, 
+            "Wiz Khalifa": 8, 
+            "Yelawolf": 1, 
+            "Young Jeezy": 2, 
+            "Young Thug": 1
+        }, 
+        "url": "/wiki/Juicy_J"
+    }, 
+    "Juvenile (rapper)": {
+        "edges": {
+            "B.G. (rapper)": 3, 
+            "Birdman (rapper)": 1, 
+            "Bun B": 1, 
+            "Lil Wayne": 3, 
+            "Ludacris": 1, 
+            "Mannie Fresh": 1, 
+            "Rick Ross": 2, 
+            "Soulja Boy": 1, 
+            "T.I.": 1, 
+            "Yo Gotti": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Juvenile_(rapper)"
+    }, 
+    "K'naan": {
+        "edges": {
+            "Eminem": 1, 
+            "KRS-One": 1, 
+            "Mos Def": 2, 
+            "Nas": 4, 
+            "Rakim": 1, 
+            "Wale (rapper)": 1
+        }, 
+        "url": "/wiki/K%27naan"
+    }, 
+    "KRS-One": {
+        "edges": {
+            "Buckshot (rapper)": 1, 
+            "Busta Rhymes": 1, 
+            "Fat Joe": 1, 
+            "K'naan": 1, 
+            "LL Cool J": 1, 
+            "Nas": 1, 
+            "Rakim": 1
+        }, 
+        "url": "/wiki/KRS-One"
+    }, 
+    "Kanye West": {
+        "edges": {
+            "2 Chainz": 2, 
+            "50 Cent": 1, 
+            "Beanie Sigel": 1, 
+            "Big Sean": 3, 
+            "Casey Veggies": 1, 
+            "Chance the Rapper": 3, 
+            "Common (rapper)": 3, 
+            "Desiigner": 2, 
+            "Eminem": 1, 
+            "Freeway (rapper)": 1, 
+            "Future (rapper)": 1, 
+            "Gucci Mane": 1, 
+            "Jermaine Dupri": 1, 
+            "Kendrick Lamar": 3, 
+            "LL Cool J": 1, 
+            "Ludacris": 1, 
+            "Lupe Fiasco": 2, 
+            "Mos Def": 1, 
+            "Nas": 1, 
+            "Nicki Minaj": 2, 
+            "Pharrell Williams": 1, 
+            "Pusha T": 3, 
+            "Raekwon": 2, 
+            "Rakim": 1, 
+            "Rhymefest": 2, 
+            "Soulja Boy": 1, 
+            "T.I.": 1, 
+            "Twista": 2, 
+            "Vic Mensa": 1, 
+            "Wale (rapper)": 1, 
+            "Wiz Khalifa": 1, 
+            "Yo Gotti": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Kanye_West"
+    }, 
+    "Kardinal Offishall": {
+        "edges": {
+            "Akon": 2, 
+            "Pharrell Williams": 2, 
+            "Timbaland": 1
+        }, 
+        "url": "/wiki/Kardinal_Offishall"
+    }, 
+    "Keith Murray (rapper)": {
+        "edges": {
+            "Busta Rhymes": 1, 
+            "Erick Sermon": 1, 
+            "LL Cool J": 1, 
+            "Redman (rapper)": 2
+        }, 
+        "url": "/wiki/Keith_Murray_(rapper)"
+    }, 
+    "Kendrick Lamar": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Ab-Soul": 3, 
+            "Ace Hood": 1, 
+            "B.o.B": 2, 
+            "Big K.R.I.T.": 2, 
+            "Big Sean": 1, 
+            "Birdman (rapper)": 1, 
+            "Busta Rhymes": 1, 
+            "Cassidy (rapper)": 1, 
+            "Chance the Rapper": 1, 
+            "Charles Hamilton (rapper)": 1, 
+            "DMX (rapper)": 1, 
+            "Dr. Dre": 6, 
+            "Eminem": 3, 
+            "Isaiah Rashad": 3, 
+            "J. Cole": 2, 
+            "Jay Electronica": 1, 
+            "Jay Rock": 3, 
+            "Joe Budden": 1, 
+            "Joell Ortiz": 1, 
+            "Kanye West": 4, 
+            "Kurupt": 1, 
+            "Lil Wayne": 3, 
+            "Lupe Fiasco": 1, 
+            "Mac Miller": 2, 
+            "Meek Mill": 2, 
+            "Mickey Factz": 1, 
+            "Mos Def": 1, 
+            "Nas": 1, 
+            "Papoose (rapper)": 1, 
+            "Pusha T": 1, 
+            "Rakim": 1, 
+            "Schoolboy Q": 3, 
+            "Snoop Dogg": 3, 
+            "Stalley": 1, 
+            "Tech N9ne": 1, 
+            "The Game (rapper)": 3, 
+            "Wale (rapper)": 1, 
+            "Yelawolf": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Kendrick_Lamar"
+    }, 
+    "Kevin Gates": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Birdman (rapper)": 1, 
+            "Chevy Woods": 1, 
+            "Eminem": 1, 
+            "Lil Wayne": 2, 
+            "Nas": 1, 
+            "Plies (rapper)": 2, 
+            "Webbie": 1
+        }, 
+        "url": "/wiki/Kevin_Gates"
+    }, 
+    "Kevin McCall": {
+        "edges": {
+            "Big Sean": 2, 
+            "Bow Wow (rapper)": 1, 
+            "DJ Drama": 1, 
+            "Gucci Mane": 1, 
+            "Kanye West": 1, 
+            "T.I.": 1, 
+            "Tyga": 3
+        }, 
+        "url": "/wiki/Kevin_McCall"
+    }, 
+    "Kid Ink": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Akon": 1, 
+            "Bow Wow (rapper)": 1, 
+            "Cory Gunz": 1, 
+            "DJ Mustard": 2, 
+            "E-40": 1, 
+            "Fetty Wap": 1, 
+            "French Montana": 1, 
+            "Meek Mill": 2, 
+            "Nipsey Hussle": 1, 
+            "Omarion": 2, 
+            "Pharrell Williams": 1, 
+            "Roscoe Dash": 1, 
+            "Swizz Beatz": 1, 
+            "Timbaland": 1, 
+            "Tyga": 2, 
+            "Wale (rapper)": 1
+        }, 
+        "url": "/wiki/Kid_Ink"
+    }, 
+    "Kirko Bangz": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Big Sean": 1, 
+            "Bow Wow (rapper)": 1, 
+            "Bun B": 2, 
+            "Chamillionaire": 1, 
+            "DJ Mustard": 1, 
+            "French Montana": 2, 
+            "J. Cole": 1, 
+            "Kid Ink": 1, 
+            "Meek Mill": 1, 
+            "Nipsey Hussle": 1, 
+            "Tyga": 1, 
+            "Wale (rapper)": 1, 
+            "YG (rapper)": 1, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/Kirko_Bangz"
+    }, 
+    "Krayzie Bone": {
+        "edges": {
+            "Chamillionaire": 2, 
+            "E-40": 1, 
+            "Fat Joe": 1, 
+            "Ice Cube": 1, 
+            "Kurupt": 2, 
+            "Snoop Dogg": 1
+        }, 
+        "url": "/wiki/Krayzie_Bone"
+    }, 
+    "Kurupt": {
+        "edges": {
+            "Buckshot (rapper)": 1, 
+            "Crooked I": 2, 
+            "DJ Drama": 1, 
+            "DJ Quik": 4, 
+            "DMX (rapper)": 1, 
+            "Dr. Dre": 2, 
+            "E-40": 1, 
+            "Eminem": 1, 
+            "Ice Cube": 1, 
+            "Jadakiss": 1, 
+            "Joell Ortiz": 1, 
+            "Kendrick Lamar": 1, 
+            "Nas": 1, 
+            "Ras Kass": 1, 
+            "Redman (rapper)": 1, 
+            "Snoop Dogg": 3, 
+            "The Lady of Rage": 1, 
+            "Xzibit": 1
+        }, 
+        "url": "/wiki/Kurupt"
+    }, 
+    "LL Cool J": {
+        "edges": {
+            "50 Cent": 2, 
+            "DMX (rapper)": 2, 
+            "Freeway (rapper)": 1, 
+            "Jermaine Dupri": 1, 
+            "Juelz Santana": 1, 
+            "Queen Latifah": 2, 
+            "Redman (rapper)": 2, 
+            "Snoop Dogg": 1, 
+            "Timbaland": 1
+        }, 
+        "url": "/wiki/LL_Cool_J"
+    }, 
+    "Lecrae": {
+        "edges": {
+            "Akon": 1, 
+            "Andy Mineo": 2, 
+            "Big K.R.I.T.": 1, 
+            "DJ Quik": 1, 
+            "Kendrick Lamar": 1, 
+            "Nas": 1, 
+            "Saigon (rapper)": 1, 
+            "Scarface (rapper)": 1, 
+            "Snoop Dogg": 1
+        }, 
+        "url": "/wiki/Lecrae"
+    }, 
+    "Lil Jon": {
+        "edges": {
+            "50 Cent": 1, 
+            "Dr. Dre": 1, 
+            "E-40": 2, 
+            "Ice Cube": 2, 
+            "Krayzie Bone": 1, 
+            "Lil Scrappy": 1, 
+            "Ludacris": 5, 
+            "Mystikal": 1, 
+            "Pharrell Williams": 1, 
+            "Snoop Dogg": 2, 
+            "Soulja Boy": 1, 
+            "T-Pain": 1, 
+            "Tyga": 1, 
+            "Waka Flocka Flame": 1
+        }, 
+        "url": "/wiki/Lil_Jon"
+    }, 
+    "Lil Mama": {
+        "edges": {
+            "Angel Haze": 1, 
+            "Jim Jones (rapper)": 1, 
+            "MC Lyte": 1, 
+            "Nas": 1, 
+            "Omarion": 1, 
+            "Snoop Dogg": 1, 
+            "Soulja Boy": 1, 
+            "T-Pain": 4
+        }, 
+        "url": "/wiki/Lil_Mama"
+    }, 
+    "Lil Scrappy": {
+        "edges": {
+            "2 Chainz": 1, 
+            "50 Cent": 4, 
+            "E-40": 1, 
+            "Lil Jon": 6, 
+            "Twista": 1, 
+            "Young Dro": 1, 
+            "Yung Joc": 2
+        }, 
+        "url": "/wiki/Lil_Scrappy"
+    }, 
+    "Lil Uzi Vert": {
+        "edges": {
+            "DJ Drama": 1, 
+            "Future (rapper)": 1, 
+            "Gucci Mane": 1, 
+            "Kanye West": 1, 
+            "Lil Wayne": 1, 
+            "Metro Boomin": 1, 
+            "Pharrell Williams": 1, 
+            "Wiz Khalifa": 3, 
+            "Young Thug": 3
+        }, 
+        "url": "/wiki/Lil_Uzi_Vert"
+    }, 
+    "Lil Wayne": {
+        "edges": {
+            "2 Chainz": 4, 
+            "50 Cent": 1, 
+            "Akon": 3, 
+            "B.G. (rapper)": 4, 
+            "Big Boi": 1, 
+            "Birdman (rapper)": 12, 
+            "Busta Rhymes": 1, 
+            "DJ Drama": 1, 
+            "DJ Khaled": 3, 
+            "David Banner": 2, 
+            "Eminem": 4, 
+            "Fat Joe": 1, 
+            "Future (rapper)": 1, 
+            "Jadakiss": 1, 
+            "Jay Rock": 1, 
+            "Juelz Santana": 3, 
+            "Juvenile (rapper)": 3, 
+            "Kanye West": 4, 
+            "Ludacris": 3, 
+            "Mannie Fresh": 2, 
+            "Nas": 1, 
+            "Nicki Minaj": 2, 
+            "Omarion": 1, 
+            "Pusha T": 1, 
+            "Rick Ross": 3, 
+            "T-Pain": 4, 
+            "T.I.": 6, 
+            "The Game (rapper)": 2, 
+            "The-Dream": 1, 
+            "Vado (rapper)": 1, 
+            "Wiz Khalifa": 1, 
+            "Wyclef Jean": 1, 
+            "Young Jeezy": 2
+        }, 
+        "url": "/wiki/Lil_Wayne"
+    }, 
+    "Lil Yachty": {
+        "edges": {
+            "Chance the Rapper": 1, 
+            "Kanye West": 1, 
+            "Soulja Boy": 1
+        }, 
+        "url": "/wiki/Lil_Yachty"
+    }, 
+    "Lil' Kim": {
+        "edges": {
+            "50 Cent": 2, 
+            "DMX (rapper)": 1, 
+            "Eminem": 1, 
+            "Fabolous": 2, 
+            "Fat Joe": 1, 
+            "French Montana": 1, 
+            "Iggy Azalea": 2, 
+            "Jadakiss": 2, 
+            "Ludacris": 1, 
+            "MC Lyte": 2, 
+            "Nas": 1, 
+            "Nicki Minaj": 1, 
+            "Remy Ma": 2, 
+            "Rick Ross": 1, 
+            "Sean Combs": 4, 
+            "Shawty Lo": 1, 
+            "Styles P": 1, 
+            "T-Pain": 1, 
+            "The Lady of Rage": 1, 
+            "Tiffany Foxx": 1, 
+            "Timbaland": 1, 
+            "Twista": 1, 
+            "Wyclef Jean": 1, 
+            "Yo Gotti": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Lil%27_Kim"
+    }, 
+    "Locksmith (rapper)": {
+        "edges": {
+            "Hopsin": 1, 
+            "Jarren Benton": 2, 
+            "Joe Budden": 1
+        }, 
+        "url": "/wiki/Locksmith_(rapper)"
+    }, 
+    "Ludacris": {
+        "edges": {
+            "2 Chainz": 1, 
+            "50 Cent": 1, 
+            "Beanie Sigel": 1, 
+            "Big Boi": 2, 
+            "Big K.R.I.T.": 1, 
+            "Bun B": 1, 
+            "Common (rapper)": 1, 
+            "DJ Quik": 1, 
+            "DMX (rapper)": 1, 
+            "French Montana": 1, 
+            "Kanye West": 3, 
+            "Lil Jon": 3, 
+            "Lil Wayne": 1, 
+            "Mystikal": 1, 
+            "Nas": 2, 
+            "Pharrell Williams": 2, 
+            "Plies (rapper)": 2, 
+            "Queen Latifah": 3, 
+            "Snoop Dogg": 1, 
+            "T-Pain": 4, 
+            "T.I.": 3, 
+            "The Game (rapper)": 1, 
+            "Timbaland": 2, 
+            "Willy Northpole": 1, 
+            "Wiz Khalifa": 1, 
+            "Young Jeezy": 3
+        }, 
+        "url": "/wiki/Ludacris"
+    }, 
+    "Lupe Fiasco": {
+        "edges": {
+            "B.o.B": 2, 
+            "Big K.R.I.T.": 1, 
+            "Charles Hamilton (rapper)": 1, 
+            "Common (rapper)": 2, 
+            "Diggy Simmons": 1, 
+            "Ice Cube": 1, 
+            "J. Cole": 2, 
+            "Kanye West": 4, 
+            "Lil Wayne": 1, 
+            "Mos Def": 2, 
+            "Nas": 2, 
+            "Pharrell Williams": 3, 
+            "Rick Ross": 1, 
+            "Stalley": 1, 
+            "Talib Kweli": 1, 
+            "Wale (rapper)": 1
+        }, 
+        "url": "/wiki/Lupe_Fiasco"
+    }, 
+    "Luther Campbell": {
+        "edges": {
+            "Lil Jon": 1
+        }, 
+        "url": "/wiki/Luther_Campbell"
+    }, 
+    "MC Hammer": {
+        "edges": {
+            "Busta Rhymes": 1, 
+            "Chamillionaire": 1, 
+            "DJ Khaled": 1, 
+            "Doug E. Fresh": 5, 
+            "Eminem": 2, 
+            "Ice Cube": 1, 
+            "Juvenile (rapper)": 1, 
+            "Kanye West": 1, 
+            "LL Cool J": 2, 
+            "Lil Jon": 2, 
+            "Mystikal": 1, 
+            "Redman (rapper)": 1, 
+            "Rick Ross": 3, 
+            "Sean Combs": 3, 
+            "Shock G": 1, 
+            "Snoop Dogg": 1, 
+            "Swizz Beatz": 1
+        }, 
+        "url": "/wiki/MC_Hammer"
+    }, 
+    "MC Lyte": {
+        "edges": {
+            "Common (rapper)": 1, 
+            "Jermaine Dupri": 1, 
+            "Lil' Kim": 1, 
+            "Remy Ma": 1, 
+            "Sean Combs": 1, 
+            "Wyclef Jean": 1
+        }, 
+        "url": "/wiki/MC_Lyte"
+    }, 
+    "Mac Miller": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Ab-Soul": 2, 
+            "Action Bronson": 1, 
+            "Casey Veggies": 1, 
+            "Jay Electronica": 1, 
+            "Lil Wayne": 1, 
+            "Pharrell Williams": 2, 
+            "Rapsody": 1, 
+            "Schoolboy Q": 2, 
+            "Talib Kweli": 1, 
+            "Vince Staples": 3, 
+            "Wiz Khalifa": 4
+        }, 
+        "url": "/wiki/Mac_Miller"
+    }, 
+    "Mannie Fresh": {
+        "edges": {
+            "B.G. (rapper)": 1, 
+            "Birdman (rapper)": 3, 
+            "Juvenile (rapper)": 1, 
+            "Lil Jon": 1, 
+            "Lil Wayne": 2, 
+            "Mos Def": 1, 
+            "Mystikal": 1, 
+            "Rick Ross": 1, 
+            "T.I.": 1
+        }, 
+        "url": "/wiki/Mannie_Fresh"
+    }, 
+    "Meek Mill": {
+        "edges": {
+            "50 Cent": 1, 
+            "Akon": 1, 
+            "Beanie Sigel": 1, 
+            "Big K.R.I.T.": 1, 
+            "Big Sean": 1, 
+            "Cassidy (rapper)": 1, 
+            "DJ Drama": 2, 
+            "DJ Khaled": 1, 
+            "Fabolous": 1, 
+            "Fat Joe": 1, 
+            "French Montana": 1, 
+            "Future (rapper)": 3, 
+            "J. Cole": 1, 
+            "Jadakiss": 2, 
+            "Jay Electronica": 1, 
+            "Joe Budden": 1, 
+            "Kendrick Lamar": 1, 
+            "Lil Uzi Vert": 1, 
+            "Lil Wayne": 1, 
+            "Mac Miller": 1, 
+            "Nas": 1, 
+            "Nicki Minaj": 4, 
+            "Pusha T": 1, 
+            "Remy Ma": 1, 
+            "Rick Ross": 8, 
+            "Swizz Beatz": 1, 
+            "T.I.": 2, 
+            "The Game (rapper)": 1, 
+            "Vado (rapper)": 1, 
+            "Waka Flocka Flame": 1, 
+            "Wale (rapper)": 4, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/Meek_Mill"
+    }, 
+    "Metro Boomin": {
+        "edges": {
+            "2 Chainz": 1, 
+            "21 Savage": 4, 
+            "Ace Hood": 1, 
+            "Big Sean": 2, 
+            "Future (rapper)": 6, 
+            "Gucci Mane": 4, 
+            "Juicy J": 2, 
+            "Kanye West": 3, 
+            "Lil Uzi Vert": 3, 
+            "Lil Wayne": 2, 
+            "Ludacris": 1, 
+            "Meek Mill": 1, 
+            "Nicki Minaj": 1, 
+            "Rich Homie Quan": 1, 
+            "Wiz Khalifa": 1, 
+            "YG (rapper)": 1, 
+            "Yo Gotti": 1, 
+            "Young Jeezy": 1, 
+            "Young Thug": 3
+        }, 
+        "url": "/wiki/Metro_Boomin"
+    }, 
+    "Mickey Factz": {
+        "edges": {
+            "Big Sean": 1, 
+            "Lupe Fiasco": 1
+        }, 
+        "url": "/wiki/Mickey_Factz"
+    }, 
+    "Mike Will Made It": {
+        "edges": {
+            "2 Chainz": 2, 
+            "21 Savage": 1, 
+            "B.o.B": 1, 
+            "Big Sean": 1, 
+            "Busta Rhymes": 1, 
+            "DJ Drama": 1, 
+            "Dr. Dre": 1, 
+            "Fabolous": 1, 
+            "French Montana": 1, 
+            "Future (rapper)": 5, 
+            "Gucci Mane": 3, 
+            "Juicy J": 3, 
+            "Kanye West": 1, 
+            "Kendrick Lamar": 2, 
+            "Lil Wayne": 4, 
+            "Lil Yachty": 1, 
+            "Ludacris": 1, 
+            "Mac Miller": 1, 
+            "Meek Mill": 1, 
+            "Nicki Minaj": 2, 
+            "Pharrell Williams": 1, 
+            "Pusha T": 1, 
+            "Rick Ross": 2, 
+            "Rocko (rapper)": 1, 
+            "Sean Combs": 1, 
+            "T.I.": 1, 
+            "Timbaland": 1, 
+            "Waka Flocka Flame": 2, 
+            "Wiz Khalifa": 3, 
+            "YG (rapper)": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Mike_Will_Made_It"
+    }, 
+    "Money-B": {
+        "edges": {
+            "Shock G": 1
+        }, 
+        "url": "/wiki/Money-B"
+    }, 
+    "Mos Def": {
+        "edges": {
+            "Busta Rhymes": 1, 
+            "Common (rapper)": 1, 
+            "Jay Electronica": 1, 
+            "Jim Jones (rapper)": 1, 
+            "K'naan": 1, 
+            "Kanye West": 7, 
+            "Kendrick Lamar": 1, 
+            "Lupe Fiasco": 1, 
+            "Mannie Fresh": 3, 
+            "Saigon (rapper)": 1, 
+            "Talib Kweli": 7
+        }, 
+        "url": "/wiki/Mos_Def"
+    }, 
+    "Ms. Jade": {
+        "edges": {
+            "Freeway (rapper)": 1, 
+            "Timbaland": 1
+        }, 
+        "url": "/wiki/Ms._Jade"
+    }, 
+    "Mystikal": {
+        "edges": {
+            "B.G. (rapper)": 1, 
+            "Birdman (rapper)": 1, 
+            "Busta Rhymes": 2, 
+            "Doug E. Fresh": 1, 
+            "Krayzie Bone": 1, 
+            "LL Cool J": 1, 
+            "Lil Wayne": 4, 
+            "Ludacris": 2, 
+            "Mannie Fresh": 1, 
+            "Pharrell Williams": 1, 
+            "Snoop Dogg": 1, 
+            "Tech N9ne": 1
+        }, 
+        "url": "/wiki/Mystikal"
+    }, 
+    "Nas": {
+        "edges": {
+            "50 Cent": 1, 
+            "Common (rapper)": 1, 
+            "DJ Khaled": 1, 
+            "Dave East": 1, 
+            "Dr. Dre": 2, 
+            "Eminem": 1, 
+            "Jadakiss": 1, 
+            "KRS-One": 1, 
+            "Lil Jon": 1, 
+            "Ludacris": 1, 
+            "Raekwon": 1, 
+            "Rakim": 4, 
+            "Sean Combs": 1, 
+            "Timbaland": 1
+        }, 
+        "url": "/wiki/Nas"
+    }, 
+    "Nelly": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Akon": 4, 
+            "Birdman (rapper)": 1, 
+            "DJ Khaled": 1, 
+            "Jermaine Dupri": 3, 
+            "Nicki Minaj": 1, 
+            "Plies (rapper)": 1, 
+            "Rick Ross": 1, 
+            "Sean Combs": 1, 
+            "T-Pain": 3, 
+            "T.I.": 3
+        }, 
+        "url": "/wiki/Nelly"
+    }, 
+    "Nick Cannon": {
+        "edges": {
+            "Akon": 1, 
+            "Big Boi": 1, 
+            "Busta Rhymes": 1, 
+            "Cory Gunz": 1, 
+            "Eminem": 2, 
+            "Fabolous": 1, 
+            "Fat Joe": 1, 
+            "Future (rapper)": 2, 
+            "Soulja Boy": 1, 
+            "Tyga": 1
+        }, 
+        "url": "/wiki/Nick_Cannon"
+    }, 
+    "Nicki Minaj": {
+        "edges": {
+            "Big Sean": 1, 
+            "Birdman (rapper)": 1, 
+            "Busta Rhymes": 1, 
+            "Eminem": 2, 
+            "Gucci Mane": 1, 
+            "Ice Cube": 1, 
+            "Jadakiss": 1, 
+            "Kanye West": 3, 
+            "Lil Wayne": 6, 
+            "Lil' Kim": 3, 
+            "Ludacris": 1, 
+            "Meek Mill": 2, 
+            "Remy Ma": 3, 
+            "Tyga": 1, 
+            "Yo Gotti": 2
+        }, 
+        "url": "/wiki/Nicki_Minaj"
+    }, 
+    "Nipsey Hussle": {
+        "edges": {
+            "Big Sean": 1, 
+            "DJ Drama": 1, 
+            "DJ Mustard": 1, 
+            "Dom Kennedy": 3, 
+            "Dr. Dre": 1, 
+            "Freeway (rapper)": 1, 
+            "Jay Rock": 1, 
+            "Problem (rapper)": 1, 
+            "Rick Ross": 3, 
+            "Snoop Dogg": 2, 
+            "Tyga": 1, 
+            "YG (rapper)": 3
+        }, 
+        "url": "/wiki/Nipsey_Hussle"
+    }, 
+    "Omarion": {
+        "edges": {
+            "Bow Wow (rapper)": 4, 
+            "DJ Drama": 1, 
+            "Gucci Mane": 1, 
+            "Lil Mama": 1, 
+            "Lil Wayne": 2, 
+            "Rick Ross": 2, 
+            "T-Pain": 1, 
+            "Timbaland": 1, 
+            "Yung Joc": 1
+        }, 
+        "url": "/wiki/Omarion"
+    }, 
+    "Omillio Sparks": {
+        "edges": {
+            "Beanie Sigel": 3, 
+            "Freeway (rapper)": 2, 
+            "Juelz Santana": 1, 
+            "Kanye West": 1
+        }, 
+        "url": "/wiki/Omillio_Sparks"
+    }, 
+    "Papoose (rapper)": {
+        "edges": {
+            "Busta Rhymes": 1, 
+            "Fat Joe": 1, 
+            "French Montana": 1, 
+            "Remy Ma": 4
+        }, 
+        "url": "/wiki/Papoose_(rapper)"
+    }, 
+    "Pharrell Williams": {
+        "edges": {
+            "50 Cent": 1, 
+            "Busta Rhymes": 1, 
+            "Future (rapper)": 1, 
+            "Kanye West": 2, 
+            "Lil Jon": 1, 
+            "Ludacris": 1, 
+            "Lupe Fiasco": 1, 
+            "Mac Miller": 1, 
+            "Mike Will Made It": 1, 
+            "Nelly": 1, 
+            "Pusha T": 2, 
+            "Rakim": 1, 
+            "Snoop Dogg": 3, 
+            "T-Pain": 1, 
+            "T.I.": 2
+        }, 
+        "url": "/wiki/Pharrell_Williams"
+    }, 
+    "Pill (rapper)": {
+        "edges": {
+            "DJ Drama": 1, 
+            "J. Cole": 1, 
+            "Jay Rock": 1, 
+            "Nipsey Hussle": 1, 
+            "Rick Ross": 1, 
+            "Tech N9ne": 1, 
+            "Wale (rapper)": 1, 
+            "Yelawolf": 1
+        }, 
+        "url": "/wiki/Pill_(rapper)"
+    }, 
+    "Plies (rapper)": {
+        "edges": {
+            "Ace Hood": 1, 
+            "Akon": 3, 
+            "DJ Khaled": 3, 
+            "Fat Joe": 1, 
+            "Gucci Mane": 1, 
+            "Lil Wayne": 1, 
+            "Ludacris": 2, 
+            "Rick Ross": 1, 
+            "T-Pain": 5, 
+            "The-Dream": 1, 
+            "Young Jeezy": 3
+        }, 
+        "url": "/wiki/Plies_(rapper)"
+    }, 
+    "Problem (rapper)": {
+        "edges": {
+            "DJ Quik": 2, 
+            "E-40": 3, 
+            "Eminem": 1, 
+            "Jim Jones (rapper)": 1, 
+            "Juvenile (rapper)": 1, 
+            "Kendrick Lamar": 1, 
+            "Kurupt": 1, 
+            "Lil Wayne": 1, 
+            "Nas": 1, 
+            "Nipsey Hussle": 1, 
+            "Omarion": 1, 
+            "Pharrell Williams": 1, 
+            "Snoop Dogg": 2, 
+            "T.I.": 1, 
+            "Talib Kweli": 1, 
+            "Tyga": 1, 
+            "Wale (rapper)": 1, 
+            "Wiz Khalifa": 2, 
+            "YG (rapper)": 1
+        }, 
+        "url": "/wiki/Problem_(rapper)"
+    }, 
+    "Pusha T": {
+        "edges": {
+            "2 Chainz": 2, 
+            "Ace Hood": 1, 
+            "Beanie Sigel": 1, 
+            "Big Sean": 2, 
+            "Birdman (rapper)": 1, 
+            "Busta Rhymes": 1, 
+            "Future (rapper)": 1, 
+            "Joell Ortiz": 1, 
+            "Kanye West": 5, 
+            "Lil Wayne": 1, 
+            "Ludacris": 1, 
+            "Pharrell Williams": 2, 
+            "Raekwon": 1, 
+            "Styles P": 1, 
+            "Swizz Beatz": 3, 
+            "The-Dream": 2, 
+            "Timbaland": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Pusha_T"
+    }, 
+    "Queen Latifah": {
+        "edges": {
+            "KRS-One": 1, 
+            "LL Cool J": 2, 
+            "Lil' Kim": 1, 
+            "Ludacris": 2, 
+            "Remy Ma": 1
+        }, 
+        "url": "/wiki/Queen_Latifah"
+    }, 
+    "Raekwon": {
+        "edges": {
+            "Beanie Sigel": 1, 
+            "Black Thought": 1, 
+            "Busta Rhymes": 2, 
+            "Dr. Dre": 1, 
+            "Fat Joe": 1, 
+            "Jadakiss": 2, 
+            "Nas": 4
+        }, 
+        "url": "/wiki/Raekwon"
+    }, 
+    "Rahzel": {
+        "edges": {
+            "Black Thought": 1, 
+            "Common (rapper)": 1, 
+            "Rakim": 1, 
+            "Rhymefest": 1
+        }, 
+        "url": "/wiki/Rahzel"
+    }, 
+    "Rakim": {
+        "edges": {
+            "50 Cent": 1, 
+            "DMX (rapper)": 1, 
+            "Dr. Dre": 5, 
+            "Eminem": 2, 
+            "KRS-One": 3, 
+            "LL Cool J": 1, 
+            "Nas": 2, 
+            "Pharrell Williams": 1, 
+            "Raekwon": 1
+        }, 
+        "url": "/wiki/Rakim"
+    }, 
+    "Rapsody": {
+        "edges": {
+            "Ab-Soul": 1, 
+            "Action Bronson": 1, 
+            "Big K.R.I.T.": 2, 
+            "Buckshot (rapper)": 1, 
+            "Freeway (rapper)": 1, 
+            "Jean Grae": 1, 
+            "Kendrick Lamar": 3, 
+            "MC Lyte": 1, 
+            "Mac Miller": 4, 
+            "Mos Def": 1, 
+            "Raekwon": 1, 
+            "Talib Kweli": 1
+        }, 
+        "url": "/wiki/Rapsody"
+    }, 
+    "Ras Kass": {
+        "edges": {
+            "Crooked I": 2, 
+            "Dr. Dre": 2, 
+            "Freeway (rapper)": 1, 
+            "Ice Cube": 1, 
+            "Jadakiss": 1, 
+            "KRS-One": 1, 
+            "Kendrick Lamar": 1, 
+            "Kurupt": 3, 
+            "Mystikal": 1, 
+            "Rakim": 1, 
+            "Scarface (rapper)": 1, 
+            "Talib Kweli": 1, 
+            "The Game (rapper)": 1, 
+            "Twista": 1, 
+            "Xzibit": 3
+        }, 
+        "url": "/wiki/Ras_Kass"
+    }, 
+    "Redman (rapper)": {
+        "edges": {
+            "Eminem": 1, 
+            "Erick Sermon": 1
+        }, 
+        "url": "/wiki/Redman_(rapper)"
+    }, 
+    "Remy Ma": {
+        "edges": {
+            "Fat Joe": 3, 
+            "French Montana": 2, 
+            "Nicki Minaj": 1, 
+            "Papoose (rapper)": 4, 
+            "Queen Latifah": 1
+        }, 
+        "url": "/wiki/Remy_Ma"
+    }, 
+    "Rhymefest": {
+        "edges": {
+            "Common (rapper)": 2, 
+            "Eminem": 1, 
+            "Kanye West": 4, 
+            "Lil Jon": 1, 
+            "Nick Cannon": 1
+        }, 
+        "url": "/wiki/Rhymefest"
+    }, 
+    "Rich Boy": {
+        "edges": {
+            "Dr. Dre": 1, 
+            "Jermaine Dupri": 1
+        }, 
+        "url": "/wiki/Rich_Boy"
+    }, 
+    "Rich Homie Quan": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Birdman (rapper)": 2, 
+            "Future (rapper)": 1, 
+            "Gucci Mane": 3, 
+            "Lil Wayne": 1, 
+            "Problem (rapper)": 2, 
+            "T.I.": 2, 
+            "Wiz Khalifa": 1, 
+            "YG (rapper)": 1, 
+            "Yo Gotti": 1, 
+            "Young Jeezy": 2, 
+            "Young Thug": 3
+        }, 
+        "url": "/wiki/Rich_Homie_Quan"
+    }, 
+    "Rick Ross": {
+        "edges": {
+            "50 Cent": 1, 
+            "Birdman (rapper)": 1, 
+            "DJ Khaled": 5, 
+            "Dr. Dre": 1, 
+            "Erick Sermon": 1, 
+            "French Montana": 1, 
+            "Future (rapper)": 1, 
+            "Kanye West": 1, 
+            "Lil Wayne": 2, 
+            "Meek Mill": 4, 
+            "Nelly": 1, 
+            "Rocko (rapper)": 1, 
+            "Sean Combs": 3, 
+            "Stalley": 1, 
+            "T-Pain": 2, 
+            "The Game (rapper)": 1, 
+            "Wale (rapper)": 1
+        }, 
+        "url": "/wiki/Rick_Ross"
+    }, 
+    "Rittz": {
+        "edges": {
+            "Big K.R.I.T.": 1, 
+            "Jon Connor": 1, 
+            "Rapsody": 1, 
+            "Tech N9ne": 3, 
+            "Wax (rapper)": 1, 
+            "Yelawolf": 2
+        }, 
+        "url": "/wiki/Rittz"
+    }, 
+    "Rocko (rapper)": {
+        "edges": {
+            "Drumma Boy": 2, 
+            "Future (rapper)": 8, 
+            "Gucci Mane": 1, 
+            "Nas": 1, 
+            "Rick Ross": 3, 
+            "T.I.": 1, 
+            "Young Dro": 1
+        }, 
+        "url": "/wiki/Rocko_(rapper)"
+    }, 
+    "Roscoe Dash": {
+        "edges": {
+            "Big Sean": 1, 
+            "French Montana": 1, 
+            "Future (rapper)": 1, 
+            "Hopsin": 1, 
+            "Iggy Azalea": 1, 
+            "Kid Ink": 1, 
+            "Meek Mill": 2, 
+            "Soulja Boy": 1, 
+            "Waka Flocka Flame": 2
+        }, 
+        "url": "/wiki/Roscoe_Dash"
+    }, 
+    "Royce da 5'9\"": {
+        "edges": {
+            "50 Cent": 1, 
+            "Big Sean": 1, 
+            "Crooked I": 2, 
+            "Dr. Dre": 3, 
+            "Eminem": 6, 
+            "Joe Budden": 3, 
+            "Joell Ortiz": 3, 
+            "Nas": 1, 
+            "Ras Kass": 1, 
+            "Redman (rapper)": 1, 
+            "Sean Combs": 2, 
+            "Yelawolf": 1
+        }, 
+        "url": "/wiki/Royce_da_5%279%22"
+    }, 
+    "Saigon (rapper)": {
+        "edges": {
+            "Action Bronson": 1, 
+            "Bun B": 2, 
+            "Cassidy (rapper)": 1, 
+            "Chamillionaire": 1, 
+            "Freeway (rapper)": 1, 
+            "Jadakiss": 1, 
+            "Joell Ortiz": 3, 
+            "Kanye West": 1, 
+            "Lecrae": 1, 
+            "Papoose (rapper)": 2, 
+            "Raekwon": 1, 
+            "Rhymefest": 1, 
+            "Styles P": 1, 
+            "Swizz Beatz": 1, 
+            "Termanology": 3
+        }, 
+        "url": "/wiki/Saigon_(rapper)"
+    }, 
+    "Scarface (rapper)": {
+        "edges": {
+            "Akon": 1, 
+            "Beanie Sigel": 2, 
+            "Eminem": 1, 
+            "Freeway (rapper)": 1, 
+            "Ice Cube": 2, 
+            "Ludacris": 1, 
+            "Nas": 1, 
+            "Tech N9ne": 1
+        }, 
+        "url": "/wiki/Scarface_(rapper)"
+    }, 
+    "Schoolboy Q": {
+        "edges": {
+            "50 Cent": 2, 
+            "Ab-Soul": 4, 
+            "Isaiah Rashad": 3, 
+            "Jay Rock": 4, 
+            "Kanye West": 2, 
+            "Kendrick Lamar": 6, 
+            "Kurupt": 1, 
+            "Mac Miller": 3, 
+            "Nas": 1, 
+            "Sean Combs": 1, 
+            "Snoop Dogg": 1, 
+            "Tyga": 3, 
+            "Vince Staples": 1, 
+            "Wiz Khalifa": 1
+        }, 
+        "url": "/wiki/Schoolboy_Q"
+    }, 
+    "Sean Combs": {
+        "edges": {
+            "50 Cent": 2, 
+            "Busta Rhymes": 2, 
+            "DJ Khaled": 1, 
+            "Fabolous": 1, 
+            "Fat Joe": 1, 
+            "French Montana": 2, 
+            "LL Cool J": 1, 
+            "Lil' Kim": 2, 
+            "Nas": 1, 
+            "Nelly": 1, 
+            "Pharrell Williams": 2, 
+            "Rick Ross": 2
+        }, 
+        "url": "/wiki/Sean_Combs"
+    }, 
+    "Shawty Lo": {
+        "edges": {
+            "50 Cent": 4, 
+            "Ace Hood": 1, 
+            "Birdman (rapper)": 1, 
+            "Bun B": 1, 
+            "DJ Khaled": 1, 
+            "Gucci Mane": 4, 
+            "Jadakiss": 1, 
+            "Jim Jones (rapper)": 1, 
+            "Lil Wayne": 1, 
+            "Lil' Kim": 1, 
+            "Ludacris": 2, 
+            "Plies (rapper)": 1, 
+            "T-Pain": 1, 
+            "T.I.": 2, 
+            "The-Dream": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Shawty_Lo"
+    }, 
+    "Shock G": {
+        "edges": {
+            "Dr. Dre": 1, 
+            "E-40": 1, 
+            "Money-B": 3
+        }, 
+        "url": "/wiki/Shock_G"
+    }, 
+    "Snoop Dogg": {
+        "edges": {
+            "50 Cent": 1, 
+            "DJ Drama": 1, 
+            "David Banner": 1, 
+            "Dr. Dre": 3, 
+            "E-40": 2, 
+            "Eminem": 1, 
+            "Ice Cube": 1, 
+            "Kendrick Lamar": 1, 
+            "Kurupt": 2, 
+            "Lil Jon": 2, 
+            "Pharrell Williams": 1, 
+            "Tech N9ne": 1, 
+            "The Lady of Rage": 1, 
+            "The-Dream": 1, 
+            "Wiz Khalifa": 2, 
+            "Xzibit": 1
+        }, 
+        "url": "/wiki/Snoop_Dogg"
+    }, 
+    "Snow Tha Product": {
+        "edges": {
+            "50 Cent": 1, 
+            "Busta Rhymes": 1, 
+            "Crooked I": 2, 
+            "Eminem": 1, 
+            "Joell Ortiz": 1, 
+            "Ludacris": 1, 
+            "Lupe Fiasco": 1, 
+            "Tech N9ne": 3
+        }, 
+        "url": "/wiki/Snow_Tha_Product"
+    }, 
+    "Soulja Boy": {
+        "edges": {
+            "50 Cent": 1, 
+            "Birdman (rapper)": 2, 
+            "Bow Wow (rapper)": 3, 
+            "Busta Rhymes": 1, 
+            "Charles Hamilton (rapper)": 1, 
+            "Eminem": 1, 
+            "Gucci Mane": 1, 
+            "Hopsin": 1, 
+            "Ice Cube": 1, 
+            "Kanye West": 5, 
+            "Lil Wayne": 5, 
+            "Lupe Fiasco": 1, 
+            "MC Hammer": 1, 
+            "Nick Cannon": 1, 
+            "Nicki Minaj": 2, 
+            "Rakim": 1, 
+            "Sean Combs": 1, 
+            "T-Pain": 1, 
+            "Troy Ave": 1, 
+            "Wiz Khalifa": 1, 
+            "Young Thug": 1
+        }, 
+        "url": "/wiki/Soulja_Boy"
+    }, 
+    "Stalley": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Chevy Woods": 1, 
+            "Meek Mill": 2, 
+            "Pharrell Williams": 1, 
+            "Ras Kass": 1, 
+            "Rick Ross": 8, 
+            "Scarface (rapper)": 3, 
+            "Schoolboy Q": 1, 
+            "Wale (rapper)": 3
+        }, 
+        "url": "/wiki/Stalley"
+    }, 
+    "Stat Quo": {
+        "edges": {
+            "50 Cent": 3, 
+            "Busta Rhymes": 1, 
+            "Chamillionaire": 1, 
+            "Dr. Dre": 8, 
+            "Eminem": 5, 
+            "Jermaine Dupri": 1, 
+            "Ludacris": 1, 
+            "Scarface (rapper)": 1, 
+            "Talib Kweli": 1, 
+            "The Game (rapper)": 2, 
+            "Wiz Khalifa": 1
+        }, 
+        "url": "/wiki/Stat_Quo"
+    }, 
+    "Styles P": {
+        "edges": {
+            "Akon": 1, 
+            "Jadakiss": 2, 
+            "Sean Combs": 1, 
+            "Swizz Beatz": 1
+        }, 
+        "url": "/wiki/Styles_P"
+    }, 
+    "Swizz Beatz": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Busta Rhymes": 2, 
+            "Cassidy (rapper)": 5, 
+            "DMX (rapper)": 3, 
+            "Dr. Dre": 1, 
+            "Jadakiss": 2, 
+            "Kanye West": 4, 
+            "Lil Wayne": 2, 
+            "Ludacris": 3, 
+            "Nas": 1, 
+            "Nicki Minaj": 1, 
+            "Plies (rapper)": 1, 
+            "Pusha T": 1, 
+            "Rakim": 1, 
+            "Rick Ross": 2, 
+            "Styles P": 1, 
+            "T.I.": 3
+        }, 
+        "url": "/wiki/Swizz_Beatz"
+    }, 
+    "T-Pain": {
+        "edges": {
+            "50 Cent": 2, 
+            "Ace Hood": 1, 
+            "Akon": 3, 
+            "B.o.B": 1, 
+            "Bow Wow (rapper)": 2, 
+            "Bun B": 1, 
+            "DJ Khaled": 3, 
+            "DJ Mustard": 1, 
+            "Fabolous": 1, 
+            "Gucci Mane": 1, 
+            "Juicy J": 2, 
+            "Kanye West": 10, 
+            "Lil Jon": 1, 
+            "Lil Mama": 2, 
+            "Lil Wayne": 9, 
+            "Lil Yachty": 1, 
+            "Lil' Kim": 1, 
+            "Ludacris": 4, 
+            "Nelly": 1, 
+            "Omarion": 1, 
+            "Pharrell Williams": 1, 
+            "Plies (rapper)": 2, 
+            "Rick Ross": 1, 
+            "Snoop Dogg": 3, 
+            "T.I.": 2, 
+            "Tech N9ne": 1, 
+            "Twista": 1, 
+            "Wiz Khalifa": 1, 
+            "Young Jeezy": 1, 
+            "Yung Joc": 2
+        }, 
+        "url": "/wiki/T-Pain"
+    }, 
+    "T.I.": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Akon": 1, 
+            "B.G. (rapper)": 1, 
+            "B.o.B": 8, 
+            "Big Boi": 2, 
+            "Big K.R.I.T.": 2, 
+            "Birdman (rapper)": 1, 
+            "Bow Wow (rapper)": 1, 
+            "Bun B": 2, 
+            "Busta Rhymes": 1, 
+            "Cassidy (rapper)": 1, 
+            "DJ Drama": 2, 
+            "DJ Khaled": 1, 
+            "DJ Mustard": 1, 
+            "David Banner": 1, 
+            "Dr. Dre": 4, 
+            "Eminem": 2, 
+            "Fat Joe": 2, 
+            "French Montana": 1, 
+            "Future (rapper)": 1, 
+            "Gucci Mane": 1, 
+            "Iggy Azalea": 6, 
+            "J. Cole": 1, 
+            "Kanye West": 6, 
+            "Kendrick Lamar": 2, 
+            "Lil Jon": 1, 
+            "Lil Wayne": 9, 
+            "Lil' Kim": 1, 
+            "Ludacris": 2, 
+            "Mannie Fresh": 1, 
+            "Meek Mill": 2, 
+            "Nelly": 3, 
+            "Nicki Minaj": 1, 
+            "Pharrell Williams": 6, 
+            "Rick Ross": 2, 
+            "Sean Combs": 2, 
+            "Shawty Lo": 2, 
+            "Soulja Boy": 1, 
+            "Swizz Beatz": 2, 
+            "Twista": 1, 
+            "Wyclef Jean": 1, 
+            "Yelawolf": 1, 
+            "Young Dro": 3, 
+            "Young Jeezy": 5, 
+            "Young Thug": 2, 
+            "Yung Joc": 1
+        }, 
+        "url": "/wiki/T.I."
+    }, 
+    "Talib Kweli": {
+        "edges": {
+            "Black Thought": 2, 
+            "Buckshot (rapper)": 1, 
+            "Bun B": 1, 
+            "Busta Rhymes": 2, 
+            "Common (rapper)": 3, 
+            "DJ Quik": 1, 
+            "J. Cole": 2, 
+            "Jay Electronica": 1, 
+            "Jean Grae": 1, 
+            "KRS-One": 1, 
+            "Kanye West": 5, 
+            "Kendrick Lamar": 3, 
+            "Lupe Fiasco": 1, 
+            "Mos Def": 8, 
+            "Nelly": 1, 
+            "Nick Cannon": 1, 
+            "Pharrell Williams": 1, 
+            "Raekwon": 1, 
+            "Rapsody": 1, 
+            "Ras Kass": 1
+        }, 
+        "url": "/wiki/Talib_Kweli"
+    }, 
+    "Tech N9ne": {
+        "edges": {
+            "2 Chainz": 1, 
+            "B.o.B": 4, 
+            "Big K.R.I.T.": 2, 
+            "Busta Rhymes": 1, 
+            "Dr. Dre": 1, 
+            "E-40": 3, 
+            "Eminem": 3, 
+            "Hopsin": 2, 
+            "Jarren Benton": 1, 
+            "Jay Rock": 1, 
+            "KRS-One": 1, 
+            "Kendrick Lamar": 2, 
+            "Lil Wayne": 2, 
+            "Rick Ross": 1, 
+            "Rittz": 1, 
+            "Snoop Dogg": 1, 
+            "Snow Tha Product": 2, 
+            "T-Pain": 3, 
+            "T.I.": 1, 
+            "Twista": 3, 
+            "Wiz Khalifa": 1, 
+            "Xzibit": 1, 
+            "Yelawolf": 1, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/Tech_N9ne"
+    }, 
+    "Termanology": {
+        "edges": {
+            "Action Bronson": 1, 
+            "Cory Gunz": 1, 
+            "Kid Ink": 1
+        }, 
+        "url": "/wiki/Termanology"
+    }, 
+    "The Game (rapper)": {
+        "edges": {
+            "50 Cent": 9, 
+            "Big Sean": 1, 
+            "Birdman (rapper)": 2, 
+            "Dr. Dre": 10, 
+            "Fabolous": 2, 
+            "Fat Joe": 1, 
+            "J. Cole": 1, 
+            "Jadakiss": 1, 
+            "Jim Jones (rapper)": 1, 
+            "Juicy J": 1, 
+            "Kanye West": 3, 
+            "Kendrick Lamar": 1, 
+            "Lil Wayne": 4, 
+            "Ludacris": 1, 
+            "Meek Mill": 1, 
+            "Nas": 1, 
+            "Nicki Minaj": 1, 
+            "Nipsey Hussle": 1, 
+            "Plies (rapper)": 1, 
+            "Problem (rapper)": 1, 
+            "Schoolboy Q": 1, 
+            "Sean Combs": 3, 
+            "Snoop Dogg": 3, 
+            "Stat Quo": 2, 
+            "Tyga": 1, 
+            "Wiz Khalifa": 1, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/The_Game_(rapper)"
+    }, 
+    "The Lady of Rage": {
+        "edges": {
+            "Dr. Dre": 4, 
+            "Kurupt": 2, 
+            "LL Cool J": 1, 
+            "MC Lyte": 1, 
+            "Snoop Dogg": 4
+        }, 
+        "url": "/wiki/The_Lady_of_Rage"
+    }, 
+    "The-Dream": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Big Sean": 1, 
+            "Fabolous": 5, 
+            "Kanye West": 4, 
+            "LL Cool J": 1, 
+            "Lil Jon": 1, 
+            "Plies (rapper)": 1, 
+            "Pusha T": 2, 
+            "Rick Ross": 2, 
+            "Sean Combs": 1, 
+            "Snoop Dogg": 1, 
+            "T-Pain": 1, 
+            "T.I.": 1, 
+            "Timbaland": 1, 
+            "Yung Joc": 1
+        }, 
+        "url": "/wiki/The-Dream"
+    }, 
+    "Tiffany Foxx": {
+        "edges": {
+            "Ace Hood": 1, 
+            "Akon": 1, 
+            "Eminem": 1, 
+            "Jim Jones (rapper)": 1, 
+            "Kirko Bangz": 1, 
+            "Lil' Kim": 4, 
+            "Nelly": 3, 
+            "Queen Latifah": 1, 
+            "Shawty Lo": 2, 
+            "Snoop Dogg": 4, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/Tiffany_Foxx"
+    }, 
+    "Timbaland": {
+        "edges": {
+            "50 Cent": 3, 
+            "Akon": 1, 
+            "Big Sean": 1, 
+            "Busta Rhymes": 1, 
+            "Dr. Dre": 1, 
+            "Gucci Mane": 1, 
+            "Kanye West": 2, 
+            "LL Cool J": 1, 
+            "Lil' Kim": 2, 
+            "Ludacris": 3, 
+            "MC Lyte": 1, 
+            "Ms. Jade": 1, 
+            "Nas": 1, 
+            "Omarion": 1, 
+            "Pusha T": 1, 
+            "Rick Ross": 1, 
+            "T-Pain": 3, 
+            "T.I.": 3, 
+            "The Game (rapper)": 1, 
+            "Tink (musician)": 1, 
+            "Xzibit": 1
+        }, 
+        "url": "/wiki/Timbaland"
+    }, 
+    "Tink (musician)": {
+        "edges": {
+            "Future (rapper)": 1, 
+            "Ms. Jade": 1, 
+            "Rick Ross": 1, 
+            "Timbaland": 5
+        }, 
+        "url": "/wiki/Tink_(musician)"
+    }, 
+    "Troy Ave": {
+        "edges": {
+            "50 Cent": 2, 
+            "Fabolous": 1, 
+            "Fat Joe": 1, 
+            "Joey Badass": 2, 
+            "Raekwon": 2, 
+            "Rick Ross": 1, 
+            "Styles P": 1, 
+            "T.I.": 2, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Troy_Ave"
+    }, 
+    "Twista": {
+        "edges": {
+            "Big Boi": 1, 
+            "Busta Rhymes": 1, 
+            "Common (rapper)": 1, 
+            "Kanye West": 5, 
+            "Ludacris": 1, 
+            "Pharrell Williams": 1, 
+            "Raekwon": 1, 
+            "Sean Combs": 1, 
+            "T-Pain": 1, 
+            "Tech N9ne": 1, 
+            "Waka Flocka Flame": 1
+        }, 
+        "url": "/wiki/Twista"
+    }, 
+    "Tyga": {
+        "edges": {
+            "2 Chainz": 3, 
+            "Birdman (rapper)": 1, 
+            "Bow Wow (rapper)": 1, 
+            "DJ Mustard": 1, 
+            "Eminem": 1, 
+            "Fabolous": 1, 
+            "Future (rapper)": 2, 
+            "Jadakiss": 1, 
+            "Kanye West": 5, 
+            "Kevin McCall": 2, 
+            "Kid Ink": 1, 
+            "Lil Wayne": 6, 
+            "Meek Mill": 1, 
+            "Nicki Minaj": 2, 
+            "Rick Ross": 3, 
+            "The Game (rapper)": 1, 
+            "Wiz Khalifa": 1, 
+            "Young Thug": 2
+        }, 
+        "url": "/wiki/Tyga"
+    }, 
+    "Vado (rapper)": {
+        "edges": {
+            "Ace Hood": 3, 
+            "Big Sean": 1, 
+            "Birdman (rapper)": 1, 
+            "Busta Rhymes": 1, 
+            "Cassidy (rapper)": 2, 
+            "DJ Khaled": 4, 
+            "Dave East": 1, 
+            "Fabolous": 1, 
+            "French Montana": 3, 
+            "Joell Ortiz": 1, 
+            "Lil Wayne": 2, 
+            "Papoose (rapper)": 2, 
+            "Raekwon": 1, 
+            "Rick Ross": 2, 
+            "Styles P": 1, 
+            "Twista": 1, 
+            "Waka Flocka Flame": 1, 
+            "Wale (rapper)": 1
+        }, 
+        "url": "/wiki/Vado_(rapper)"
+    }, 
+    "Vic Mensa": {
+        "edges": {
+            "Chance the Rapper": 4, 
+            "Eminem": 1, 
+            "Future (rapper)": 1, 
+            "J. Cole": 1, 
+            "Kanye West": 6, 
+            "Lupe Fiasco": 1, 
+            "Nas": 1, 
+            "Timbaland": 1, 
+            "Twista": 1, 
+            "Wale (rapper)": 1
+        }, 
+        "url": "/wiki/Vic_Mensa"
+    }, 
+    "Vince Staples": {
+        "edges": {
+            "Ab-Soul": 1, 
+            "Isaiah Rashad": 1, 
+            "Mac Miller": 4, 
+            "Schoolboy Q": 2
+        }, 
+        "url": "/wiki/Vince_Staples"
+    }, 
+    "Waka Flocka Flame": {
+        "edges": {
+            "Ace Hood": 1, 
+            "French Montana": 2, 
+            "Future (rapper)": 1, 
+            "Gucci Mane": 5, 
+            "Juvenile (rapper)": 1, 
+            "Lil Wayne": 1, 
+            "Roscoe Dash": 1, 
+            "T.I.": 1, 
+            "Timbaland": 1, 
+            "Wale (rapper)": 1, 
+            "Wyclef Jean": 1, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/Waka_Flocka_Flame"
+    }, 
+    "Wale (rapper)": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Beanie Sigel": 1, 
+            "Big Sean": 2, 
+            "Bun B": 3, 
+            "Drumma Boy": 1, 
+            "French Montana": 1, 
+            "Gucci Mane": 2, 
+            "J. Cole": 6, 
+            "Joell Ortiz": 1, 
+            "K'naan": 1, 
+            "Kanye West": 1, 
+            "Kardinal Offishall": 1, 
+            "Lil Wayne": 1, 
+            "Lupe Fiasco": 1, 
+            "Meek Mill": 1, 
+            "Nipsey Hussle": 1, 
+            "Omarion": 1, 
+            "Pusha T": 3, 
+            "Rhymefest": 1, 
+            "Rick Ross": 3, 
+            "Roscoe Dash": 1, 
+            "Saigon (rapper)": 1, 
+            "Scarface (rapper)": 1, 
+            "Talib Kweli": 1, 
+            "Waka Flocka Flame": 1, 
+            "Wiz Khalifa": 1
+        }, 
+        "url": "/wiki/Wale_(rapper)"
+    }, 
+    "Wax (rapper)": {
+        "edges": {}, 
+        "url": "/wiki/Wax_(rapper)"
+    }, 
+    "Webbie": {
+        "edges": {
+            "Bun B": 2, 
+            "Foxx (rapper)": 3, 
+            "Young Jeezy": 1
+        }, 
+        "url": "/wiki/Webbie"
+    }, 
+    "Willy Northpole": {
+        "edges": {
+            "Ludacris": 1
+        }, 
+        "url": "/wiki/Willy_Northpole"
+    }, 
+    "Wiz Khalifa": {
+        "edges": {
+            "50 Cent": 1, 
+            "Chevy Woods": 1, 
+            "Common (rapper)": 1, 
+            "DJ Mustard": 1, 
+            "David Banner": 1, 
+            "Diggy Simmons": 1, 
+            "Eminem": 1, 
+            "J. Cole": 2, 
+            "Juicy J": 3, 
+            "KRS-One": 1, 
+            "Lil Uzi Vert": 1, 
+            "Mac Miller": 1, 
+            "Mannie Fresh": 1, 
+            "Nicki Minaj": 1, 
+            "Pill (rapper)": 1, 
+            "Rakim": 1, 
+            "Snoop Dogg": 4, 
+            "The Game (rapper)": 1, 
+            "Wale (rapper)": 1, 
+            "YG (rapper)": 1, 
+            "Yelawolf": 2
+        }, 
+        "url": "/wiki/Wiz_Khalifa"
+    }, 
+    "Wyclef Jean": {
+        "edges": {
+            "Akon": 1, 
+            "Lil Wayne": 2, 
+            "Lil' Kim": 1, 
+            "Ludacris": 1, 
+            "T.I.": 1, 
+            "Timbaland": 1, 
+            "Young Thug": 2
+        }, 
+        "url": "/wiki/Wyclef_Jean"
+    }, 
+    "Xzibit": {
+        "edges": {
+            "50 Cent": 3, 
+            "Busta Rhymes": 1, 
+            "DJ Quik": 1, 
+            "Dr. Dre": 4, 
+            "Eminem": 4, 
+            "Ice Cube": 2, 
+            "Kurupt": 1, 
+            "Ras Kass": 1, 
+            "Snoop Dogg": 4, 
+            "T-Pain": 1, 
+            "The Game (rapper)": 1, 
+            "Timbaland": 1
+        }, 
+        "url": "/wiki/Xzibit"
+    }, 
+    "YG (rapper)": {
+        "edges": {
+            "50 Cent": 1, 
+            "DJ Mustard": 2, 
+            "Krayzie Bone": 1, 
+            "Lil Wayne": 1, 
+            "Meek Mill": 1, 
+            "Nicki Minaj": 1, 
+            "Nipsey Hussle": 2, 
+            "Rich Homie Quan": 3, 
+            "Yo Gotti": 1, 
+            "Young Jeezy": 3
+        }, 
+        "url": "/wiki/YG_(rapper)"
+    }, 
+    "Yelawolf": {
+        "edges": {
+            "Big Boi": 1, 
+            "Big K.R.I.T.": 3, 
+            "Eminem": 9, 
+            "Kendrick Lamar": 1, 
+            "Lil Jon": 2, 
+            "Mystikal": 1, 
+            "Raekwon": 1, 
+            "Rittz": 1
+        }, 
+        "url": "/wiki/Yelawolf"
+    }, 
+    "Yo Gotti": {
+        "edges": {
+            "Gucci Mane": 1, 
+            "J. Cole": 1, 
+            "Lil Wayne": 1, 
+            "Nicki Minaj": 1, 
+            "T.I.": 1, 
+            "YG (rapper)": 2, 
+            "Young Jeezy": 2
+        }, 
+        "url": "/wiki/Yo_Gotti"
+    }, 
+    "Young Dro": {
+        "edges": {
+            "Crooked I": 1, 
+            "Joell Ortiz": 1, 
+            "Lupe Fiasco": 1, 
+            "Papoose (rapper)": 1, 
+            "Plies (rapper)": 1, 
+            "Problem (rapper)": 1, 
+            "Rich Boy": 1, 
+            "Saigon (rapper)": 1, 
+            "T.I.": 4
+        }, 
+        "url": "/wiki/Young_Dro"
+    }, 
+    "Young Jeezy": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Akon": 3, 
+            "Birdman (rapper)": 1, 
+            "DJ Drama": 1, 
+            "DJ Mustard": 1, 
+            "E-40": 1, 
+            "Future (rapper)": 1, 
+            "Gucci Mane": 2, 
+            "Kanye West": 1, 
+            "Lil Jon": 1, 
+            "Lil Wayne": 2, 
+            "Ludacris": 2, 
+            "Mannie Fresh": 1, 
+            "Nas": 1, 
+            "Sean Combs": 1, 
+            "T.I.": 2, 
+            "YG (rapper)": 3, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/Young_Jeezy"
+    }, 
+    "Young Thug": {
+        "edges": {
+            "2 Chainz": 1, 
+            "Birdman (rapper)": 5, 
+            "Future (rapper)": 2, 
+            "Gucci Mane": 4, 
+            "Jadakiss": 1, 
+            "Jim Jones (rapper)": 1, 
+            "Kanye West": 3, 
+            "Lil Wayne": 2, 
+            "Ludacris": 1, 
+            "Metro Boomin": 1, 
+            "Mike Will Made It": 1, 
+            "Nicki Minaj": 2, 
+            "Rich Homie Quan": 4, 
+            "Swizz Beatz": 1, 
+            "T.I.": 2, 
+            "Waka Flocka Flame": 3, 
+            "Wale (rapper)": 1
+        }, 
+        "url": "/wiki/Young_Thug"
+    }, 
+    "Yung Joc": {
+        "edges": {
+            "David Banner": 2, 
+            "Gucci Mane": 1, 
+            "Lil Scrappy": 1, 
+            "Sean Combs": 4, 
+            "T-Pain": 2, 
+            "Yo Gotti": 1
+        }, 
+        "url": "/wiki/Yung_Joc"
+    }
+}

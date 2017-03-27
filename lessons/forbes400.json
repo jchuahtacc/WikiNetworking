@@ -1,0 +1,2599 @@
+{
+    "Abigail Johnson": {
+        "edges": {
+            "Bill Gates": 2, 
+            "Christy Walton": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Abigail_Johnson"
+    }, 
+    "Alec Gores": {
+        "edges": {
+            "Tom Gores": 4
+        }, 
+        "url": "/wiki/Alec_Gores"
+    }, 
+    "Alejandro Santo Domingo": {
+        "edges": {
+            "Julio Mario Santo Domingo": 4
+        }, 
+        "url": "/wiki/Alejandro_Santo_Domingo"
+    }, 
+    "Alex Spanos": {
+        "edges": {
+            "Arthur Blank": 1, 
+            "Jeffrey Lurie": 1, 
+            "Jerry Jones": 1, 
+            "Jimmy Haslam": 1, 
+            "Paul Allen": 1, 
+            "Robert Kraft": 1, 
+            "Shahid Khan": 1, 
+            "Terrence Pegula": 1, 
+            "Tom Benson": 1
+        }, 
+        "url": "/wiki/Alexander_Spanos"
+    }, 
+    "Alice Walton": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 2, 
+            "Christy Walton": 5, 
+            "David Tepper": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Johnelle Hunt": 2, 
+            "Lukas Walton": 2, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Nancy Walton Laurie": 3, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "S. Robson Walton": 8, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Alice_Walton"
+    }, 
+    "Amos Hostetter Jr.": {
+        "edges": {}, 
+        "url": "/wiki/Amos_Hostetter"
+    }, 
+    "Amy Goldman Fowler": {
+        "edges": {}, 
+        "url": "/wiki/Amy_Goldman_Fowler"
+    }, 
+    "Amy Wyss": {
+        "edges": {}, 
+        "url": "/wiki/Amy_Wyss"
+    }, 
+    "Andrew Beal": {
+        "edges": {
+            "Donald Trump": 1
+        }, 
+        "url": "/wiki/Andrew_Beal"
+    }, 
+    "Anita Zucker": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Anita_Zucker"
+    }, 
+    "Ann Walton Kroenke": {
+        "edges": {
+            "Alice Walton": 3, 
+            "Christy Walton": 2, 
+            "Jim Walton": 2, 
+            "Lukas Walton": 2, 
+            "Nancy Walton Laurie": 6, 
+            "S. Robson Walton": 3
+        }, 
+        "url": "/wiki/Ann_Walton_Kroenke"
+    }, 
+    "Anthony Pritzker": {
+        "edges": {}, 
+        "url": "/wiki/Anthony_Pritzker"
+    }, 
+    "Archie Aldis Emmerson": {
+        "edges": {}, 
+        "url": "/wiki/Archie_Aldis_Emmerson"
+    }, 
+    "Arte Moreno": {
+        "edges": {
+            "Ted Lerner": 1
+        }, 
+        "url": "/wiki/Arturo_Moreno"
+    }, 
+    "Arthur Blank": {
+        "edges": {
+            "Bernard Marcus": 4, 
+            "Jeffrey Lurie": 2, 
+            "Jerry Jones": 2, 
+            "Jimmy Haslam": 2, 
+            "Paul Allen": 2, 
+            "Robert Kraft": 2, 
+            "Shahid Khan": 2, 
+            "Terrence Pegula": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Arthur_Blank"
+    }, 
+    "Austen Cargill": {
+        "edges": {
+            "Gwendolyn Sontheim Meyer": 1, 
+            "Whitney MacMillan": 1
+        }, 
+        "url": "/wiki/Austen_Cargill"
+    }, 
+    "B. Wayne Hughes": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Anita Zucker": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Tamara Gustavson": 3, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/B._Wayne_Hughes"
+    }, 
+    "Barry Diller": {
+        "edges": {
+            "Rupert Murdoch": 1
+        }, 
+        "url": "/wiki/Barry_Diller"
+    }, 
+    "Bernard Marcus": {
+        "edges": {}, 
+        "url": "/wiki/Bernard_Marcus"
+    }, 
+    "Bill Gates": {
+        "edges": {
+            "Christy Walton": 2, 
+            "David Rockefeller": 1, 
+            "Donald Trump": 2, 
+            "Elon Musk": 1, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Jeff Bezos": 4, 
+            "Mark Zuckerberg": 8, 
+            "Micky Arison": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Bill_Gates"
+    }, 
+    "Bill Gross": {
+        "edges": {}, 
+        "url": "/wiki/Bill_Gross"
+    }, 
+    "Bill Haslam": {
+        "edges": {
+            "Donald Trump": 1, 
+            "Jimmy Haslam": 5
+        }, 
+        "url": "/wiki/Bill_Haslam"
+    }, 
+    "Blair Parry-Okeden": {
+        "edges": {
+            "Katharine Rayner": 1, 
+            "Margaretta Taylor": 1
+        }, 
+        "url": "/wiki/Blair_Parry-Okeden"
+    }, 
+    "Bob Parsons": {
+        "edges": {
+            "Bill Gates": 1, 
+            "Donald Trump": 1, 
+            "Warren Buffett": 2
+        }, 
+        "url": "/wiki/Bob_Parsons"
+    }, 
+    "Brad M. Kelley": {
+        "edges": {
+            "Abigail Johnson": 1, 
+            "Alice Walton": 1, 
+            "Anita Zucker": 1, 
+            "B. Wayne Hughes": 1, 
+            "Bill Gates": 1, 
+            "Bruce Halle": 1, 
+            "Carl Cook": 1, 
+            "Charles Koch": 1, 
+            "Christy Walton": 1, 
+            "David Koch": 1, 
+            "David Tepper": 1, 
+            "Dennis Washington": 1, 
+            "Harold Hamm": 1, 
+            "Jacqueline Mars": 1, 
+            "James Goodnight": 1, 
+            "Jim Walton": 1, 
+            "Larry Ellison": 1, 
+            "Les Wexner": 1, 
+            "Mary Alice Dorrance Malone": 1, 
+            "Micky Arison": 1, 
+            "Phil Knight": 1, 
+            "Pierre Omidyar": 1, 
+            "Ray Dalio": 1, 
+            "Sheldon Adelson": 1, 
+            "T. Denny Sanford": 1, 
+            "Ted Lerner": 1, 
+            "Tom Benson": 1, 
+            "Warren Buffett": 1, 
+            "Whitney MacMillan": 1
+        }, 
+        "url": "/wiki/Brad_Kelley"
+    }, 
+    "Brian Acton": {
+        "edges": {
+            "Jan Koum": 5
+        }, 
+        "url": "/wiki/Brian_Acton"
+    }, 
+    "Brian Chesky": {
+        "edges": {
+            "Bill Gates": 1, 
+            "Nathan Blecharczyk": 1, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Brian_Chesky"
+    }, 
+    "Bruce Halle": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Alice Walton": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Jim Walton": 2, 
+            "Les Wexner": 2, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Sheldon Adelson": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2, 
+            "Warren Buffett": 2, 
+            "Whitney MacMillan": 2
+        }, 
+        "url": "/wiki/Bruce_Halle"
+    }, 
+    "Bruce Karsh": {
+        "edges": {
+            "Eli Broad": 1
+        }, 
+        "url": "/wiki/Bruce_Karsh"
+    }, 
+    "Bruce Kovner": {
+        "edges": {
+            "George Soros": 2, 
+            "Louis Bacon": 2
+        }, 
+        "url": "/wiki/Bruce_Kovner"
+    }, 
+    "Bubba Cathy": {
+        "edges": {}, 
+        "url": "/wiki/Bubba_Cathy"
+    }, 
+    "Carl Cook": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Bill Gates": 2, 
+            "Christy Walton": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Carl_Cook"
+    }, 
+    "Carl Icahn": {
+        "edges": {
+            "Donald Trump": 6, 
+            "Michael Dell": 1
+        }, 
+        "url": "/wiki/Carl_Icahn"
+    }, 
+    "Charles Cohen": {
+        "edges": {}, 
+        "url": "/wiki/Charles_Cohen"
+    }, 
+    "Charles Dolan": {
+        "edges": {}, 
+        "url": "/wiki/Charles_Dolan"
+    }, 
+    "Charles Johnson": {
+        "edges": {}, 
+        "url": "/wiki/Charles_Johnson"
+    }, 
+    "Charles Koch": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 4, 
+            "Carl Cook": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "George Soros": 1, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Jeff Bezos": 2, 
+            "Mark Zuckerberg": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Charles_Koch"
+    }, 
+    "Charles R. Schwab": {
+        "edges": {}, 
+        "url": "/wiki/Charles_Schwab"
+    }, 
+    "Charles Simonyi": {
+        "edges": {
+            "Bill Gates": 2
+        }, 
+        "url": "/wiki/Charles_Simonyi"
+    }, 
+    "Charles Zegar": {
+        "edges": {
+            "Michael Bloomberg": 1
+        }, 
+        "url": "/wiki/Charles_Zegar"
+    }, 
+    "Charlie Ergen": {
+        "edges": {
+            "Abigail Johnson": 1, 
+            "Alice Walton": 1, 
+            "Anita Zucker": 1, 
+            "B. Wayne Hughes": 1, 
+            "Bill Gates": 1, 
+            "Bruce Halle": 1, 
+            "Carl Cook": 1, 
+            "Charles Koch": 1, 
+            "Christy Walton": 1, 
+            "David Koch": 1, 
+            "David Tepper": 1, 
+            "Dennis Washington": 1, 
+            "Harold Hamm": 1, 
+            "Jacqueline Mars": 1, 
+            "James Goodnight": 1, 
+            "Jim Walton": 1, 
+            "Larry Ellison": 1, 
+            "Les Wexner": 1, 
+            "Mary Alice Dorrance Malone": 1, 
+            "Micky Arison": 1, 
+            "Phil Knight": 1, 
+            "Pierre Omidyar": 1, 
+            "Ray Dalio": 1, 
+            "Sheldon Adelson": 1, 
+            "T. Denny Sanford": 1, 
+            "Ted Lerner": 1, 
+            "Tom Benson": 1, 
+            "Warren Buffett": 1, 
+            "Whitney MacMillan": 1
+        }, 
+        "url": "/wiki/Charles_Ergen"
+    }, 
+    "Chase Coleman": {
+        "edges": {}, 
+        "url": "/wiki/Chase_Coleman"
+    }, 
+    "Chris Cline": {
+        "edges": {}, 
+        "url": "/wiki/Christopher_Cline"
+    }, 
+    "Christy Walton": {
+        "edges": {
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2, 
+            "Nancy Walton Laurie": 2, 
+            "S. Robson Walton": 3
+        }, 
+        "url": "/wiki/Christy_Walton"
+    }, 
+    "Clay Mathile": {
+        "edges": {}, 
+        "url": "/wiki/Clayton_Mathile"
+    }, 
+    "Clemmie Spangler": {
+        "edges": {}, 
+        "url": "/wiki/Clemmie_Spangler"
+    }, 
+    "Dagmar Dolby": {
+        "edges": {}, 
+        "url": "/wiki/Dagmar_Dolby"
+    }, 
+    "Dan Friedkin": {
+        "edges": {}, 
+        "url": "/wiki/Dan_Friedkin"
+    }, 
+    "Dan T. Cathy": {
+        "edges": {
+            "Bubba Cathy": 1
+        }, 
+        "url": "/wiki/Dan_Cathy"
+    }, 
+    "Daniel A. D'Aniello": {
+        "edges": {
+            "David Rubenstein": 2
+        }, 
+        "url": "/wiki/Daniel_D'Aniello"
+    }, 
+    "Daniel Gilbert": {
+        "edges": {}, 
+        "url": "/wiki/Daniel_Gilbert"
+    }, 
+    "Daniel M. Ziff": {
+        "edges": {
+            "Daniel Och": 1
+        }, 
+        "url": "/wiki/Daniel_Ziff"
+    }, 
+    "Daniel Och": {
+        "edges": {}, 
+        "url": "/wiki/Daniel_Och"
+    }, 
+    "Daniel Pritzker": {
+        "edges": {}, 
+        "url": "/wiki/Daniel_Pritzker"
+    }, 
+    "Daniel S. Loeb": {
+        "edges": {}, 
+        "url": "/wiki/Daniel_Loeb"
+    }, 
+    "Daniel Snyder (disambiguation)": {
+        "edges": {}, 
+        "url": "/wiki/Dan_Snyder"
+    }, 
+    "Dannine Avara": {
+        "edges": {}, 
+        "url": "/wiki/Dannine_Avara"
+    }, 
+    "David Bonderman": {
+        "edges": {
+            "Robert Bass": 1
+        }, 
+        "url": "/wiki/David_Bonderman"
+    }, 
+    "David Duffield": {
+        "edges": {}, 
+        "url": "/wiki/David_Duffield"
+    }, 
+    "David Filo": {
+        "edges": {
+            "Jerry Yang": 4
+        }, 
+        "url": "/wiki/David_Filo"
+    }, 
+    "David Geffen": {
+        "edges": {
+            "Kenneth Langone": 1, 
+            "Larry Ellison": 2, 
+            "Ronald Lauder": 1, 
+            "Steven Spielberg": 5
+        }, 
+        "url": "/wiki/David_Geffen"
+    }, 
+    "David Green": {
+        "edges": {}, 
+        "url": "/wiki/David_Green"
+    }, 
+    "David H. Murdock": {
+        "edges": {
+            "Larry Ellison": 1
+        }, 
+        "url": "/wiki/David_Murdock"
+    }, 
+    "David Koch": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Alice Walton": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 4, 
+            "Bruce Halle": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 12, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Dennis Washington": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Jeff Bezos": 2, 
+            "Jim Walton": 2, 
+            "Larry Ellison": 4, 
+            "Les Wexner": 2, 
+            "Mark Zuckerberg": 2, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Sheldon Adelson": 2, 
+            "T. Denny Sanford": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2, 
+            "Warren Buffett": 4, 
+            "Whitney MacMillan": 2
+        }, 
+        "url": "/wiki/David_Koch"
+    }, 
+    "David Rockefeller": {
+        "edges": {}, 
+        "url": "/wiki/David_Rockefeller"
+    }, 
+    "David Rubenstein": {
+        "edges": {
+            "Mark Zuckerberg": 1
+        }, 
+        "url": "/wiki/David_Rubenstein"
+    }, 
+    "David Shaw": {
+        "edges": {}, 
+        "url": "/wiki/David_Shaw"
+    }, 
+    "David Siegel": {
+        "edges": {}, 
+        "url": "/wiki/David_Siegel"
+    }, 
+    "David Sun": {
+        "edges": {}, 
+        "url": "/wiki/David_Sun"
+    }, 
+    "David Tepper": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Christy Walton": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/David_Tepper"
+    }, 
+    "David Walentas": {
+        "edges": {}, 
+        "url": "/wiki/David_\u00a0Walentas"
+    }, 
+    "Dean Metropoulos": {
+        "edges": {}, 
+        "url": "/wiki/C._Dean_Metropoulos"
+    }, 
+    "Denise DeBartolo York": {
+        "edges": {
+            "Arthur Blank": 1, 
+            "Jeffrey Lurie": 1, 
+            "Jerry Jones": 1, 
+            "Jimmy Haslam": 1, 
+            "Paul Allen": 1, 
+            "Robert Kraft": 1, 
+            "Shahid Khan": 1, 
+            "Terrence Pegula": 1, 
+            "Tom Benson": 1
+        }, 
+        "url": "/wiki/Denise_York"
+    }, 
+    "Dennis Washington": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Alice Walton": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 2, 
+            "Bruce Halle": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Jim Walton": 2, 
+            "Les Wexner": 2, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Sheldon Adelson": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2, 
+            "Warren Buffett": 2, 
+            "Whitney MacMillan": 2
+        }, 
+        "url": "/wiki/Dennis_Washington"
+    }, 
+    "Diane Hendricks": {
+        "edges": {
+            "Donald Trump": 1
+        }, 
+        "url": "/wiki/Diane_Hendricks"
+    }, 
+    "Don Hankey": {
+        "edges": {}, 
+        "url": "/wiki/Don_Hankey"
+    }, 
+    "Donald Bren": {
+        "edges": {}, 
+        "url": "/wiki/Donald_Bren"
+    }, 
+    "Donald Newhouse": {
+        "edges": {}, 
+        "url": "/wiki/Donald_Newhouse"
+    }, 
+    "Donald Sterling": {
+        "edges": {
+            "Micky Arison": 1
+        }, 
+        "url": "/wiki/Donald_Sterling"
+    }, 
+    "Donald Trump": {
+        "edges": {
+            "Mark Zuckerberg": 2
+        }, 
+        "url": "/wiki/Donald_Trump"
+    }, 
+    "Doris Fisher": {
+        "edges": {}, 
+        "url": "/wiki/Doris_Fisher"
+    }, 
+    "Douglas Leone": {
+        "edges": {}, 
+        "url": "/wiki/Douglas_Leone"
+    }, 
+    "Drayton McLane": {
+        "edges": {}, 
+        "url": "/wiki/Drayton_McLane"
+    }, 
+    "Dustin Moskovitz": {
+        "edges": {
+            "Bill Gates": 1, 
+            "Mark Zuckerberg": 9, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Dustin_Moskovitz"
+    }, 
+    "Edward Bass": {
+        "edges": {}, 
+        "url": "/wiki/Edward_Bass"
+    }, 
+    "Edward J. DeBartolo": {
+        "edges": {}, 
+        "url": "/wiki/Edward_DeBartolo"
+    }, 
+    "Edward Johnson": {
+        "edges": {}, 
+        "url": "/wiki/Edward_Johnson"
+    }, 
+    "Edward Lampert": {
+        "edges": {
+            "David Geffen": 1, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Edward_Lampert"
+    }, 
+    "Edward P. Roski": {
+        "edges": {
+            "Patrick Soon-Shiong": 1, 
+            "Philip Anschutz": 1
+        }, 
+        "url": "/wiki/Edward_Roski"
+    }, 
+    "Elaine Wynn": {
+        "edges": {}, 
+        "url": "/wiki/Elaine_Wynn"
+    }, 
+    "Eli Broad": {
+        "edges": {
+            "David Rockefeller": 1
+        }, 
+        "url": "/wiki/Eli_Broad"
+    }, 
+    "Elon Musk": {
+        "edges": {
+            "Donald Trump": 2, 
+            "Mark Zuckerberg": 3, 
+            "Peter Thiel": 3, 
+            "Reid Hoffman": 2
+        }, 
+        "url": "/wiki/Elon_Musk"
+    }, 
+    "Eric Lefkofsky": {
+        "edges": {}, 
+        "url": "/wiki/Eric_Lefkofsky"
+    }, 
+    "Eric Schmidt": {
+        "edges": {}, 
+        "url": "/wiki/Eric_Schmidt"
+    }, 
+    "Evan Spiegel": {
+        "edges": {}, 
+        "url": "/wiki/Evan_Spiegel"
+    }, 
+    "Frank Fertitta III": {
+        "edges": {
+            "Lorenzo Fertitta": 1
+        }, 
+        "url": "/wiki/Frank_Fertitta"
+    }, 
+    "Fred Smith": {
+        "edges": {}, 
+        "url": "/wiki/Frederick_Smith"
+    }, 
+    "G. Harry Stine": {
+        "edges": {}, 
+        "url": "/wiki/Harry_Stine"
+    }, 
+    "Gabe Newell": {
+        "edges": {}, 
+        "url": "/wiki/Gabe_Newell"
+    }, 
+    "Gail Miller": {
+        "edges": {}, 
+        "url": "/wiki/Gail_Miller"
+    }, 
+    "Gary Rollins": {
+        "edges": {
+            "Randall Rollins": 3
+        }, 
+        "url": "/wiki/Gary_Rollins"
+    }, 
+    "George Argyros": {
+        "edges": {}, 
+        "url": "/wiki/George_Argyros"
+    }, 
+    "George Bishop": {
+        "edges": {}, 
+        "url": "/wiki/George_Bishop"
+    }, 
+    "George Kaiser": {
+        "edges": {
+            "Lynn Schusterman": 1, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/George_Kaiser"
+    }, 
+    "George Lindemann": {
+        "edges": {}, 
+        "url": "/wiki/George_Lindemann"
+    }, 
+    "George Lucas": {
+        "edges": {
+            "Bill Gates": 1, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/George_Lucas"
+    }, 
+    "George Roberts": {
+        "edges": {}, 
+        "url": "/wiki/George_Roberts"
+    }, 
+    "George Soros": {
+        "edges": {
+            "Donald Trump": 2, 
+            "Louis Bacon": 2
+        }, 
+        "url": "/wiki/George_Soros"
+    }, 
+    "Gerald Ford": {
+        "edges": {
+            "Donald Trump": 6, 
+            "Phil Knight": 2, 
+            "Robert Kraft": 2
+        }, 
+        "url": "/wiki/Gerald_Ford"
+    }, 
+    "Glen Taylor": {
+        "edges": {
+            "Donald Sterling": 1, 
+            "Mark Cuban": 2, 
+            "Micky Arison": 2, 
+            "Paul Allen": 2, 
+            "Robert Pera": 2, 
+            "Steve Ballmer": 2, 
+            "Tom Benson": 2, 
+            "Tom Gores": 2
+        }, 
+        "url": "/wiki/Glen_Taylor"
+    }, 
+    "Glenn Dubin": {
+        "edges": {
+            "Bill Gates": 1, 
+            "Paul Tudor Jones": 1, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Glenn_Dubin"
+    }, 
+    "Gordon Getty": {
+        "edges": {}, 
+        "url": "/wiki/Gordon_Getty"
+    }, 
+    "Gordon Moore": {
+        "edges": {
+            "Eric Schmidt": 2
+        }, 
+        "url": "/wiki/Gordon_Moore"
+    }, 
+    "Gwendolyn Sontheim Meyer": {
+        "edges": {}, 
+        "url": "/wiki/Gwendolyn_Sontheim_Meyer"
+    }, 
+    "Haim Saban": {
+        "edges": {
+            "Donald Trump": 1, 
+            "Steven Spielberg": 1
+        }, 
+        "url": "/wiki/Haim_Saban"
+    }, 
+    "Harold Hamm": {
+        "edges": {}, 
+        "url": "/wiki/Harold_Hamm"
+    }, 
+    "Helen Johnson-Leipold": {
+        "edges": {
+            "S. Curtis Johnson": 5
+        }, 
+        "url": "/wiki/Helen_Johnson-Leipold"
+    }, 
+    "Henry Hillman": {
+        "edges": {}, 
+        "url": "/wiki/Henry_Hillman"
+    }, 
+    "Henry Kravis": {
+        "edges": {
+            "David Rockefeller": 1, 
+            "Jerry Speyer": 1
+        }, 
+        "url": "/wiki/Henry_Kravis"
+    }, 
+    "Henry Nicholas": {
+        "edges": {
+            "Henry Samueli": 4
+        }, 
+        "url": "/wiki/Henry_Nicholas"
+    }, 
+    "Henry Samueli": {
+        "edges": {
+            "Terrence Pegula": 2, 
+            "Vincent Viola": 2
+        }, 
+        "url": "/wiki/Henry_Samueli"
+    }, 
+    "Herbert Fisk Johnson III": {
+        "edges": {
+            "Helen Johnson-Leipold": 1, 
+            "Imogene Powers Johnson": 2, 
+            "S. Curtis Johnson": 1
+        }, 
+        "url": "/wiki/H._Fisk_Johnson"
+    }, 
+    "Herbert Kohler Jr.": {
+        "edges": {}, 
+        "url": "/wiki/Herbert_Kohler"
+    }, 
+    "Herbert Simon": {
+        "edges": {}, 
+        "url": "/wiki/Herbert_Simon"
+    }, 
+    "Howard Marks": {
+        "edges": {}, 
+        "url": "/wiki/Howard_Marks"
+    }, 
+    "Howard Schultz": {
+        "edges": {}, 
+        "url": "/wiki/Howard_Schultz"
+    }, 
+    "Igor Olenicoff": {
+        "edges": {}, 
+        "url": "/wiki/Igor_Olenicoff"
+    }, 
+    "Imogene Powers Johnson": {
+        "edges": {
+            "Helen Johnson-Leipold": 4, 
+            "S. Curtis Johnson": 4
+        }, 
+        "url": "/wiki/Imogene_Powers_Johnson"
+    }, 
+    "Ira Rennert": {
+        "edges": {
+            "Michael Milken": 1, 
+            "Ronald Perelman": 1
+        }, 
+        "url": "/wiki/Ira_Rennert"
+    }, 
+    "Isaac Perlmutter": {
+        "edges": {
+            "Carl Icahn": 1, 
+            "Ronald Perelman": 1
+        }, 
+        "url": "/wiki/Isaac_Perlmutter"
+    }, 
+    "Israel Englander": {
+        "edges": {}, 
+        "url": "/wiki/Israel_Englander"
+    }, 
+    "J. Christopher Reyes": {
+        "edges": {}, 
+        "url": "/wiki/J._Christopher_Reyes"
+    }, 
+    "Jacqueline Mars": {
+        "edges": {
+            "Harold Hamm": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2
+        }, 
+        "url": "/wiki/Jacqueline_Mars"
+    }, 
+    "James Chambers": {
+        "edges": {}, 
+        "url": "/wiki/James_Chambers"
+    }, 
+    "James Clark": {
+        "edges": {}, 
+        "url": "/wiki/James_Clark"
+    }, 
+    "James Coulter": {
+        "edges": {}, 
+        "url": "/wiki/James_Coulter"
+    }, 
+    "James Davis": {
+        "edges": {}, 
+        "url": "/wiki/Jim_Davis"
+    }, 
+    "James Goodnight": {
+        "edges": {
+            "Harold Hamm": 2
+        }, 
+        "url": "/wiki/James_Goodnight"
+    }, 
+    "James Harris Simons": {
+        "edges": {
+            "Bruce Kovner": 1, 
+            "George Soros": 1, 
+            "Julian Robertson": 1, 
+            "Louis Bacon": 1, 
+            "Paul Tudor Jones": 1
+        }, 
+        "url": "/wiki/James_Simons"
+    }, 
+    "James Jannard": {
+        "edges": {}, 
+        "url": "/wiki/James_Jannard"
+    }, 
+    "James Kennedy": {
+        "edges": {}, 
+        "url": "/wiki/Jim_Kennedy"
+    }, 
+    "James Leprino": {
+        "edges": {}, 
+        "url": "/wiki/James_Leprino"
+    }, 
+    "James R. Cargill": {
+        "edges": {
+            "Austen Cargill": 2, 
+            "Gwendolyn Sontheim Meyer": 1, 
+            "Whitney MacMillan": 1
+        }, 
+        "url": "/wiki/James_Cargill"
+    }, 
+    "Jamie Dinan": {
+        "edges": {
+            "Glen Taylor": 1, 
+            "Mark Cuban": 1, 
+            "Micky Arison": 1, 
+            "Paul Allen": 1, 
+            "Robert Pera": 1, 
+            "Steve Ballmer": 1, 
+            "Tom Benson": 1, 
+            "Tom Gores": 1
+        }, 
+        "url": "/wiki/James_Dinan"
+    }, 
+    "Jan Koum": {
+        "edges": {
+            "Mark Zuckerberg": 1
+        }, 
+        "url": "/wiki/Jan_Koum"
+    }, 
+    "Jane Goldman": {
+        "edges": {}, 
+        "url": "/wiki/Jane_Goldman"
+    }, 
+    "Jay Paul": {
+        "edges": {}, 
+        "url": "/wiki/Jay_Paul"
+    }, 
+    "Jeff Bezos": {
+        "edges": {}, 
+        "url": "/wiki/Jeff_Bezos"
+    }, 
+    "Jeff Greene": {
+        "edges": {
+            "John Paulson": 1
+        }, 
+        "url": "/wiki/Jeff_Greene"
+    }, 
+    "Jeff Sutton": {
+        "edges": {}, 
+        "url": "/wiki/Jeff_Sutton"
+    }, 
+    "Jeffery Hildebrand": {
+        "edges": {}, 
+        "url": "/wiki/Jeffery_Hildebrand"
+    }, 
+    "Jeffrey J. Rothschild": {
+        "edges": {}, 
+        "url": "/wiki/Jeff_Rothschild"
+    }, 
+    "Jeffrey Lorberbaum": {
+        "edges": {}, 
+        "url": "/wiki/Jeffrey_Lorberbaum"
+    }, 
+    "Jeffrey Lurie": {
+        "edges": {
+            "Jerry Jones": 2, 
+            "Jimmy Haslam": 2
+        }, 
+        "url": "/wiki/Jeffrey_Lurie"
+    }, 
+    "Jeffrey Skoll": {
+        "edges": {
+            "Pierre Omidyar": 2
+        }, 
+        "url": "/wiki/Jeffrey_Skoll"
+    }, 
+    "Jen-Hsun Huang": {
+        "edges": {}, 
+        "url": "/wiki/Jen-Hsun_Huang"
+    }, 
+    "Jennifer Pritzker": {
+        "edges": {
+            "Karen Pritzker": 1, 
+            "Linda Pritzker": 1
+        }, 
+        "url": "/wiki/Jennifer_Pritzker"
+    }, 
+    "Jeremy Jacobs": {
+        "edges": {
+            "Henry Samueli": 2, 
+            "Terrence Pegula": 2, 
+            "Vincent Viola": 2
+        }, 
+        "url": "/wiki/Jeremy_Jacobs"
+    }, 
+    "Jerry Jones": {
+        "edges": {}, 
+        "url": "/wiki/Jerry_Jones"
+    }, 
+    "Jerry Perenchio": {
+        "edges": {
+            "Haim Saban": 1
+        }, 
+        "url": "/wiki/A._Jerrold_Perenchio"
+    }, 
+    "Jerry Speyer": {
+        "edges": {
+            "David Rockefeller": 1
+        }, 
+        "url": "/wiki/Jerry_Speyer"
+    }, 
+    "Jerry Yang": {
+        "edges": {
+            "Carl Icahn": 1
+        }, 
+        "url": "/wiki/Jerry_Yang"
+    }, 
+    "Jim Breyer": {
+        "edges": {
+            "Dustin Moskovitz": 2, 
+            "Mark Zuckerberg": 4, 
+            "Peter Thiel": 2
+        }, 
+        "url": "/wiki/Jim_Breyer"
+    }, 
+    "Jim France": {
+        "edges": {}, 
+        "url": "/wiki/James_France"
+    }, 
+    "Jim Irsay": {
+        "edges": {
+            "Arthur Blank": 1, 
+            "Jeffrey Lurie": 1, 
+            "Jerry Jones": 1, 
+            "Jimmy Haslam": 1, 
+            "Paul Allen": 1, 
+            "Robert Kraft": 1, 
+            "Shahid Khan": 1, 
+            "Terrence Pegula": 1, 
+            "Tom Benson": 1
+        }, 
+        "url": "/wiki/James_Irsay"
+    }, 
+    "Jim Walton": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Alice Walton": 9, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 2, 
+            "Christy Walton": 4, 
+            "David Tepper": 2, 
+            "Eli Broad": 1, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Les Wexner": 2, 
+            "Lukas Walton": 2, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Nancy Walton Laurie": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "S. Robson Walton": 7, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2, 
+            "Warren Buffett": 2, 
+            "Whitney MacMillan": 2
+        }, 
+        "url": "/wiki/Jim_Walton"
+    }, 
+    "Jimmy Haslam": {
+        "edges": {
+            "Jerry Jones": 2
+        }, 
+        "url": "/wiki/Jimmy_Haslam"
+    }, 
+    "Joan Tisch": {
+        "edges": {}, 
+        "url": "/wiki/Joan_Tisch"
+    }, 
+    "Joe Gebbia": {
+        "edges": {
+            "Bill Gates": 1, 
+            "Brian Chesky": 2, 
+            "Nathan Blecharczyk": 1, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Joe_Gebbia"
+    }, 
+    "Joe Mansueto": {
+        "edges": {}, 
+        "url": "/wiki/Joe_Mansueto"
+    }, 
+    "John A. Sobrato": {
+        "edges": {}, 
+        "url": "/wiki/John_A._\u00a0Sobrato"
+    }, 
+    "John Arnold": {
+        "edges": {}, 
+        "url": "/wiki/John_Arnold"
+    }, 
+    "John Arrillaga": {
+        "edges": {
+            "Richard Peery": 2
+        }, 
+        "url": "/wiki/John_Arrillaga"
+    }, 
+    "John Brown": {
+        "edges": {}, 
+        "url": "/wiki/John_Brown"
+    }, 
+    "John C. Malone": {
+        "edges": {
+            "Ted Turner": 2
+        }, 
+        "url": "/wiki/John_Malone"
+    }, 
+    "John Catsimatidis": {
+        "edges": {
+            "Michael Bloomberg": 1
+        }, 
+        "url": "/wiki/John_Catsimatidis"
+    }, 
+    "John Doerr": {
+        "edges": {
+            "Eric Schmidt": 4, 
+            "Jeff Bezos": 1, 
+            "Scott Cook": 1, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/John_Doerr"
+    }, 
+    "John Fisher": {
+        "edges": {}, 
+        "url": "/wiki/John_Fisher"
+    }, 
+    "John Henry": {
+        "edges": {}, 
+        "url": "/wiki/John_Henry"
+    }, 
+    "John Kapoor": {
+        "edges": {}, 
+        "url": "/wiki/John_Kapoor"
+    }, 
+    "John Mars": {
+        "edges": {}, 
+        "url": "/wiki/John_Mars"
+    }, 
+    "John Menard": {
+        "edges": {}, 
+        "url": "/wiki/John_Menard"
+    }, 
+    "John Middleton": {
+        "edges": {}, 
+        "url": "/wiki/John_Middleton"
+    }, 
+    "John Morris": {
+        "edges": {}, 
+        "url": "/wiki/John_Morris"
+    }, 
+    "John Paul DeJoria": {
+        "edges": {
+            "Mark Cuban": 2
+        }, 
+        "url": "/wiki/John_Paul_DeJoria"
+    }, 
+    "John Paulson": {
+        "edges": {
+            "Carl Icahn": 1, 
+            "Donald Trump": 2
+        }, 
+        "url": "/wiki/John_Paulson"
+    }, 
+    "John Pritzker": {
+        "edges": {
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/John_Pritzker"
+    }, 
+    "John Sall": {
+        "edges": {
+            "James Goodnight": 2
+        }, 
+        "url": "/wiki/John_Sall"
+    }, 
+    "John Tu": {
+        "edges": {}, 
+        "url": "/wiki/John_Tu"
+    }, 
+    "John Tyson": {
+        "edges": {}, 
+        "url": "/wiki/John_Tyson"
+    }, 
+    "Johnelle Hunt": {
+        "edges": {}, 
+        "url": "/wiki/Johnelle_Hunt"
+    }, 
+    "Jon Stryker": {
+        "edges": {
+            "Pat Stryker": 2
+        }, 
+        "url": "/wiki/Jon_Stryker"
+    }, 
+    "Jon Yarbrough": {
+        "edges": {}, 
+        "url": "/wiki/Jon_Yarbrough"
+    }, 
+    "Jonathan Nelson": {
+        "edges": {}, 
+        "url": "/wiki/Jonathan_Nelson"
+    }, 
+    "Jorge P\u00e9rez": {
+        "edges": {}, 
+        "url": "/wiki/Jorge_Perez"
+    }, 
+    "Joseph Grendys": {
+        "edges": {}, 
+        "url": "/wiki/Joseph_Grendys"
+    }, 
+    "Josh Harris": {
+        "edges": {}, 
+        "url": "/wiki/Joshua_Harris"
+    }, 
+    "Jude Reyes": {
+        "edges": {
+            "J. Christopher Reyes": 4
+        }, 
+        "url": "/wiki/Jude_Reyes"
+    }, 
+    "Judith Faulkner": {
+        "edges": {}, 
+        "url": "/wiki/Judy_Faulkner"
+    }, 
+    "Julian Robertson": {
+        "edges": {
+            "Bill Gates": 1, 
+            "Bruce Kovner": 2, 
+            "George Soros": 2, 
+            "Louis Bacon": 2, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Julian_Robertson"
+    }, 
+    "Julio Mario Santo Domingo": {
+        "edges": {}, 
+        "url": "/wiki/Julio_Mario_Santo_Domingo"
+    }, 
+    "Karen Pritzker": {
+        "edges": {
+            "Linda Pritzker": 2, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Karen_Pritzker"
+    }, 
+    "Katharine Rayner": {
+        "edges": {}, 
+        "url": "/wiki/Katharine_Rayner"
+    }, 
+    "Kathryn Tanner": {
+        "edges": {}, 
+        "url": "/wiki/Katherine_Tanner"
+    }, 
+    "Kelcy Warren": {
+        "edges": {
+            "Donald Trump": 1
+        }, 
+        "url": "/wiki/Kelcy_Warren"
+    }, 
+    "Ken Fisher": {
+        "edges": {}, 
+        "url": "/wiki/Ken_Fisher"
+    }, 
+    "Kenneth Feld": {
+        "edges": {}, 
+        "url": "/wiki/Kenneth_Feld"
+    }, 
+    "Kenneth Griffin": {
+        "edges": {}, 
+        "url": "/wiki/Ken_Griffin"
+    }, 
+    "Kenneth Langone": {
+        "edges": {
+            "Arthur Blank": 1, 
+            "Bernard Marcus": 1
+        }, 
+        "url": "/wiki/Kenneth_Langone"
+    }, 
+    "Kevin Plank": {
+        "edges": {
+            "Donald Trump": 1
+        }, 
+        "url": "/wiki/Kevin_Plank"
+    }, 
+    "Larry Ellison": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Alice Walton": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 5, 
+            "Bruce Halle": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 4, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Dennis Washington": 2, 
+            "Eric Schmidt": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Jeff Bezos": 2, 
+            "Jim Walton": 2, 
+            "Les Wexner": 2, 
+            "Mark Zuckerberg": 2, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Sheldon Adelson": 2, 
+            "T. Denny Sanford": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2, 
+            "Warren Buffett": 5, 
+            "Whitney MacMillan": 2
+        }, 
+        "url": "/wiki/Larry_Ellison"
+    }, 
+    "Larry Page": {
+        "edges": {
+            "Elon Musk": 1, 
+            "Eric Schmidt": 11, 
+            "John Doerr": 3
+        }, 
+        "url": "/wiki/Larry_Page"
+    }, 
+    "Larry Robbins": {
+        "edges": {}, 
+        "url": "/wiki/Larry_Robbins"
+    }, 
+    "Laurene Powell Jobs": {
+        "edges": {}, 
+        "url": "/wiki/Laurene_Powell_Jobs"
+    }, 
+    "Leandro Rizzuto": {
+        "edges": {}, 
+        "url": "/wiki/Leandro_Rizzuto"
+    }, 
+    "Lee Bass": {
+        "edges": {
+            "Robert Bass": 2, 
+            "Sid Bass": 2
+        }, 
+        "url": "/wiki/Lee_Bass"
+    }, 
+    "Leon Black": {
+        "edges": {}, 
+        "url": "/wiki/Leon_Black"
+    }, 
+    "Leon G. Cooperman": {
+        "edges": {}, 
+        "url": "/wiki/Leon_G._Cooperman"
+    }, 
+    "Leonard Blavatnik": {
+        "edges": {}, 
+        "url": "/wiki/Len_Blavatnik"
+    }, 
+    "Leonard Lauder": {
+        "edges": {}, 
+        "url": "/wiki/Leonard_Lauder"
+    }, 
+    "Leonard Stern": {
+        "edges": {}, 
+        "url": "/wiki/Leonard_Stern"
+    }, 
+    "Les Wexner": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Alice Walton": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2, 
+            "Warren Buffett": 2, 
+            "Whitney MacMillan": 2
+        }, 
+        "url": "/wiki/Les_Wexner"
+    }, 
+    "Leslie Alexander": {
+        "edges": {}, 
+        "url": "/wiki/Leslie_Alexander"
+    }, 
+    "Linda Pritzker": {
+        "edges": {}, 
+        "url": "/wiki/Linda_Pritzker"
+    }, 
+    "Lorenzo Fertitta": {
+        "edges": {}, 
+        "url": "/wiki/Lorenzo_Fertitta"
+    }, 
+    "Louis Bacon": {
+        "edges": {}, 
+        "url": "/wiki/Louis_Bacon"
+    }, 
+    "Lukas Walton": {
+        "edges": {
+            "Christy Walton": 5, 
+            "Nancy Walton Laurie": 2, 
+            "S. Robson Walton": 3
+        }, 
+        "url": "/wiki/Lukas_Walton"
+    }, 
+    "Lynn Schusterman": {
+        "edges": {
+            "Bill Gates": 1, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Lynn_Schusterman"
+    }, 
+    "Marc Benioff": {
+        "edges": {}, 
+        "url": "/wiki/Marc_Benioff"
+    }, 
+    "Marc Rowan": {
+        "edges": {
+            "Leon Black": 2
+        }, 
+        "url": "/wiki/Marc_Rowan"
+    }, 
+    "Margaretta Taylor": {
+        "edges": {
+            "Katharine Rayner": 3
+        }, 
+        "url": "/wiki/Margaretta_Taylor"
+    }, 
+    "Marianne Cargill Liebmann": {
+        "edges": {
+            "Gwendolyn Sontheim Meyer": 1, 
+            "Whitney MacMillan": 1
+        }, 
+        "url": "/wiki/Marianne_Liebmann"
+    }, 
+    "Mark Cuban": {
+        "edges": {
+            "Donald Trump": 4, 
+            "Michael Bloomberg": 1, 
+            "Micky Arison": 2, 
+            "Paul Allen": 2, 
+            "Steve Ballmer": 3, 
+            "Tom Benson": 2, 
+            "Tom Gores": 2
+        }, 
+        "url": "/wiki/Mark_Cuban"
+    }, 
+    "Mark Shoen": {
+        "edges": {}, 
+        "url": "/wiki/Mark_Shoen"
+    }, 
+    "Mark Stevens": {
+        "edges": {}, 
+        "url": "/wiki/Mark_Stevens"
+    }, 
+    "Mark Walter": {
+        "edges": {}, 
+        "url": "/wiki/Mark_Walter"
+    }, 
+    "Mark Zuckerberg": {
+        "edges": {
+            "Eric Schmidt": 1, 
+            "Jeff Bezos": 3, 
+            "Larry Page": 2, 
+            "Sergey Brin": 2
+        }, 
+        "url": "/wiki/Mark_Zuckerberg"
+    }, 
+    "Martha Rivers Ingram": {
+        "edges": {}, 
+        "url": "/wiki/Martha_Ingram"
+    }, 
+    "Mary Alice Dorrance Malone": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Mary_Alice_Dorrance_Malone"
+    }, 
+    "Meg Whitman": {
+        "edges": {
+            "Donald Trump": 1, 
+            "Jeffrey Skoll": 3, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Meg_Whitman"
+    }, 
+    "Michael Bloomberg": {
+        "edges": {
+            "Abigail Johnson": 1, 
+            "Alice Walton": 1, 
+            "Anita Zucker": 1, 
+            "B. Wayne Hughes": 1, 
+            "Bill Gates": 1, 
+            "Bruce Halle": 1, 
+            "Carl Cook": 1, 
+            "Charles Koch": 1, 
+            "Christy Walton": 1, 
+            "David Koch": 1, 
+            "David Tepper": 1, 
+            "Dennis Washington": 1, 
+            "Harold Hamm": 1, 
+            "Jacqueline Mars": 1, 
+            "James Goodnight": 1, 
+            "Jim Walton": 1, 
+            "Larry Ellison": 1, 
+            "Les Wexner": 1, 
+            "Mary Alice Dorrance Malone": 1, 
+            "Micky Arison": 1, 
+            "Phil Knight": 1, 
+            "Pierre Omidyar": 1, 
+            "Ray Dalio": 1, 
+            "Sheldon Adelson": 1, 
+            "T. Denny Sanford": 1, 
+            "Ted Lerner": 1, 
+            "Tom Benson": 1, 
+            "Warren Buffett": 1, 
+            "Whitney MacMillan": 1
+        }, 
+        "url": "/wiki/Michael_Bloomberg"
+    }, 
+    "Michael Dell": {
+        "edges": {
+            "Abigail Johnson": 1, 
+            "Alice Walton": 1, 
+            "Anita Zucker": 1, 
+            "B. Wayne Hughes": 1, 
+            "Bill Gates": 1, 
+            "Bruce Halle": 1, 
+            "Carl Cook": 1, 
+            "Charles Koch": 1, 
+            "Christy Walton": 1, 
+            "David Koch": 1, 
+            "David Tepper": 1, 
+            "Dennis Washington": 1, 
+            "Harold Hamm": 1, 
+            "Jacqueline Mars": 1, 
+            "James Goodnight": 1, 
+            "Jim Walton": 1, 
+            "Larry Ellison": 1, 
+            "Les Wexner": 1, 
+            "Mary Alice Dorrance Malone": 1, 
+            "Micky Arison": 1, 
+            "Phil Knight": 1, 
+            "Pierre Omidyar": 1, 
+            "Ray Dalio": 1, 
+            "Sheldon Adelson": 1, 
+            "T. Denny Sanford": 1, 
+            "Ted Lerner": 1, 
+            "Tom Benson": 1, 
+            "Warren Buffett": 1, 
+            "Whitney MacMillan": 1
+        }, 
+        "url": "/wiki/Michael_Dell"
+    }, 
+    "Michael Milken": {
+        "edges": {}, 
+        "url": "/wiki/Michael_Milken"
+    }, 
+    "Michael Moritz": {
+        "edges": {
+            "Eric Schmidt": 2, 
+            "John Doerr": 1
+        }, 
+        "url": "/wiki/Michael_Moritz"
+    }, 
+    "Michael Rubin": {
+        "edges": {}, 
+        "url": "/wiki/Michael_Rubin"
+    }, 
+    "Micky Arison": {
+        "edges": {
+            "Harold Hamm": 2, 
+            "James Goodnight": 2
+        }, 
+        "url": "/wiki/Micky_Arison"
+    }, 
+    "Milane Frantz": {
+        "edges": {
+            "Dannine Avara": 2, 
+            "Randa Williams": 2
+        }, 
+        "url": "/wiki/Milane_Frantz"
+    }, 
+    "Min Kao": {
+        "edges": {}, 
+        "url": "/wiki/Min_Kao"
+    }, 
+    "Mitchell Rales": {
+        "edges": {}, 
+        "url": "/wiki/Mitchell_Rales"
+    }, 
+    "Mortimer Zuckerman": {
+        "edges": {}, 
+        "url": "/wiki/Mortimer_Zuckerman"
+    }, 
+    "Nancy Walton Laurie": {
+        "edges": {
+            "S. Robson Walton": 3
+        }, 
+        "url": "/wiki/Nancy_Walton_Laurie"
+    }, 
+    "Nathan Blecharczyk": {
+        "edges": {
+            "Bill Gates": 1, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Nathan_Blecharczyk"
+    }, 
+    "Neil Bluhm": {
+        "edges": {}, 
+        "url": "/wiki/Neil_Bluhm"
+    }, 
+    "Nicolas Berggruen": {
+        "edges": {
+            "Eli Broad": 1, 
+            "Eric Schmidt": 2, 
+            "Pierre Omidyar": 1, 
+            "Robert Bass": 1
+        }, 
+        "url": "/wiki/Nicolas_Berggruen"
+    }, 
+    "Noam Gottesman": {
+        "edges": {}, 
+        "url": "/wiki/Noam_Gottesman"
+    }, 
+    "Oprah Winfrey": {
+        "edges": {
+            "Barry Diller": 2, 
+            "Donald Trump": 1, 
+            "George Lucas": 2, 
+            "Meg Whitman": 1, 
+            "Steven Spielberg": 4
+        }, 
+        "url": "/wiki/Oprah_Winfrey"
+    }, 
+    "Pat Stryker": {
+        "edges": {}, 
+        "url": "/wiki/Pat_Stryker"
+    }, 
+    "Patrick Ryan": {
+        "edges": {}, 
+        "url": "/wiki/Patrick_Ryan"
+    }, 
+    "Patrick Soon-Shiong": {
+        "edges": {}, 
+        "url": "/wiki/Patrick_Soon-Shiong"
+    }, 
+    "Paul Allen": {
+        "edges": {
+            "Bill Gates": 7, 
+            "Jeffrey Lurie": 2, 
+            "Jerry Jones": 2, 
+            "Jimmy Haslam": 2, 
+            "Micky Arison": 2, 
+            "Terrence Pegula": 2, 
+            "Tom Benson": 4
+        }, 
+        "url": "/wiki/Paul_Allen"
+    }, 
+    "Paul Singer": {
+        "edges": {}, 
+        "url": "/wiki/Paul_Singer"
+    }, 
+    "Paul Tudor Jones": {
+        "edges": {
+            "Bruce Kovner": 2, 
+            "George Soros": 2, 
+            "Julian Robertson": 2, 
+            "Louis Bacon": 2
+        }, 
+        "url": "/wiki/Paul_Tudor_Jones"
+    }, 
+    "Pauline MacMillan Keinath": {
+        "edges": {}, 
+        "url": "/wiki/Pauline_MacMillan_Keinath"
+    }, 
+    "Penny Pritzker": {
+        "edges": {
+            "Anthony Pritzker": 1, 
+            "Thomas Pritzker": 1, 
+            "Warren Buffett": 1, 
+            "Wilbur Ross": 6
+        }, 
+        "url": "/wiki/Penny_Pritzker"
+    }, 
+    "Peter Buck": {
+        "edges": {}, 
+        "url": "/wiki/Peter_Buck"
+    }, 
+    "Peter Kellogg": {
+        "edges": {}, 
+        "url": "/wiki/Peter_Kellogg"
+    }, 
+    "Peter Peterson": {
+        "edges": {}, 
+        "url": "/wiki/Peter_Peterson"
+    }, 
+    "Peter Thiel": {
+        "edges": {
+            "Donald Trump": 2, 
+            "Dustin Moskovitz": 2, 
+            "Mark Zuckerberg": 6, 
+            "Meg Whitman": 1, 
+            "Reid Hoffman": 6
+        }, 
+        "url": "/wiki/Peter_Thiel"
+    }, 
+    "Phil Knight": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Bill Gates": 2, 
+            "Christy Walton": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Phil_Knight"
+    }, 
+    "Philip Anschutz": {
+        "edges": {
+            "Henry Samueli": 1, 
+            "Jeremy Jacobs": 1, 
+            "Rupert Murdoch": 1, 
+            "Terrence Pegula": 1, 
+            "Vincent Viola": 1
+        }, 
+        "url": "/wiki/Philip_Anschutz"
+    }, 
+    "Phillip Frost": {
+        "edges": {}, 
+        "url": "/wiki/Phillip_Frost"
+    }, 
+    "Phillip Ragon": {
+        "edges": {}, 
+        "url": "/wiki/Phillip_Ragon"
+    }, 
+    "Pierre Omidyar": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Anita Zucker": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Meg Whitman": 1, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Ray Dalio": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Pierre_Omidyar"
+    }, 
+    "Rakesh Gangwal": {
+        "edges": {}, 
+        "url": "/wiki/Rakesh_Gangwal"
+    }, 
+    "Ralph Lauren": {
+        "edges": {
+            "Michael Bloomberg": 1, 
+            "Oprah Winfrey": 1
+        }, 
+        "url": "/wiki/Ralph_Lauren"
+    }, 
+    "Ram Shriram": {
+        "edges": {
+            "Eric Schmidt": 1, 
+            "Jeff Bezos": 2, 
+            "John Doerr": 1, 
+            "Larry Page": 1, 
+            "Sergey Brin": 1
+        }, 
+        "url": "/wiki/Kavitark_Ram_Shriram"
+    }, 
+    "Randa Williams": {
+        "edges": {
+            "Dannine Avara": 2
+        }, 
+        "url": "/wiki/Randa_Williams"
+    }, 
+    "Randal J. Kirk": {
+        "edges": {}, 
+        "url": "/wiki/Randal_Kirk"
+    }, 
+    "Randall Rollins": {
+        "edges": {}, 
+        "url": "/wiki/Randall_Rollins"
+    }, 
+    "Ray Dalio": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Anita Zucker": 2, 
+            "Bill Gates": 3, 
+            "Carl Cook": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Ray_Dalio"
+    }, 
+    "Ray Lee Hunt": {
+        "edges": {}, 
+        "url": "/wiki/Ray_Lee_Hunt"
+    }, 
+    "Raymond Davis": {
+        "edges": {}, 
+        "url": "/wiki/Ray_Davis"
+    }, 
+    "Reid Hoffman": {
+        "edges": {
+            "Donald Trump": 1, 
+            "Mark Zuckerberg": 1
+        }, 
+        "url": "/wiki/Reid_Hoffman"
+    }, 
+    "Reinhold Schmieding": {
+        "edges": {}, 
+        "url": "/wiki/Reinhold_Schmieding"
+    }, 
+    "Richard DeVos": {
+        "edges": {
+            "Glen Taylor": 1, 
+            "Mark Cuban": 1, 
+            "Micky Arison": 1, 
+            "Paul Allen": 1, 
+            "Robert Pera": 1, 
+            "Steve Ballmer": 1, 
+            "Tom Benson": 1, 
+            "Tom Gores": 1
+        }, 
+        "url": "/wiki/Richard_DeVos"
+    }, 
+    "Richard Kinder": {
+        "edges": {}, 
+        "url": "/wiki/Richard_Kinder"
+    }, 
+    "Richard LeFrak": {
+        "edges": {}, 
+        "url": "/wiki/Richard_LeFrak"
+    }, 
+    "Richard Peery": {
+        "edges": {}, 
+        "url": "/wiki/Richard_Peery"
+    }, 
+    "Richard Schulze": {
+        "edges": {}, 
+        "url": "/wiki/Richard_Schulze"
+    }, 
+    "Rick Caruso": {
+        "edges": {}, 
+        "url": "/wiki/Rick_Caruso"
+    }, 
+    "Riley P. Bechtel": {
+        "edges": {}, 
+        "url": "/wiki/Riley_Bechtel"
+    }, 
+    "Robert Bass": {
+        "edges": {
+            "Donald Trump": 1
+        }, 
+        "url": "/wiki/Robert_Bass"
+    }, 
+    "Robert Duggan": {
+        "edges": {}, 
+        "url": "/wiki/Robert_Duggan"
+    }, 
+    "Robert Kraft": {
+        "edges": {
+            "Jeffrey Lurie": 2, 
+            "Jerry Jones": 2, 
+            "Jimmy Haslam": 2, 
+            "Paul Allen": 2, 
+            "Terrence Pegula": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Robert_Kraft"
+    }, 
+    "Robert McNair": {
+        "edges": {}, 
+        "url": "/wiki/Robert_McNair"
+    }, 
+    "Robert Murphy": {
+        "edges": {}, 
+        "url": "/wiki/Bobby_Murphy"
+    }, 
+    "Robert Pera": {
+        "edges": {
+            "Mark Cuban": 2, 
+            "Micky Arison": 2, 
+            "Paul Allen": 2, 
+            "Steve Ballmer": 2, 
+            "Tom Benson": 2, 
+            "Tom Gores": 2
+        }, 
+        "url": "/wiki/Robert_Pera"
+    }, 
+    "Robert Rich": {
+        "edges": {}, 
+        "url": "/wiki/Robert_Rich"
+    }, 
+    "Robert Rowling": {
+        "edges": {}, 
+        "url": "/wiki/Robert_Rowling"
+    }, 
+    "Robert Smith": {
+        "edges": {}, 
+        "url": "/wiki/Robert_Smith"
+    }, 
+    "Roger Wang": {
+        "edges": {}, 
+        "url": "/wiki/Roger_Wang"
+    }, 
+    "Romesh Wadhwani": {
+        "edges": {}, 
+        "url": "/wiki/Romesh_T._Wadhwani"
+    }, 
+    "Ronald G. Wanek": {
+        "edges": {}, 
+        "url": "/wiki/Ronald_Wanek"
+    }, 
+    "Ronald Lauder": {
+        "edges": {
+            "Leonard Lauder": 4, 
+            "Sheldon Adelson": 1
+        }, 
+        "url": "/wiki/Ronald_Lauder"
+    }, 
+    "Ronald Perelman": {
+        "edges": {}, 
+        "url": "/wiki/Ronald_Perelman"
+    }, 
+    "Ronald S. Baron": {
+        "edges": {}, 
+        "url": "/wiki/Ron_Baron"
+    }, 
+    "Ross Perot": {
+        "edges": {
+            "Bill Gates": 1, 
+            "David Rubenstein": 1
+        }, 
+        "url": "/wiki/H._Ross_Perot"
+    }, 
+    "Rupert Murdoch": {
+        "edges": {
+            "Michael Bloomberg": 1
+        }, 
+        "url": "/wiki/Rupert_Murdoch"
+    }, 
+    "Russell Weiner": {
+        "edges": {}, 
+        "url": "/wiki/Russ_Weiner"
+    }, 
+    "S. Curtis Johnson": {
+        "edges": {}, 
+        "url": "/wiki/S._Curtis_Johnson"
+    }, 
+    "S. Daniel Abraham": {
+        "edges": {}, 
+        "url": "/wiki/S._Daniel_Abraham"
+    }, 
+    "S. Robson Walton": {
+        "edges": {}, 
+        "url": "/wiki/S._Robson_Walton"
+    }, 
+    "Sam Zell": {
+        "edges": {
+            "Bruce Karsh": 1
+        }, 
+        "url": "/wiki/Sam_Zell"
+    }, 
+    "Samuel Newhouse": {
+        "edges": {}, 
+        "url": "/wiki/Samuel_Newhouse"
+    }, 
+    "Scott Cook": {
+        "edges": {}, 
+        "url": "/wiki/Scott_Cook"
+    }, 
+    "Scott Duncan": {
+        "edges": {}, 
+        "url": "/wiki/Scott_Duncan"
+    }, 
+    "Sean Parker": {
+        "edges": {
+            "Dustin Moskovitz": 3, 
+            "Jim Breyer": 2, 
+            "Mark Zuckerberg": 7, 
+            "Peter Thiel": 5
+        }, 
+        "url": "/wiki/Sean_Parker"
+    }, 
+    "Sergey Brin": {
+        "edges": {
+            "Eric Schmidt": 5, 
+            "John Doerr": 3, 
+            "Larry Page": 10
+        }, 
+        "url": "/wiki/Sergey_Brin"
+    }, 
+    "Shahid Khan": {
+        "edges": {
+            "Jeffrey Lurie": 2, 
+            "Jerry Jones": 2, 
+            "Jimmy Haslam": 2, 
+            "Paul Allen": 2, 
+            "Robert Kraft": 2, 
+            "Terrence Pegula": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Shahid_Khan"
+    }, 
+    "Sheldon Adelson": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Alice Walton": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Donald Trump": 2, 
+            "George Soros": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Jim Walton": 2, 
+            "Les Wexner": 2, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2, 
+            "Warren Buffett": 2, 
+            "Whitney MacMillan": 2
+        }, 
+        "url": "/wiki/Sheldon_Adelson"
+    }, 
+    "Sheldon Solow": {
+        "edges": {}, 
+        "url": "/wiki/Sheldon_Solow"
+    }, 
+    "Sid Bass": {
+        "edges": {
+            "Robert Bass": 3
+        }, 
+        "url": "/wiki/Sid_Bass"
+    }, 
+    "Stan Kroenke": {
+        "edges": {
+            "Ann Walton Kroenke": 3, 
+            "Arthur Blank": 1, 
+            "Glen Taylor": 1, 
+            "Henry Samueli": 1, 
+            "Jeffrey Lurie": 1, 
+            "Jeremy Jacobs": 1, 
+            "Jerry Jones": 1, 
+            "Jimmy Haslam": 1, 
+            "Mark Cuban": 1, 
+            "Micky Arison": 1, 
+            "Paul Allen": 2, 
+            "Robert Kraft": 1, 
+            "Robert Pera": 1, 
+            "Shahid Khan": 1, 
+            "Steve Ballmer": 1, 
+            "Terrence Pegula": 2, 
+            "Tom Benson": 2, 
+            "Tom Gores": 1, 
+            "Vincent Viola": 1
+        }, 
+        "url": "/wiki/Stanley_Kroenke"
+    }, 
+    "Stanley Druckenmiller": {
+        "edges": {
+            "George Soros": 4
+        }, 
+        "url": "/wiki/Stanley_Druckenmiller"
+    }, 
+    "Stanley Hubbard": {
+        "edges": {
+            "Donald Trump": 1
+        }, 
+        "url": "/wiki/Stanley_Hubbard"
+    }, 
+    "Stephen A. Schwarzman": {
+        "edges": {
+            "Donald Trump": 1, 
+            "Michael Bloomberg": 1
+        }, 
+        "url": "/wiki/Stephen_Schwarzman"
+    }, 
+    "Stephen Bechtel Sr.": {
+        "edges": {}, 
+        "url": "/wiki/Stephen_Bechtel"
+    }, 
+    "Stephen Mandel": {
+        "edges": {}, 
+        "url": "/wiki/Stephen_Mandel"
+    }, 
+    "Stephen Ross": {
+        "edges": {}, 
+        "url": "/wiki/Stephen_Ross"
+    }, 
+    "Steve Ballmer": {
+        "edges": {
+            "Bill Gates": 7, 
+            "Donald Sterling": 5, 
+            "Eric Schmidt": 1, 
+            "Micky Arison": 2, 
+            "Paul Allen": 3, 
+            "Tom Benson": 2, 
+            "Tom Gores": 2
+        }, 
+        "url": "/wiki/Steve_Ballmer"
+    }, 
+    "Steve Bisciotti": {
+        "edges": {
+            "Arthur Blank": 1, 
+            "Jeffrey Lurie": 1, 
+            "Jerry Jones": 1, 
+            "Jimmy Haslam": 1, 
+            "Paul Allen": 1, 
+            "Robert Kraft": 1, 
+            "Shahid Khan": 1, 
+            "Terrence Pegula": 1, 
+            "Tom Benson": 1
+        }, 
+        "url": "/wiki/Stephen_Bisciotti"
+    }, 
+    "Steve Cohen": {
+        "edges": {}, 
+        "url": "/wiki/Steve_Cohen"
+    }, 
+    "Steve Wynn": {
+        "edges": {
+            "Elaine Wynn": 4, 
+            "Michael Milken": 1
+        }, 
+        "url": "/wiki/Steve_Wynn"
+    }, 
+    "Steven F. Udvar-H\u00e1zy": {
+        "edges": {}, 
+        "url": "/wiki/Steven_Udvar-Hazy"
+    }, 
+    "Steven M. Rales": {
+        "edges": {
+            "Mitchell Rales": 3
+        }, 
+        "url": "/wiki/Steven_Rales"
+    }, 
+    "Steven Spielberg": {
+        "edges": {
+            "Gabe Newell": 2, 
+            "George Lucas": 24
+        }, 
+        "url": "/wiki/Steven_Spielberg"
+    }, 
+    "Stewart Rahr": {
+        "edges": {}, 
+        "url": "/wiki/Stewart_Rahr"
+    }, 
+    "Sumner Redstone": {
+        "edges": {
+            "Barry Diller": 1, 
+            "Charles Dolan": 1
+        }, 
+        "url": "/wiki/Sumner_Redstone"
+    }, 
+    "T. Denny Sanford": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Alice Walton": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 2, 
+            "Bruce Halle": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Dennis Washington": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Jim Walton": 2, 
+            "Les Wexner": 2, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Sheldon Adelson": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2, 
+            "Warren Buffett": 2, 
+            "Whitney MacMillan": 2
+        }, 
+        "url": "/wiki/T._Denny_Sanford"
+    }, 
+    "Tamara Gustavson": {
+        "edges": {}, 
+        "url": "/wiki/Tamara_Gustavson"
+    }, 
+    "Ted Lerner": {
+        "edges": {
+            "Christy Walton": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Micky Arison": 2
+        }, 
+        "url": "/wiki/Ted_Lerner"
+    }, 
+    "Ted Turner": {
+        "edges": {
+            "Jeff Bezos": 2, 
+            "Oprah Winfrey": 2, 
+            "Rupert Murdoch": 4, 
+            "Warren Buffett": 1
+        }, 
+        "url": "/wiki/Ted_Turner"
+    }, 
+    "Terrence Pegula": {
+        "edges": {
+            "Donald Trump": 2, 
+            "Jeffrey Lurie": 2, 
+            "Jerry Jones": 2, 
+            "Jimmy Haslam": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Terrence_Pegula"
+    }, 
+    "Thomas F. Frist Sr.": {
+        "edges": {}, 
+        "url": "/wiki/Thomas_Frist"
+    }, 
+    "Thomas Lee": {
+        "edges": {}, 
+        "url": "/wiki/Thomas_Lee"
+    }, 
+    "Thomas Peterffy": {
+        "edges": {
+            "Donald Trump": 1
+        }, 
+        "url": "/wiki/Thomas_Peterffy"
+    }, 
+    "Thomas Pritzker": {
+        "edges": {}, 
+        "url": "/wiki/Thomas_Pritzker"
+    }, 
+    "Thomas Secunda": {
+        "edges": {
+            "Charles Zegar": 2, 
+            "Michael Bloomberg": 2
+        }, 
+        "url": "/wiki/Thomas_Secunda"
+    }, 
+    "Thomas Siebel": {
+        "edges": {}, 
+        "url": "/wiki/Thomas_Siebel"
+    }, 
+    "Tilman J. Fertitta": {
+        "edges": {
+            "Lorenzo Fertitta": 1, 
+            "Michael Dell": 1
+        }, 
+        "url": "/wiki/Tilman_Fertitta"
+    }, 
+    "Timothy Boyle": {
+        "edges": {}, 
+        "url": "/wiki/Timothy_Boyle"
+    }, 
+    "Tom Benson": {
+        "edges": {
+            "Christy Walton": 2, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Jeffrey Lurie": 2, 
+            "Jerry Jones": 2, 
+            "Jimmy Haslam": 2, 
+            "Micky Arison": 4, 
+            "Ted Lerner": 2
+        }, 
+        "url": "/wiki/Tom_Benson"
+    }, 
+    "Tom Golisano": {
+        "edges": {
+            "Michael Bloomberg": 1, 
+            "Terrence Pegula": 5
+        }, 
+        "url": "/wiki/Tom_Golisano"
+    }, 
+    "Tom Gores": {
+        "edges": {
+            "Micky Arison": 2, 
+            "Paul Allen": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Tom_Gores"
+    }, 
+    "Travis Kalanick": {
+        "edges": {}, 
+        "url": "/wiki/Travis_Kalanick"
+    }, 
+    "Trevor Rees-Jones": {
+        "edges": {}, 
+        "url": "/wiki/Trevor_Rees-Jones"
+    }, 
+    "Ty Warner": {
+        "edges": {
+            "Igor Olenicoff": 1
+        }, 
+        "url": "/wiki/Ty_Warner"
+    }, 
+    "Vincent Viola": {
+        "edges": {
+            "Donald Trump": 2, 
+            "Terrence Pegula": 2
+        }, 
+        "url": "/wiki/Vincent_Viola"
+    }, 
+    "Walter Scott": {
+        "edges": {}, 
+        "url": "/wiki/Walter_Scott"
+    }, 
+    "Warren Buffett": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Alice Walton": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 16, 
+            "Carl Cook": 2, 
+            "Charles Koch": 5, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Donald Trump": 3, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Jeff Bezos": 3, 
+            "Mark Zuckerberg": 5, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 3, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2, 
+            "Whitney MacMillan": 2
+        }, 
+        "url": "/wiki/Warren_Buffett"
+    }, 
+    "Warren Stephens": {
+        "edges": {}, 
+        "url": "/wiki/Warren_Stephens"
+    }, 
+    "Wayne Huizenga": {
+        "edges": {}, 
+        "url": "/wiki/H._Wayne_Huizenga"
+    }, 
+    "Whitney MacMillan": {
+        "edges": {
+            "Abigail Johnson": 2, 
+            "Alice Walton": 2, 
+            "Anita Zucker": 2, 
+            "B. Wayne Hughes": 2, 
+            "Bill Gates": 2, 
+            "Carl Cook": 2, 
+            "Charles Koch": 2, 
+            "Christy Walton": 2, 
+            "David Tepper": 2, 
+            "Gwendolyn Sontheim Meyer": 3, 
+            "Harold Hamm": 2, 
+            "Jacqueline Mars": 2, 
+            "James Goodnight": 2, 
+            "Mary Alice Dorrance Malone": 2, 
+            "Micky Arison": 2, 
+            "Pauline MacMillan Keinath": 3, 
+            "Phil Knight": 2, 
+            "Pierre Omidyar": 2, 
+            "Ray Dalio": 2, 
+            "Ted Lerner": 2, 
+            "Tom Benson": 2
+        }, 
+        "url": "/wiki/Whitney_MacMillan"
+    }, 
+    "Wilbur Ross": {
+        "edges": {
+            "Carl Icahn": 1, 
+            "Donald Trump": 8
+        }, 
+        "url": "/wiki/Wilbur_Ross"
+    }, 
+    "William Conway": {
+        "edges": {}, 
+        "url": "/wiki/William_Conway"
+    }, 
+    "William Herbert Hunt": {
+        "edges": {}, 
+        "url": "/wiki/W._Herbert_Hunt"
+    }, 
+    "William Wrigley": {
+        "edges": {}, 
+        "url": "/wiki/William_Wrigley"
+    }, 
+    "William Young": {
+        "edges": {}, 
+        "url": "/wiki/William_Young"
+    }, 
+    "Winnie Johnson-Marquart": {
+        "edges": {
+            "Helen Johnson-Leipold": 2, 
+            "Imogene Powers Johnson": 3, 
+            "S. Curtis Johnson": 2
+        }, 
+        "url": "/wiki/Winnie_\u00a0Johnson-Marquart"
+    }
+}
