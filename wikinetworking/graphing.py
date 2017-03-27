@@ -64,6 +64,7 @@ def make_interactive_graph(graph, pos=None, cmap=plt.cm.viridis, edge_cmap=plt.c
     mpld3.plugins.connect(fig, Highlight(edges))
     mpld3.plugins.connect(fig, tooltips)
     mpld3.plugins.connect(fig, linetips)
+    mpld3.enable_notebook()
     return mpld3.fig_to_html(fig)
 
 ## Saves a high resolution non-interactive graph, similar to @link <make_interactive_graph>
