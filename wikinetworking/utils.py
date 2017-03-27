@@ -133,10 +133,15 @@ def undirected_graph(data):
 ## Saves a dictionary to a file in JSON format
 # @param    data        The dictionary to save
 # @param    filename    The output filename
-def save_dict(data, filename):
+# @param    pretty      If True, the output is formatted with indentation and keys are sorted
+def save_dict(data, filename, pretty=True):
     import json
     with open(filename, 'w') as f:
-        json.dump(data, f)
+        if pretty:
+            f.write(json.dumps(data, sort_keys=True, indent=4))
+        else:
+            json.dump(data, f)
+        f.close()
 
 ## Reads a dictionary from a file in JSON format
 # @param    filename    The input filename
