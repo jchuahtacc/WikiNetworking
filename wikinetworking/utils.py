@@ -53,7 +53,7 @@ def intersection(list1, list2):
     return [element for element in set(list1).intersection(list2)]
 
 ## Performs a breadth-first web crawl
-# @param    start           The starting URL to begin the crawl
+# @param    start           The starting URL to begin the crawl, or a list of URLs to queue for crawling
 # @param    max_articles    The maximum number of articles to retrieve before ending the crawl
 # @param    max_depth       The maximum depth of links from the starting article
 # @param    accept          A list of URLs that the crawler will follow. Supplying an empty list will result in no data
@@ -63,33 +63,42 @@ def crawl(start, max_articles=200, max_depth=3, accept=list(), reject=list(), ho
     from collections import deque
     result = dict()
     crawl_queue = deque()
-    crawl_queue.append(start)
+    import types
+    if isinstance(start, list):
+        for url in start:
+            if url not in crawl_queue:
+                crawl_queue.append(url)
+    else:
+        crawl_queue.append(start)
     count = 0
     while count < max_articles and len(crawl_queue) > 0:
         count = count + 1
         current = crawl_queue.popleft()
-        print "{}: Retrieving {}, ({} left in queue)".format(count, current, len(crawl_queue))
-        page = PyQuery(url=host+current)
-        
-        # Make sure page exists in structure
-        if current not in result:
-            result[current] = dict()
-            result[current]["depth"] = 0
-        
-        # Save page data
-        result[current]["title"] = page("#firstHeading").text()
-        result[current]["links"] = [link for link in filter_links(page) if link in accept and link not in reject]
-        
-        # Check current depth, don't want to go to deep!
-        if result[current]["depth"] <= max_depth: 
-            for link in result[current]["links"]:
-                if link not in result and link not in crawl_queue:
-                    crawl_queue.append(link)
-                    result[link] = dict()
-                    result[link]["depth"] = result[current]["depth"] + 1
-                    
-        # Important!!!
-        time.sleep(2)
+        print "{}: Retrieving {}, ({} left in queue)".format(count, current.encode('utf-8'), len(crawl_queue))
+        try:
+            page = PyQuery(url=host+current)
+            
+            # Make sure page exists in structure
+            if current not in result:
+                result[current] = dict()
+                result[current]["depth"] = 0
+            
+            # Save page data
+            result[current]["title"] = page("#firstHeading").text()
+            result[current]["links"] = [link for link in filter_links(page) if link in accept and link not in reject]
+            
+            # Check current depth, don't want to go to deep!
+            if result[current]["depth"] <= max_depth: 
+                for link in result[current]["links"]:
+                    if link not in result and link not in crawl_queue:
+                        crawl_queue.append(link)
+                        result[link] = dict()
+                        result[link]["depth"] = result[current]["depth"] + 1
+                        
+            # Important!!!
+            time.sleep(2)
+        except:
+            print "Error retrieving", host+current
 
     return result
 
@@ -104,7 +113,10 @@ def directed_graph(data):
         result[current_title]["url"] = item
         result[current_title]["edges"] = dict()
         for link in data[item]["links"]:
-            link_title = data[link]["title"]
+            if link in data:
+                link_title = data[link]["title"]
+            else:
+                link_title = link
             if link_title not in result[current_title]:
                 result[current_title]["edges"][link_title] = data[item]["links"].count(link)
     return result 
@@ -122,7 +134,10 @@ def undirected_graph(data):
         already_counted = list()
         for link in data[item]["links"]:
             if link not in already_counted:
-                link_title = data[link]["title"]
+                if link in data:
+                    link_title = data[link]["title"]
+                else:
+                    link_title = link
                 if link_title in result and current_title in result[link_title]["edges"]:
                     result[link_title]["edges"][current_title] += data[item]["links"].count(link)
                 elif link_title not in result[current_title]:
