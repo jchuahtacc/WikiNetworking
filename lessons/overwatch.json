@@ -1,0 +1,164 @@
+{
+    "Ana": {
+        "edges": {
+            "Reaper": 1, 
+            "Soldier: 76": 2, 
+            "Widowmaker": 1
+        }, 
+        "url": "/wiki/Ana"
+    }, 
+    "Bastion": {
+        "edges": {}, 
+        "url": "/wiki/Bastion"
+    }, 
+    "D.Va": {
+        "edges": {
+            "L\u00facio": 2, 
+            "Mei": 1, 
+            "Reinhardt": 2, 
+            "Winston": 1
+        }, 
+        "url": "/wiki/D.Va"
+    }, 
+    "Genji": {
+        "edges": {
+            "Hanzo": 3, 
+            "Mercy": 2, 
+            "Zenyatta": 2
+        }, 
+        "url": "/wiki/Genji"
+    }, 
+    "Hanzo": {
+        "edges": {
+            "Junkrat": 1
+        }, 
+        "url": "/wiki/Hanzo"
+    }, 
+    "Junkrat": {
+        "edges": {
+            "Roadhog": 3
+        }, 
+        "url": "/wiki/Junkrat"
+    }, 
+    "L\u00facio": {
+        "edges": {
+            "Symmetra": 2
+        }, 
+        "url": "/wiki/L%C3%BAcio"
+    }, 
+    "McCree": {
+        "edges": {
+            "Ana": 1, 
+            "Reaper": 2, 
+            "Sombra": 2
+        }, 
+        "url": "/wiki/McCree"
+    }, 
+    "Mei": {
+        "edges": {
+            "Junkrat": 1, 
+            "Tracer": 2, 
+            "Winston": 1
+        }, 
+        "url": "/wiki/Mei"
+    }, 
+    "Mercy": {
+        "edges": {
+            "Hanzo": 1, 
+            "Torbj\u00f6rn": 1
+        }, 
+        "url": "/wiki/Mercy"
+    }, 
+    "Orisa": {
+        "edges": {}, 
+        "url": "/wiki/Orisa"
+    }, 
+    "Pharah": {
+        "edges": {
+            "Reinhardt": 2
+        }, 
+        "url": "/wiki/Pharah"
+    }, 
+    "Reaper": {
+        "edges": {
+            "Bastion": 1, 
+            "Reinhardt": 1, 
+            "Soldier: 76": 1, 
+            "Torbj\u00f6rn": 1, 
+            "Zenyatta": 1
+        }, 
+        "url": "/wiki/Reaper"
+    }, 
+    "Reinhardt": {
+        "edges": {
+            "Mercy": 1
+        }, 
+        "url": "/wiki/Reinhardt"
+    }, 
+    "Roadhog": {
+        "edges": {}, 
+        "url": "/wiki/Roadhog"
+    }, 
+    "Soldier: 76": {
+        "edges": {
+            "Pharah": 1, 
+            "Reinhardt": 1, 
+            "Torbj\u00f6rn": 1
+        }, 
+        "url": "/wiki/Soldier:_76"
+    }, 
+    "Sombra": {
+        "edges": {
+            "Reaper": 2
+        }, 
+        "url": "/wiki/Sombra"
+    }, 
+    "Symmetra": {
+        "edges": {}, 
+        "url": "/wiki/Symmetra"
+    }, 
+    "Torbj\u00f6rn": {
+        "edges": {
+            "Bastion": 2, 
+            "Reinhardt": 1
+        }, 
+        "url": "/wiki/Torbj%C3%B6rn"
+    }, 
+    "Tracer": {
+        "edges": {
+            "Junkrat": 1, 
+            "Reaper": 2, 
+            "Zenyatta": 1
+        }, 
+        "url": "/wiki/Tracer"
+    }, 
+    "Widowmaker": {
+        "edges": {
+            "Mercy": 1, 
+            "Reaper": 2, 
+            "Sombra": 2, 
+            "Tracer": 2, 
+            "Winston": 2
+        }, 
+        "url": "/wiki/Widowmaker"
+    }, 
+    "Winston": {
+        "edges": {
+            "Reaper": 2, 
+            "Tracer": 4
+        }, 
+        "url": "/wiki/Winston"
+    }, 
+    "Zarya": {
+        "edges": {
+            "Bastion": 1, 
+            "Genji": 1, 
+            "Zenyatta": 1
+        }, 
+        "url": "/wiki/Zarya"
+    }, 
+    "Zenyatta": {
+        "edges": {}, 
+        "url": "/wiki/Zenyatta"
+    }
+}
