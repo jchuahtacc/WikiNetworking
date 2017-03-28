@@ -59,6 +59,7 @@ def intersection(list1, list2):
 # @param    accept          A list of URLs that the crawler will follow. Supplying an empty list will result in no data
 # @param    reject          A list of URLs that the crawler will NOT follow
 # @param    host            A hostname to crawl articles on
+# @param    selector        A CSS selector used to select parent elements of links from each crawled article
 def crawl(start, max_articles=200, max_depth=3, accept=list(), reject=list(), host="https://en.wikipedia.org", selector=None):
     from collections import deque
     result = dict()
