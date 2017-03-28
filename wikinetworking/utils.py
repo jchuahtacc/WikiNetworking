@@ -59,7 +59,7 @@ def intersection(list1, list2):
 # @param    accept          A list of URLs that the crawler will follow. Supplying an empty list will result in no data
 # @param    reject          A list of URLs that the crawler will NOT follow
 # @param    host            A hostname to crawl articles on
-def crawl(start, max_articles=200, max_depth=3, accept=list(), reject=list(), host="https://en.wikipedia.org"):
+def crawl(start, max_articles=200, max_depth=3, accept=list(), reject=list(), host="https://en.wikipedia.org", selector=None):
     from collections import deque
     result = dict()
     crawl_queue = deque()
@@ -85,7 +85,7 @@ def crawl(start, max_articles=200, max_depth=3, accept=list(), reject=list(), ho
             
             # Save page data
             result[current]["title"] = page("#firstHeading").text()
-            result[current]["links"] = [link for link in filter_links(page) if link in accept and link not in reject]
+            result[current]["links"] = [link for link in filter_links(page, selector=selector) if link in accept and link not in reject]
             
             # Check current depth, don't want to go to deep!
             if result[current]["depth"] <= max_depth: 
