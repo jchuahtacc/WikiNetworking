@@ -1,0 +1,1785 @@
+{
+    "Aaron Glenn": {
+        "edges": {}, 
+        "url": "/wiki/Aaron_Glenn"
+    }, 
+    "Adam Lingner": {
+        "edges": {}, 
+        "url": "/wiki/Adam_Lingner"
+    }, 
+    "Adam Schreiber": {
+        "edges": {}, 
+        "url": "/wiki/Adam_Schreiber"
+    }, 
+    "Adam Vinatieri": {
+        "edges": {
+            "George Blanda": 1, 
+            "Matt Stover": 3
+        }, 
+        "url": "/wiki/Adam_Vinatieri"
+    }, 
+    "Aeneas Williams": {
+        "edges": {
+            "Brett Favre": 1
+        }, 
+        "url": "/wiki/Aeneas_Williams"
+    }, 
+    "Al Del Greco": {
+        "edges": {}, 
+        "url": "/wiki/Al_Del_Greco"
+    }, 
+    "Alan Faneca": {
+        "edges": {}, 
+        "url": "/wiki/Alan_Faneca"
+    }, 
+    "Alan Page": {
+        "edges": {}, 
+        "url": "/wiki/Alan_Page"
+    }, 
+    "Albert Lewis (American football)": {
+        "edges": {
+            "Jerry Rice": 1
+        }, 
+        "url": "/wiki/Albert_Lewis_(American_football)"
+    }, 
+    "Andre Reed": {
+        "edges": {
+            "Art Monk": 1, 
+            "Cris Carter": 3, 
+            "Hines Ward": 1, 
+            "Isaac Bruce": 1, 
+            "Jerry Rice": 2, 
+            "Randy Moss": 1, 
+            "Tim Brown (American football)": 3
+        }, 
+        "url": "/wiki/Andre_Reed"
+    }, 
+    "Andy Lee (American football)": {
+        "edges": {
+            "Reggie Roby": 1, 
+            "Shane Lechler": 1
+        }, 
+        "url": "/wiki/Andy_Lee_(American_football)"
+    }, 
+    "Anquan Boldin": {
+        "edges": {}, 
+        "url": "/wiki/Anquan_Boldin"
+    }, 
+    "Anthony Pleasant": {
+        "edges": {}, 
+        "url": "/wiki/Anthony_Pleasant"
+    }, 
+    "Antonio Gates": {
+        "edges": {
+            "Charlie Joiner": 1, 
+            "Drew Brees": 1, 
+            "Peyton Manning": 1
+        }, 
+        "url": "/wiki/Antonio_Gates"
+    }, 
+    "Art Monk": {
+        "edges": {
+            "Darrell Green": 3, 
+            "Earnest Byner": 1, 
+            "Jerry Rice": 1
+        }, 
+        "url": "/wiki/Art_Monk"
+    }, 
+    "Art Shell": {
+        "edges": {}, 
+        "url": "/wiki/Art_Shell"
+    }, 
+    "Bill Bates": {
+        "edges": {}, 
+        "url": "/wiki/Bill_Bates"
+    }, 
+    "Bill Romanowski": {
+        "edges": {
+            "Chris Gardocki": 1
+        }, 
+        "url": "/wiki/Bill_Romanowski"
+    }, 
+    "Blair Bush": {
+        "edges": {}, 
+        "url": "/wiki/Blair_Bush"
+    }, 
+    "Bob Whitfield": {
+        "edges": {}, 
+        "url": "/wiki/Bob_Whitfield"
+    }, 
+    "Brad Maynard": {
+        "edges": {
+            "Patrick Mannelly": 1
+        }, 
+        "url": "/wiki/Brad_Maynard"
+    }, 
+    "Brad Meester": {
+        "edges": {}, 
+        "url": "/wiki/Brad_Meester"
+    }, 
+    "Brett Favre": {
+        "edges": {
+            "Donald Driver": 2, 
+            "John Elway": 2, 
+            "Michael Strahan": 2, 
+            "Peyton Manning": 6, 
+            "Tom Brady": 7
+        }, 
+        "url": "/wiki/Brett_Favre"
+    }, 
+    "Brian Dawkins": {
+        "edges": {
+            "Troy Vincent": 1
+        }, 
+        "url": "/wiki/Brian_Dawkins"
+    }, 
+    "Brian Hansen (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Brian_Hansen_(American_football)"
+    }, 
+    "Brian Jennings": {
+        "edges": {}, 
+        "url": "/wiki/Brian_Jennings"
+    }, 
+    "Brian Moorman": {
+        "edges": {
+            "Rian Lindell": 1, 
+            "Shane Lechler": 1
+        }, 
+        "url": "/wiki/Brian_Moorman"
+    }, 
+    "Bruce Armstrong": {
+        "edges": {}, 
+        "url": "/wiki/Bruce_Armstrong"
+    }, 
+    "Bruce Matthews (American football)": {
+        "edges": {
+            "Dan Marino": 1, 
+            "Darrell Green": 1, 
+            "John Elway": 1, 
+            "Richard Dent": 1
+        }, 
+        "url": "/wiki/Bruce_Matthews_(American_football)"
+    }, 
+    "Bruce Smith (defensive end)": {
+        "edges": {
+            "Andre Reed": 4, 
+            "Darryl Talley": 3, 
+            "Reggie White": 3
+        }, 
+        "url": "/wiki/Bruce_Smith_(defensive_end)"
+    }, 
+    "Bryan Barker": {
+        "edges": {}, 
+        "url": "/wiki/Bryan_Barker"
+    }, 
+    "Bryant Young": {
+        "edges": {
+            "John Randle": 1
+        }, 
+        "url": "/wiki/Bryant_Young"
+    }, 
+    "Carl Eller": {
+        "edges": {}, 
+        "url": "/wiki/Carl_Eller"
+    }, 
+    "Carl Hairston": {
+        "edges": {
+            "Kevin Carter (American football)": 1, 
+            "Reggie White": 1
+        }, 
+        "url": "/wiki/Carl_Hairston"
+    }, 
+    "Casey Wiegmann": {
+        "edges": {
+            "Kevin Mawae": 1
+        }, 
+        "url": "/wiki/Casey_Wiegmann"
+    }, 
+    "Champ Bailey": {
+        "edges": {
+            "Darrell Green": 2, 
+            "John Elway": 1, 
+            "Larry Fitzgerald": 1, 
+            "Randall McDaniel": 2, 
+            "Tom Brady": 1, 
+            "Will Shields": 2
+        }, 
+        "url": "/wiki/Champ_Bailey"
+    }, 
+    "Charles Woodson": {
+        "edges": {
+            "Darren Sharper": 2, 
+            "Peyton Manning": 2, 
+            "Rod Woodson": 2, 
+            "Tom Brady": 2, 
+            "Vinny Testaverde": 1
+        }, 
+        "url": "/wiki/Charles_Woodson"
+    }, 
+    "Charlie Joiner": {
+        "edges": {
+            "Jerry Rice": 1
+        }, 
+        "url": "/wiki/Charlie_Joiner"
+    }, 
+    "Chris Bahr": {
+        "edges": {
+            "Matt Bahr": 3, 
+            "Sebastian Janikowski": 1
+        }, 
+        "url": "/wiki/Chris_Bahr"
+    }, 
+    "Chris Doleman": {
+        "edges": {}, 
+        "url": "/wiki/Chris_Doleman"
+    }, 
+    "Chris Gardocki": {
+        "edges": {}, 
+        "url": "/wiki/Chris_Gardocki"
+    }, 
+    "Chris Gray (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Chris_Gray_(American_football)"
+    }, 
+    "Chris Mohr": {
+        "edges": {}, 
+        "url": "/wiki/Chris_Mohr"
+    }, 
+    "Clyde Simmons": {
+        "edges": {}, 
+        "url": "/wiki/Clyde_Simmons"
+    }, 
+    "Cornelius Bennett": {
+        "edges": {}, 
+        "url": "/wiki/Cornelius_Bennett"
+    }, 
+    "Craig Hentrich": {
+        "edges": {
+            "John Carney (American football)": 1
+        }, 
+        "url": "/wiki/Craig_Hentrich"
+    }, 
+    "Craig Morton": {
+        "edges": {
+            "Peyton Manning": 2, 
+            "Randy White (American football)": 1
+        }, 
+        "url": "/wiki/Craig_Morton"
+    }, 
+    "Cris Carter": {
+        "edges": {
+            "Larry Allen": 1, 
+            "Randy Moss": 1, 
+            "Tim Brown (American football)": 3, 
+            "Warren Moon": 1
+        }, 
+        "url": "/wiki/Cris_Carter"
+    }, 
+    "Dale Hellestrae": {
+        "edges": {}, 
+        "url": "/wiki/Dale_Hellestrae"
+    }, 
+    "Dan Marino": {
+        "edges": {
+            "Brett Favre": 3, 
+            "Drew Brees": 5, 
+            "John Elway": 5, 
+            "Peyton Manning": 5, 
+            "Steve DeBerg": 2, 
+            "Tom Brady": 4
+        }, 
+        "url": "/wiki/Dan_Marino"
+    }, 
+    "Dan Stryzinski": {
+        "edges": {}, 
+        "url": "/wiki/Dan_Stryzinski"
+    }, 
+    "Dan Turk": {
+        "edges": {
+            "Kevin Gogan": 1, 
+            "Matt Turk": 2, 
+            "Steve Wisniewski": 1
+        }, 
+        "url": "/wiki/Dan_Turk"
+    }, 
+    "Darrell Green": {
+        "edges": {}, 
+        "url": "/wiki/Darrell_Green"
+    }, 
+    "Darren Sharper": {
+        "edges": {
+            "Peyton Manning": 1, 
+            "Rod Woodson": 1, 
+            "Tom Brady": 1
+        }, 
+        "url": "/wiki/Darren_Sharper"
+    }, 
+    "Darryl Talley": {
+        "edges": {
+            "Andre Reed": 1, 
+            "Brian Moorman": 1, 
+            "Cornelius Bennett": 1, 
+            "Dan Marino": 1, 
+            "Fred Smerlas": 1, 
+            "James Lofton": 1, 
+            "Jim Ritcher": 1, 
+            "Pete Metzelaars": 1, 
+            "Steve Christie": 1
+        }, 
+        "url": "/wiki/Darryl_Talley"
+    }, 
+    "Dave Brown (cornerback)": {
+        "edges": {}, 
+        "url": "/wiki/Dave_Brown_(cornerback)"
+    }, 
+    "Dave Butz": {
+        "edges": {}, 
+        "url": "/wiki/Dave_Butz"
+    }, 
+    "Dave Dalby": {
+        "edges": {
+            "Gene Upshaw": 2, 
+            "Jim Otto": 2
+        }, 
+        "url": "/wiki/Dave_Dalby"
+    }, 
+    "Dave Jennings (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Dave_Jennings_(American_football)"
+    }, 
+    "Dave Krieg": {
+        "edges": {
+            "Brett Favre": 1, 
+            "Dan Marino": 1, 
+            "Steve DeBerg": 1, 
+            "Steve Largent": 1, 
+            "Warren Moon": 2
+        }, 
+        "url": "/wiki/Dave_Krieg"
+    }, 
+    "Dave Moore (American football)": {
+        "edges": {
+            "Hardy Nickerson": 1
+        }, 
+        "url": "/wiki/Dave_Moore_(American_football)"
+    }, 
+    "David Akers": {
+        "edges": {
+            "Gary Anderson (placekicker)": 1, 
+            "Jason Elam": 2, 
+            "Jason Hanson": 1, 
+            "Jerry Rice": 1, 
+            "Sebastian Janikowski": 3
+        }, 
+        "url": "/wiki/David_Akers"
+    }, 
+    "David Binn": {
+        "edges": {
+            "Junior Seau": 2, 
+            "Russ Washington": 2
+        }, 
+        "url": "/wiki/David_Binn"
+    }, 
+    "Derrick Brooks": {
+        "edges": {
+            "John Lynch (American football)": 1, 
+            "Lomas Brown": 1
+        }, 
+        "url": "/wiki/Derrick_Brooks"
+    }, 
+    "Derrick Mason": {
+        "edges": {}, 
+        "url": "/wiki/Derrick_Mason"
+    }, 
+    "Dominic Raiola": {
+        "edges": {}, 
+        "url": "/wiki/Dominic_Raiola"
+    }, 
+    "Donald Driver": {
+        "edges": {
+            "Dan Marino": 1
+        }, 
+        "url": "/wiki/Donald_Driver"
+    }, 
+    "Donnie Shell": {
+        "edges": {
+            "Mike Webster": 1
+        }, 
+        "url": "/wiki/Donnie_Shell"
+    }, 
+    "Doug Atkins": {
+        "edges": {}, 
+        "url": "/wiki/Doug_Atkins"
+    }, 
+    "Doug Dieken": {
+        "edges": {}, 
+        "url": "/wiki/Doug_Dieken"
+    }, 
+    "Doug Wilkerson": {
+        "edges": {}, 
+        "url": "/wiki/Doug_Wilkerson"
+    }, 
+    "Drew Brees": {
+        "edges": {
+            "Brett Favre": 2, 
+            "John Lynch (American football)": 1, 
+            "Peyton Manning": 6, 
+            "Warren Moon": 1
+        }, 
+        "url": "/wiki/Drew_Brees"
+    }, 
+    "Drew Hill": {
+        "edges": {
+            "Warren Moon": 1
+        }, 
+        "url": "/wiki/Drew_Hill"
+    }, 
+    "Dwight Freeney": {
+        "edges": {}, 
+        "url": "/wiki/Dwight_Freeney"
+    }, 
+    "Dwight Stone (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Dwight_Stone_(American_football)"
+    }, 
+    "Earl Morrall": {
+        "edges": {
+            "Johnny Unitas": 4, 
+            "Vinny Testaverde": 2
+        }, 
+        "url": "/wiki/Earl_Morrall"
+    }, 
+    "Earnest Byner": {
+        "edges": {}, 
+        "url": "/wiki/Earnest_Byner"
+    }, 
+    "Ed West (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Ed_West_(American_football)"
+    }, 
+    "Ed White (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Ed_White_(American_football)"
+    }, 
+    "Eddie Murray (American football)": {
+        "edges": {
+            "Jason Hanson": 1, 
+            "Nick Lowery": 1
+        }, 
+        "url": "/wiki/Eddie_Murray_(American_football)"
+    }, 
+    "Eli Manning": {
+        "edges": {
+            "Dan Marino": 1, 
+            "Drew Brees": 1, 
+            "Fran Tarkenton": 1, 
+            "John Elway": 2, 
+            "Larry Fitzgerald": 1, 
+            "Peyton Manning": 3, 
+            "Tom Brady": 3
+        }, 
+        "url": "/wiki/Eli_Manning"
+    }, 
+    "Elvin Bethea": {
+        "edges": {}, 
+        "url": "/wiki/Elvin_Bethea"
+    }, 
+    "Emmitt Smith": {
+        "edges": {
+            "Marcus Allen": 1
+        }, 
+        "url": "/wiki/Emmitt_Smith"
+    }, 
+    "Eric Allen": {
+        "edges": {
+            "Clyde Simmons": 1, 
+            "Reggie White": 1
+        }, 
+        "url": "/wiki/Eric_Allen"
+    }, 
+    "Ethan Albright": {
+        "edges": {}, 
+        "url": "/wiki/Ethan_Albright"
+    }, 
+    "Eugene Daniel": {
+        "edges": {
+            "Albert Lewis (American football)": 1, 
+            "Peyton Manning": 1
+        }, 
+        "url": "/wiki/Eugene_Daniel"
+    }, 
+    "Eugene Robinson": {
+        "edges": {
+            "John Elway": 1, 
+            "Randy Moss": 1
+        }, 
+        "url": "/wiki/Eugene_Robinson"
+    }, 
+    "Fran Tarkenton": {
+        "edges": {}, 
+        "url": "/wiki/Fran_Tarkenton"
+    }, 
+    "Frank Winters": {
+        "edges": {
+            "Brett Favre": 1
+        }, 
+        "url": "/wiki/Frank_Winters"
+    }, 
+    "Fred Cox": {
+        "edges": {}, 
+        "url": "/wiki/Fred_Cox"
+    }, 
+    "Fred Smerlas": {
+        "edges": {}, 
+        "url": "/wiki/Fred_Smerlas"
+    }, 
+    "Gary Anderson (placekicker)": {
+        "edges": {
+            "Craig Hentrich": 1
+        }, 
+        "url": "/wiki/Gary_Anderson_(placekicker)"
+    }, 
+    "Gene Hickerson": {
+        "edges": {}, 
+        "url": "/wiki/Gene_Hickerson"
+    }, 
+    "Gene Upshaw": {
+        "edges": {
+            "Alan Page": 1, 
+            "Bill Romanowski": 1, 
+            "Jerry Rice": 1, 
+            "Kevin Mawae": 2, 
+            "Matt Stover": 1
+        }, 
+        "url": "/wiki/Gene_Upshaw"
+    }, 
+    "George Blanda": {
+        "edges": {
+            "Dan Marino": 1, 
+            "Gary Anderson (placekicker)": 3, 
+            "John Carney (American football)": 3, 
+            "Lou Groza": 1
+        }, 
+        "url": "/wiki/George_Blanda"
+    }, 
+    "George Martin (American football)": {
+        "edges": {
+            "Jason Taylor (American football)": 1, 
+            "John Elway": 1
+        }, 
+        "url": "/wiki/George_Martin_(American_football)"
+    }, 
+    "Grady Alderman": {
+        "edges": {}, 
+        "url": "/wiki/Grady_Alderman"
+    }, 
+    "Greg Kragen": {
+        "edges": {}, 
+        "url": "/wiki/Greg_Kragen"
+    }, 
+    "Guy Morriss": {
+        "edges": {}, 
+        "url": "/wiki/Guy_Morriss"
+    }, 
+    "Hardy Nickerson": {
+        "edges": {}, 
+        "url": "/wiki/Hardy_Nickerson"
+    }, 
+    "Harold Jackson (American football)": {
+        "edges": {
+            "John Hadl": 1
+        }, 
+        "url": "/wiki/Harold_Jackson_(American_football)"
+    }, 
+    "Henry Ellard": {
+        "edges": {
+            "Jerry Rice": 1
+        }, 
+        "url": "/wiki/Henry_Ellard"
+    }, 
+    "Henry Thomas (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Henry_Thomas_(American_football)"
+    }, 
+    "Hines Ward": {
+        "edges": {
+            "Alan Faneca": 1, 
+            "Emmitt Smith": 1, 
+            "Randy Moss": 1
+        }, 
+        "url": "/wiki/Hines_Ward"
+    }, 
+    "Howard Cross": {
+        "edges": {}, 
+        "url": "/wiki/Howard_Cross"
+    }, 
+    "Irving Fryar": {
+        "edges": {}, 
+        "url": "/wiki/Irving_Fryar"
+    }, 
+    "Isaac Bruce": {
+        "edges": {
+            "Henry Ellard": 1, 
+            "Jerry Rice": 2
+        }, 
+        "url": "/wiki/Isaac_Bruce"
+    }, 
+    "Jack Youngblood": {
+        "edges": {
+            "Doug Atkins": 1, 
+            "Emmitt Smith": 1, 
+            "Fran Tarkenton": 1, 
+            "Jackie Slater": 2, 
+            "Jerry Rice": 1, 
+            "Jim Hart (American football)": 1, 
+            "John Elway": 1, 
+            "Merlin Olsen": 1, 
+            "Reggie White": 3, 
+            "Ron Yary": 2
+        }, 
+        "url": "/wiki/Jack_Youngblood"
+    }, 
+    "Jackie Slater": {
+        "edges": {
+            "Art Shell": 1, 
+            "Bruce Matthews (American football)": 1, 
+            "Darrell Green": 2, 
+            "Reggie White": 1
+        }, 
+        "url": "/wiki/Jackie_Slater"
+    }, 
+    "Jackie Smith": {
+        "edges": {}, 
+        "url": "/wiki/Jackie_Smith"
+    }, 
+    "James Farrior": {
+        "edges": {}, 
+        "url": "/wiki/James_Farrior"
+    }, 
+    "James Hasty": {
+        "edges": {}, 
+        "url": "/wiki/James_Hasty"
+    }, 
+    "James Lofton": {
+        "edges": {
+            "Donald Driver": 2, 
+            "Drew Hill": 1, 
+            "Jerry Rice": 1
+        }, 
+        "url": "/wiki/James_Lofton"
+    }, 
+    "Jan Stenerud": {
+        "edges": {
+            "Charlie Joiner": 1, 
+            "George Blanda": 1, 
+            "Lou Groza": 1, 
+            "Steve Christie": 1
+        }, 
+        "url": "/wiki/Jan_Stenerud"
+    }, 
+    "Jason Elam": {
+        "edges": {
+            "Fred Cox": 1, 
+            "Jason Hanson": 1, 
+            "Jim Turner (placekicker)": 1, 
+            "John Elway": 1, 
+            "Matt Bahr": 1, 
+            "Matt Stover": 1, 
+            "Nick Lowery": 1, 
+            "Norm Johnson": 1
+        }, 
+        "url": "/wiki/Jason_Elam"
+    }, 
+    "Jason Hanson": {
+        "edges": {
+            "Bruce Matthews (American football)": 1, 
+            "Darrell Green": 1, 
+            "Jackie Slater": 2
+        }, 
+        "url": "/wiki/Jason_Hanson"
+    }, 
+    "Jason Kyle": {
+        "edges": {}, 
+        "url": "/wiki/Jason_Kyle"
+    }, 
+    "Jason Taylor (American football)": {
+        "edges": {
+            "Bruce Smith (defensive end)": 1, 
+            "Champ Bailey": 1, 
+            "Dan Marino": 4, 
+            "Jessie Tuggle": 1, 
+            "John Randle": 2, 
+            "Phillip Daniels": 1, 
+            "Richard Dent": 1, 
+            "Tom Brady": 1
+        }, 
+        "url": "/wiki/Jason_Taylor_(American_football)"
+    }, 
+    "Jason Witten": {
+        "edges": {
+            "Jackie Smith": 1, 
+            "Jason Taylor (American football)": 1, 
+            "Larry Fitzgerald": 1, 
+            "Shannon Sharpe": 3
+        }, 
+        "url": "/wiki/Jason_Witten"
+    }, 
+    "Jay Feely": {
+        "edges": {
+            "Chris Mohr": 1, 
+            "David Akers": 1, 
+            "Jeff Wilkins": 1, 
+            "Olindo Mare": 1
+        }, 
+        "url": "/wiki/Jay_Feely"
+    }, 
+    "Jeff Dellenbach": {
+        "edges": {}, 
+        "url": "/wiki/Jeff_Dellenbach"
+    }, 
+    "Jeff Feagles": {
+        "edges": {
+            "Eli Manning": 1, 
+            "Gary Anderson (placekicker)": 1, 
+            "Matt Stover": 1, 
+            "Morten Andersen": 1
+        }, 
+        "url": "/wiki/Jeff_Feagles"
+    }, 
+    "Jeff Gossett": {
+        "edges": {}, 
+        "url": "/wiki/Jeff_Gossett"
+    }, 
+    "Jeff Robinson (American football)": {
+        "edges": {
+            "Jason Elam": 1, 
+            "Jeff Wilkins": 1
+        }, 
+        "url": "/wiki/Jeff_Robinson_(American_football)"
+    }, 
+    "Jeff Saturday": {
+        "edges": {
+            "Peyton Manning": 1
+        }, 
+        "url": "/wiki/Jeff_Saturday"
+    }, 
+    "Jeff Van Note": {
+        "edges": {
+            "Mike Kenn": 1
+        }, 
+        "url": "/wiki/Jeff_Van_Note"
+    }, 
+    "Jeff Wilkins": {
+        "edges": {
+            "Olindo Mare": 1
+        }, 
+        "url": "/wiki/Jeff_Wilkins"
+    }, 
+    "Jeff Zgonina": {
+        "edges": {}, 
+        "url": "/wiki/Jeff_Zgonina"
+    }, 
+    "Jerrel Wilson": {
+        "edges": {
+            "Nick Lowery": 1, 
+            "Will Shields": 1
+        }, 
+        "url": "/wiki/Jerrel_Wilson"
+    }, 
+    "Jerry Fontenot": {
+        "edges": {}, 
+        "url": "/wiki/Jerry_Fontenot"
+    }, 
+    "Jerry Rice": {
+        "edges": {
+            "Cris Carter": 3, 
+            "Emmitt Smith": 4, 
+            "Matt Hasselbeck": 1, 
+            "Randy Moss": 4, 
+            "Steve Largent": 2, 
+            "Tim Brown (American football)": 3
+        }, 
+        "url": "/wiki/Jerry_Rice"
+    }, 
+    "Jessie Tuggle": {
+        "edges": {
+            "Brett Favre": 1
+        }, 
+        "url": "/wiki/Jessie_Tuggle"
+    }, 
+    "Jim Bakken": {
+        "edges": {}, 
+        "url": "/wiki/Jim_Bakken"
+    }, 
+    "Jim Hart (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Jim_Hart_(American_football)"
+    }, 
+    "Jim Jeffcoat": {
+        "edges": {}, 
+        "url": "/wiki/Jim_Jeffcoat"
+    }, 
+    "Jim Otto": {
+        "edges": {
+            "Gene Upshaw": 1
+        }, 
+        "url": "/wiki/Jim_Otto"
+    }, 
+    "Jim Ritcher": {
+        "edges": {}, 
+        "url": "/wiki/Jim_Ritcher"
+    }, 
+    "Jim Sweeney (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Jim_Sweeney_(American_football)"
+    }, 
+    "Jim Turner (placekicker)": {
+        "edges": {}, 
+        "url": "/wiki/Jim_Turner_(placekicker)"
+    }, 
+    "Jimmy Johnson (cornerback)": {
+        "edges": {}, 
+        "url": "/wiki/Jimmy_Johnson_(cornerback)"
+    }, 
+    "Joe Nash": {
+        "edges": {}, 
+        "url": "/wiki/Joe_Nash"
+    }, 
+    "Joe Phillips (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Joe_Phillips_(American_football)"
+    }, 
+    "Joe Scibelli": {
+        "edges": {}, 
+        "url": "/wiki/Joe_Scibelli"
+    }, 
+    "John Brodie": {
+        "edges": {
+            "Fran Tarkenton": 1, 
+            "Johnny Unitas": 1
+        }, 
+        "url": "/wiki/John_Brodie"
+    }, 
+    "John Carney (American football)": {
+        "edges": {
+            "Gary Anderson (placekicker)": 1, 
+            "Jeff Wilkins": 1, 
+            "Jim Bakken": 1, 
+            "Morten Andersen": 1
+        }, 
+        "url": "/wiki/John_Carney_(American_football)"
+    }, 
+    "John Elway": {
+        "edges": {
+            "Craig Morton": 3, 
+            "Drew Brees": 3, 
+            "Fran Tarkenton": 1, 
+            "Johnny Unitas": 1, 
+            "Marcus Allen": 1, 
+            "Peyton Manning": 3, 
+            "Steve DeBerg": 2, 
+            "Tom Brady": 6
+        }, 
+        "url": "/wiki/John_Elway"
+    }, 
+    "John Hadl": {
+        "edges": {
+            "John Elway": 1
+        }, 
+        "url": "/wiki/John_Hadl"
+    }, 
+    "John Jackson (offensive tackle)": {
+        "edges": {}, 
+        "url": "/wiki/John_Jackson_(offensive_tackle)"
+    }, 
+    "John Kasay": {
+        "edges": {
+            "David Akers": 1, 
+            "Jason Hanson": 1
+        }, 
+        "url": "/wiki/John_Kasay"
+    }, 
+    "John Kidd (American football)": {
+        "edges": {}, 
+        "url": "/wiki/John_Kidd_(American_football)"
+    }, 
+    "John Lynch (American football)": {
+        "edges": {}, 
+        "url": "/wiki/John_Lynch_(American_football)"
+    }, 
+    "John Randle": {
+        "edges": {
+            "Alan Page": 1, 
+            "Brett Favre": 1, 
+            "Emmitt Smith": 1, 
+            "Henry Thomas (American football)": 1, 
+            "Jerry Rice": 1, 
+            "Richard Dent": 1, 
+            "Rickey Jackson": 1
+        }, 
+        "url": "/wiki/John_Randle"
+    }, 
+    "Johnny Unitas": {
+        "edges": {
+            "Drew Brees": 4, 
+            "John Hadl": 1
+        }, 
+        "url": "/wiki/Johnny_Unitas"
+    }, 
+    "Jon Dorenbos": {
+        "edges": {
+            "Brian Moorman": 1
+        }, 
+        "url": "/wiki/Jon_Dorenbos"
+    }, 
+    "Jon Runyan": {
+        "edges": {
+            "Steve Largent": 1
+        }, 
+        "url": "/wiki/Jon_Runyan"
+    }, 
+    "Josh Brown (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Josh_Brown_(American_football)"
+    }, 
+    "Julius Adams": {
+        "edges": {}, 
+        "url": "/wiki/Julius_Adams"
+    }, 
+    "Julius Peppers": {
+        "edges": {
+            "Brett Favre": 1, 
+            "Chris Doleman": 1, 
+            "Richard Dent": 1
+        }, 
+        "url": "/wiki/Julius_Peppers"
+    }, 
+    "Junior Seau": {
+        "edges": {
+            "John Elway": 1
+        }, 
+        "url": "/wiki/Junior_Seau"
+    }, 
+    "Justin Smith (defensive end)": {
+        "edges": {}, 
+        "url": "/wiki/Justin_Smith_(defensive_end)"
+    }, 
+    "Justin Snow": {
+        "edges": {}, 
+        "url": "/wiki/Justin_Snow"
+    }, 
+    "Keenan McCardell": {
+        "edges": {
+            "Antonio Gates": 1
+        }, 
+        "url": "/wiki/Keenan_McCardell"
+    }, 
+    "Keith Brooking": {
+        "edges": {
+            "Brett Favre": 1, 
+            "Gary Anderson (placekicker)": 1, 
+            "Jessie Tuggle": 1
+        }, 
+        "url": "/wiki/Keith_Brooking"
+    }, 
+    "Keith Traylor": {
+        "edges": {
+            "Ted Washington": 1
+        }, 
+        "url": "/wiki/Keith_Traylor"
+    }, 
+    "Kelvin Pritchett": {
+        "edges": {}, 
+        "url": "/wiki/Kelvin_Pritchett"
+    }, 
+    "Ken Clarke (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Ken_Clarke_(American_football)"
+    }, 
+    "Ken Riley": {
+        "edges": {}, 
+        "url": "/wiki/Ken_Riley"
+    }, 
+    "Kendall Gammon": {
+        "edges": {}, 
+        "url": "/wiki/Kendall_Gammon"
+    }, 
+    "Kevin Carter (American football)": {
+        "edges": {
+            "Brett Favre": 1, 
+            "Jack Youngblood": 1, 
+            "Jason Taylor (American football)": 1, 
+            "Vonnie Holliday": 1
+        }, 
+        "url": "/wiki/Kevin_Carter_(American_football)"
+    }, 
+    "Kevin Gogan": {
+        "edges": {}, 
+        "url": "/wiki/Kevin_Gogan"
+    }, 
+    "Kevin Greene": {
+        "edges": {
+            "Bruce Smith (defensive end)": 1, 
+            "Dwight Stone (American football)": 1, 
+            "Michael Strahan": 1, 
+            "Reggie White": 1, 
+            "Rickey Jackson": 1
+        }, 
+        "url": "/wiki/Kevin_Greene"
+    }, 
+    "Kevin Mawae": {
+        "edges": {
+            "Vinny Testaverde": 1
+        }, 
+        "url": "/wiki/Kevin_Mawae"
+    }, 
+    "Kevin Ross (American football)": {
+        "edges": {
+            "Albert Lewis (American football)": 2
+        }, 
+        "url": "/wiki/Kevin_Ross_(American_football)"
+    }, 
+    "Kevin Williams (defensive tackle)": {
+        "edges": {
+            "Carl Eller": 1, 
+            "Chris Doleman": 1, 
+            "John Randle": 1, 
+            "Pat Williams (American football)": 3
+        }, 
+        "url": "/wiki/Kevin_Williams_(defensive_tackle)"
+    }, 
+    "Kyle Clifton": {
+        "edges": {}, 
+        "url": "/wiki/Kyle_Clifton"
+    }, 
+    "Larry Allen": {
+        "edges": {
+            "Bruce Matthews (American football)": 1, 
+            "Emmitt Smith": 3, 
+            "John Randle": 1, 
+            "Kevin Gogan": 1, 
+            "Marcus Allen": 1, 
+            "Vinny Testaverde": 1
+        }, 
+        "url": "/wiki/Larry_Allen"
+    }, 
+    "Larry Fitzgerald": {
+        "edges": {
+            "Anquan Boldin": 3, 
+            "Jerry Rice": 1
+        }, 
+        "url": "/wiki/Larry_Fitzgerald"
+    }, 
+    "Larry Izzo": {
+        "edges": {
+            "Dan Marino": 1
+        }, 
+        "url": "/wiki/Larry_Izzo"
+    }, 
+    "Lawyer Milloy": {
+        "edges": {
+            "Peyton Manning": 1, 
+            "Vinny Testaverde": 1
+        }, 
+        "url": "/wiki/Lawyer_Milloy"
+    }, 
+    "Len Dawson": {
+        "edges": {
+            "Drew Brees": 1, 
+            "George Blanda": 1, 
+            "Kendall Gammon": 1
+        }, 
+        "url": "/wiki/Len_Dawson"
+    }, 
+    "Len Rohde": {
+        "edges": {}, 
+        "url": "/wiki/Len_Rohde"
+    }, 
+    "Lionel Washington": {
+        "edges": {}, 
+        "url": "/wiki/Lionel_Washington"
+    }, 
+    "Lomas Brown": {
+        "edges": {
+            "Sean Jones (defensive end)": 1
+        }, 
+        "url": "/wiki/Lomas_Brown"
+    }, 
+    "London Fletcher": {
+        "edges": {
+            "Adam Vinatieri": 1, 
+            "Alan Page": 1, 
+            "Derrick Brooks": 1, 
+            "Ray Lewis": 1, 
+            "Roman Phifer": 1, 
+            "Ronde Barber": 1, 
+            "Tom Brady": 2
+        }, 
+        "url": "/wiki/London_Fletcher"
+    }, 
+    "Lorenzo Neal": {
+        "edges": {}, 
+        "url": "/wiki/Lorenzo_Neal"
+    }, 
+    "Lou Groza": {
+        "edges": {}, 
+        "url": "/wiki/Lou_Groza"
+    }, 
+    "Mack Strong": {
+        "edges": {}, 
+        "url": "/wiki/Mack_Strong"
+    }, 
+    "Marco Coleman": {
+        "edges": {}, 
+        "url": "/wiki/Marco_Coleman"
+    }, 
+    "Marcus Allen": {
+        "edges": {}, 
+        "url": "/wiki/Marcus_Allen"
+    }, 
+    "Mark Moseley": {
+        "edges": {}, 
+        "url": "/wiki/Mark_Moseley"
+    }, 
+    "Mark Royals": {
+        "edges": {}, 
+        "url": "/wiki/Mark_Royals"
+    }, 
+    "Marvcus Patton": {
+        "edges": {}, 
+        "url": "/wiki/Marvcus_Patton"
+    }, 
+    "Matt Bahr": {
+        "edges": {
+            "Ray Lewis": 1
+        }, 
+        "url": "/wiki/Matt_Bahr"
+    }, 
+    "Matt Birk": {
+        "edges": {
+            "Mick Tingelhoff": 1
+        }, 
+        "url": "/wiki/Matt_Birk"
+    }, 
+    "Matt Bryant": {
+        "edges": {
+            "David Akers": 1, 
+            "Jason Elam": 2, 
+            "Sebastian Janikowski": 1
+        }, 
+        "url": "/wiki/Matt_Bryant"
+    }, 
+    "Matt Hasselbeck": {
+        "edges": {
+            "Brett Favre": 2
+        }, 
+        "url": "/wiki/Matt_Hasselbeck"
+    }, 
+    "Matt Stover": {
+        "edges": {}, 
+        "url": "/wiki/Matt_Stover"
+    }, 
+    "Matt Turk": {
+        "edges": {
+            "Mark Royals": 1
+        }, 
+        "url": "/wiki/Matt_Turk"
+    }, 
+    "Max Montoya": {
+        "edges": {}, 
+        "url": "/wiki/Max_Montoya"
+    }, 
+    "Mel Blount": {
+        "edges": {}, 
+        "url": "/wiki/Mel_Blount"
+    }, 
+    "Merlin Olsen": {
+        "edges": {
+            "Bruce Matthews (American football)": 2, 
+            "Jim Otto": 1, 
+            "John Brodie": 1
+        }, 
+        "url": "/wiki/Merlin_Olsen"
+    }, 
+    "Michael Strahan": {
+        "edges": {}, 
+        "url": "/wiki/Michael_Strahan"
+    }, 
+    "Mick Tingelhoff": {
+        "edges": {}, 
+        "url": "/wiki/Mick_Tingelhoff"
+    }, 
+    "Mike Horan (American football)": {
+        "edges": {
+            "Sean Landeta": 1
+        }, 
+        "url": "/wiki/Mike_Horan_(American_football)"
+    }, 
+    "Mike Kenn": {
+        "edges": {}, 
+        "url": "/wiki/Mike_Kenn"
+    }, 
+    "Mike Leach (long snapper)": {
+        "edges": {}, 
+        "url": "/wiki/Mike_Leach_(long_snapper)"
+    }, 
+    "Mike Vrabel": {
+        "edges": {
+            "Junior Seau": 1, 
+            "Tom Brady": 1
+        }, 
+        "url": "/wiki/Mike_Vrabel"
+    }, 
+    "Mike Webster": {
+        "edges": {
+            "Hines Ward": 1
+        }, 
+        "url": "/wiki/Mike_Webster"
+    }, 
+    "Mo Lewis": {
+        "edges": {
+            "Tom Brady": 3
+        }, 
+        "url": "/wiki/Mo_Lewis"
+    }, 
+    "Monte Coleman": {
+        "edges": {
+            "Darrell Green": 2
+        }, 
+        "url": "/wiki/Monte_Coleman"
+    }, 
+    "Morten Andersen": {
+        "edges": {
+            "David Akers": 1, 
+            "Gary Anderson (placekicker)": 3, 
+            "George Blanda": 3, 
+            "Jan Stenerud": 2, 
+            "Jason Elam": 1, 
+            "Jay Feely": 2, 
+            "Matt Bryant": 2, 
+            "Sebastian Janikowski": 2
+        }, 
+        "url": "/wiki/Morten_Andersen"
+    }, 
+    "Muhsin Muhammad": {
+        "edges": {
+            "Derrick Mason": 2
+        }, 
+        "url": "/wiki/Muhsin_Muhammad"
+    }, 
+    "Nesby Glasgow": {
+        "edges": {}, 
+        "url": "/wiki/Nesby_Glasgow"
+    }, 
+    "Nick Lowery": {
+        "edges": {}, 
+        "url": "/wiki/Nick_Lowery"
+    }, 
+    "Norm Johnson": {
+        "edges": {}, 
+        "url": "/wiki/Norm_Johnson"
+    }, 
+    "Olindo Mare": {
+        "edges": {
+            "John Carney (American football)": 2, 
+            "John Kasay": 3
+        }, 
+        "url": "/wiki/Olindo_Mare"
+    }, 
+    "Pat Fischer": {
+        "edges": {}, 
+        "url": "/wiki/Pat_Fischer"
+    }, 
+    "Pat Leahy (American football)": {
+        "edges": {
+            "Jay Feely": 1
+        }, 
+        "url": "/wiki/Pat_Leahy_(American_football)"
+    }, 
+    "Pat Williams (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Pat_Williams_(American_football)"
+    }, 
+    "Patrick Mannelly": {
+        "edges": {
+            "Steve McMichael": 1
+        }, 
+        "url": "/wiki/Patrick_Mannelly"
+    }, 
+    "Paul Krause": {
+        "edges": {}, 
+        "url": "/wiki/Paul_Krause"
+    }, 
+    "Pete Metzelaars": {
+        "edges": {}, 
+        "url": "/wiki/Pete_Metzelaars"
+    }, 
+    "Peyton Manning": {
+        "edges": {
+            "Adam Vinatieri": 1, 
+            "Bruce Matthews (American football)": 1, 
+            "Gene Upshaw": 1, 
+            "Matt Stover": 1, 
+            "Merlin Olsen": 2, 
+            "Willie McGinest": 1
+        }, 
+        "url": "/wiki/Peyton_Manning"
+    }, 
+    "Phil Dawson": {
+        "edges": {
+            "Adam Vinatieri": 1, 
+            "Lou Groza": 2, 
+            "Matt Stover": 2
+        }, 
+        "url": "/wiki/Phil_Dawson"
+    }, 
+    "Phillip Daniels": {
+        "edges": {}, 
+        "url": "/wiki/Phillip_Daniels"
+    }, 
+    "Raleigh McKenzie": {
+        "edges": {}, 
+        "url": "/wiki/Raleigh_McKenzie"
+    }, 
+    "Randall McDaniel": {
+        "edges": {}, 
+        "url": "/wiki/Randall_McDaniel"
+    }, 
+    "Randy Moss": {
+        "edges": {
+            "Brett Favre": 1, 
+            "Charles Woodson": 1, 
+            "Eli Manning": 1, 
+            "Gary Anderson (placekicker)": 1, 
+            "Peyton Manning": 2, 
+            "Terrell Owens": 2
+        }, 
+        "url": "/wiki/Randy_Moss"
+    }, 
+    "Randy Rasmussen": {
+        "edges": {}, 
+        "url": "/wiki/Randy_Rasmussen"
+    }, 
+    "Randy White (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Randy_White_(American_football)"
+    }, 
+    "Ray Brown (offensive lineman)": {
+        "edges": {}, 
+        "url": "/wiki/Ray_Brown_(offensive_lineman)"
+    }, 
+    "Ray Crockett": {
+        "edges": {}, 
+        "url": "/wiki/Ray_Crockett"
+    }, 
+    "Ray Donaldson": {
+        "edges": {
+            "Johnny Unitas": 1, 
+            "Larry Allen": 2
+        }, 
+        "url": "/wiki/Ray_Donaldson"
+    }, 
+    "Ray Guy": {
+        "edges": {
+            "George Blanda": 1, 
+            "Jan Stenerud": 2
+        }, 
+        "url": "/wiki/Ray_Guy"
+    }, 
+    "Ray Lewis": {
+        "edges": {
+            "Shannon Sharpe": 1
+        }, 
+        "url": "/wiki/Ray_Lewis"
+    }, 
+    "Ray Wersching": {
+        "edges": {}, 
+        "url": "/wiki/Ray_Wersching"
+    }, 
+    "Raymond Clayborn": {
+        "edges": {}, 
+        "url": "/wiki/Raymond_Clayborn"
+    }, 
+    "Reggie Roby": {
+        "edges": {}, 
+        "url": "/wiki/Reggie_Roby"
+    }, 
+    "Reggie Wayne": {
+        "edges": {
+            "Art Monk": 1, 
+            "Cris Carter": 1, 
+            "Jerry Rice": 1, 
+            "Peyton Manning": 5
+        }, 
+        "url": "/wiki/Reggie_Wayne"
+    }, 
+    "Reggie White": {
+        "edges": {
+            "Brett Favre": 1, 
+            "Steve McMichael": 2
+        }, 
+        "url": "/wiki/Reggie_White"
+    }, 
+    "Reggie Williams (linebacker)": {
+        "edges": {}, 
+        "url": "/wiki/Reggie_Williams_(linebacker)"
+    }, 
+    "Rian Lindell": {
+        "edges": {
+            "Charles Woodson": 1, 
+            "Sebastian Janikowski": 1, 
+            "Tom Brady": 1
+        }, 
+        "url": "/wiki/Rian_Lindell"
+    }, 
+    "Rich Camarillo": {
+        "edges": {
+            "Ray Guy": 1, 
+            "Shane Lechler": 1
+        }, 
+        "url": "/wiki/Rich_Camarillo"
+    }, 
+    "Richard Dent": {
+        "edges": {
+            "Bruce Smith (defensive end)": 1, 
+            "Reggie White": 1
+        }, 
+        "url": "/wiki/Richard_Dent"
+    }, 
+    "Rickey Jackson": {
+        "edges": {}, 
+        "url": "/wiki/Rickey_Jackson"
+    }, 
+    "Ricky Proehl": {
+        "edges": {}, 
+        "url": "/wiki/Ricky_Proehl"
+    }, 
+    "Rob Burnett (American football)": {
+        "edges": {}, 
+        "url": "/wiki/Rob_Burnett_(American_football)"
+    }, 
+    "Roberto Garza": {
+        "edges": {}, 
+        "url": "/wiki/Roberto_Garza"
+    }, 
+    "Rod Woodson": {
+        "edges": {
+            "Alan Faneca": 1, 
+            "Darrell Green": 1, 
+            "Drew Brees": 1, 
+            "Jerry Rice": 1, 
+            "Reggie White": 1, 
+            "Warren Moon": 1
+        }, 
+        "url": "/wiki/Rod_Woodson"
+    }, 
+    "Rodney Holman": {
+        "edges": {
+            "Pete Metzelaars": 1
+        }, 
+        "url": "/wiki/Rodney_Holman"
+    }, 
+    "Rohn Stark": {
+        "edges": {
+            "John Elway": 1
+        }, 
+        "url": "/wiki/Rohn_Stark"
+    }, 
+    "Roman Phifer": {
+        "edges": {
+            "Terrell Buckley": 1
+        }, 
+        "url": "/wiki/Roman_Phifer"
+    }, 
+    "Ron McDole": {
+        "edges": {
+            "Sonny Jurgensen": 1
+        }, 
+        "url": "/wiki/Ron_McDole"
+    }, 
+    "Ron Yary": {
+        "edges": {
+            "Fran Tarkenton": 1
+        }, 
+        "url": "/wiki/Ron_Yary"
+    }, 
+    "Ronde Barber": {
+        "edges": {
+            "Charles Woodson": 1, 
+            "Derrick Brooks": 1, 
+            "Matt Bryant": 1, 
+            "Peyton Manning": 1, 
+            "Vinny Testaverde": 1
+        }, 
+        "url": "/wiki/Ronde_Barber"
+    }, 
+    "Russ Washington": {
+        "edges": {}, 
+        "url": "/wiki/Russ_Washington"
+    }, 
+    "Ryan Longwell": {
+        "edges": {
+            "Brett Favre": 1
+        }, 
+        "url": "/wiki/Ryan_Longwell"
+    }, 
+    "Ryan Pickett": {
+        "edges": {
+            "Charles Woodson": 1
+        }, 
+        "url": "/wiki/Ryan_Pickett"
+    }, 
+    "Sam Adams (American football)": {
+        "edges": {
+            "Tom Brady": 1
+        }, 
+        "url": "/wiki/Sam_Adams_(American_football)"
+    }, 
+    "Scott Studwell": {
+        "edges": {}, 
+        "url": "/wiki/Scott_Studwell"
+    }, 
+    "Sean Jones (defensive end)": {
+        "edges": {
+            "Reggie White": 1
+        }, 
+        "url": "/wiki/Sean_Jones_(defensive_end)"
+    }, 
+    "Sean Landeta": {
+        "edges": {}, 
+        "url": "/wiki/Sean_Landeta"
+    }, 
+    "Sebastian Janikowski": {
+        "edges": {
+            "Jason Elam": 3, 
+            "Mark Moseley": 1
+        }, 
+        "url": "/wiki/Sebastian_Janikowski"
+    }, 
+    "Shane Lechler": {
+        "edges": {
+            "Phil Dawson": 1, 
+            "Sebastian Janikowski": 1
+        }, 
+        "url": "/wiki/Shane_Lechler"
+    }, 
+    "Shannon Sharpe": {
+        "edges": {
+            "Bruce Smith (defensive end)": 1, 
+            "Dan Marino": 1, 
+            "Rod Woodson": 1
+        }, 
+        "url": "/wiki/Shannon_Sharpe"
+    }, 
+    "Sonny Jurgensen": {
+        "edges": {}, 
+        "url": "/wiki/Sonny_Jurgensen"
+    }, 
+    "Stan Brock": {
+        "edges": {
+            "Peyton Manning": 1
+        }, 
+        "url": "/wiki/Stan_Brock"
+    }, 
+    "Steve Christie": {
+        "edges": {
+            "Jason Elam": 3
+        }, 
+        "url": "/wiki/Steve_Christie"
+    }, 
+    "Steve DeBerg": {
+        "edges": {
+            "Peyton Manning": 1, 
+            "Vinny Testaverde": 1
+        }, 
+        "url": "/wiki/Steve_DeBerg"
+    }, 
+    "Steve Largent": {
+        "edges": {}, 
+        "url": "/wiki/Steve_Largent"
+    }, 
+    "Steve McMichael": {
+        "edges": {
+            "Kevin Greene": 2
+        }, 
+        "url": "/wiki/Steve_McMichael"
+    }, 
+    "Steve Wisniewski": {
+        "edges": {
+            "Art Shell": 1, 
+            "Tim Brown (American football)": 1
+        }, 
+        "url": "/wiki/Steve_Wisniewski"
+    }, 
+    "Takeo Spikes": {
+        "edges": {
+            "London Fletcher": 1, 
+            "Peyton Manning": 1, 
+            "Tom Brady": 1
+        }, 
+        "url": "/wiki/Takeo_Spikes"
+    }, 
+    "Ted Hendricks": {
+        "edges": {}, 
+        "url": "/wiki/Ted_Hendricks"
+    }, 
+    "Ted Washington": {
+        "edges": {
+            "Bruce Smith (defensive end)": 1
+        }, 
+        "url": "/wiki/Ted_Washington"
+    }, 
+    "Terance Mathis": {
+        "edges": {}, 
+        "url": "/wiki/Terance_Mathis"
+    }, 
+    "Terence Newman": {
+        "edges": {
+            "Charles Woodson": 1
+        }, 
+        "url": "/wiki/Terence_Newman"
+    }, 
+    "Terrell Buckley": {
+        "edges": {}, 
+        "url": "/wiki/Terrell_Buckley"
+    }, 
+    "Terrell Owens": {
+        "edges": {
+            "Andre Reed": 2, 
+            "Brett Favre": 3, 
+            "Cris Carter": 2, 
+            "Jason Witten": 2, 
+            "Jerry Rice": 5, 
+            "Larry Fitzgerald": 1
+        }, 
+        "url": "/wiki/Terrell_Owens"
+    }, 
+    "Tim Brown (American football)": {
+        "edges": {
+            "Gene Upshaw": 1, 
+            "Marcus Allen": 1, 
+            "Sean Jones (defensive end)": 1, 
+            "Steve Largent": 1
+        }, 
+        "url": "/wiki/Tim_Brown_(American_football)"
+    }, 
+    "Tim Irwin": {
+        "edges": {}, 
+        "url": "/wiki/Tim_Irwin"
+    }, 
+    "Todd Steussie": {
+        "edges": {
+            "Randall McDaniel": 1, 
+            "Wayne Gandy": 1
+        }, 
+        "url": "/wiki/Todd_Steussie"
+    }, 
+    "Tom Brady": {
+        "edges": {
+            "Adam Vinatieri": 2, 
+            "Drew Brees": 5, 
+            "Peyton Manning": 11, 
+            "Randy Moss": 3, 
+            "Troy Vincent": 1, 
+            "Willie McGinest": 1
+        }, 
+        "url": "/wiki/Tom_Brady"
+    }, 
+    "Tom Rafferty": {
+        "edges": {}, 
+        "url": "/wiki/Tom_Rafferty"
+    }, 
+    "Tom Tupa": {
+        "edges": {}, 
+        "url": "/wiki/Tom_Tupa"
+    }, 
+    "Tony McGee": {
+        "edges": {}, 
+        "url": "/wiki/Tony_McGee"
+    }, 
+    "Tony Richardson (American football)": {
+        "edges": {
+            "Emmitt Smith": 1, 
+            "Marcus Allen": 1
+        }, 
+        "url": "/wiki/Tony_Richardson_(American_football)"
+    }, 
+    "Trace Armstrong": {
+        "edges": {
+            "Gene Upshaw": 1, 
+            "Jack Youngblood": 1
+        }, 
+        "url": "/wiki/Trace_Armstrong"
+    }, 
+    "Trey Junkin": {
+        "edges": {}, 
+        "url": "/wiki/Trey_Junkin"
+    }, 
+    "Troy Vincent": {
+        "edges": {
+            "Kevin Mawae": 1
+        }, 
+        "url": "/wiki/Troy_Vincent"
+    }, 
+    "Ty Law": {
+        "edges": {
+            "Peyton Manning": 1
+        }, 
+        "url": "/wiki/Ty_Law"
+    }, 
+    "Vinny Testaverde": {
+        "edges": {
+            "Brett Favre": 1, 
+            "Gene Upshaw": 1, 
+            "Tom Brady": 1
+        }, 
+        "url": "/wiki/Vinny_Testaverde"
+    }, 
+    "Vonnie Holliday": {
+        "edges": {
+            "Charles Woodson": 1, 
+            "Drew Brees": 1, 
+            "Jason Taylor (American football)": 1
+        }, 
+        "url": "/wiki/Vonnie_Holliday"
+    }, 
+    "Warren Moon": {
+        "edges": {
+            "Brett Favre": 1, 
+            "Dan Marino": 1, 
+            "Steve Christie": 1
+        }, 
+        "url": "/wiki/Warren_Moon"
+    }, 
+    "Wayne Gandy": {
+        "edges": {}, 
+        "url": "/wiki/Wayne_Gandy"
+    }, 
+    "Wayne Walker": {
+        "edges": {
+            "Jason Hanson": 1
+        }, 
+        "url": "/wiki/Wayne_Walker"
+    }, 
+    "Will Shields": {
+        "edges": {
+            "Brett Favre": 1, 
+            "Marcus Allen": 1, 
+            "Randall McDaniel": 2
+        }, 
+        "url": "/wiki/Will_Shields"
+    }, 
+    "Willie Brown (American football)": {
+        "edges": {
+            "Fran Tarkenton": 1
+        }, 
+        "url": "/wiki/Willie_Brown_(American_football)"
+    }, 
+    "Willie McGinest": {
+        "edges": {
+            "Bruce Smith (defensive end)": 1
+        }, 
+        "url": "/wiki/Willie_McGinest"
+    }
+}
