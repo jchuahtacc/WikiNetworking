@@ -50,16 +50,16 @@ def make_interactive_graph(graph, pos=None, cmap=plt.cm.viridis, edge_cmap=plt.c
 	nodes = nx.draw_networkx_nodes(graph, pos=pos, node_size=sizes, node_color=sizes, cmap=cmap, alpha=0.3)
 	edges = nx.draw_networkx_edges(graph, pos=pos, edge_color=weights, edge_cmap=edge_cmap, arrows=False, alpha=0.3)
 
-	tip_div = "<div style='background: #FFF; border-style: solid; border-width: 1px; padding: 2px;'>{}</div>"
+	tip_div = u"<div style='background: #FFF; border-style: solid; border-width: 1px; padding: 2px;'>{}</div>"
 
 	html_labels = list()
 	for node in graph.nodes():
 		neighbors = graph[node]
-		neighbor_list = sorted([(neighbor.encode('utf-8'), graph[node][neighbor]["weight"]) for neighbor in graph[node]], key=lambda tup: tup[1], reverse=True)[:3]
-		list_label = "<br />".join(["{} ({})".format(neighbor[0].encode('utf-8'), neighbor[1]) for neighbor in neighbor_list])
-		html_labels.append( tip_div.format("<strong>{}</strong><br/><i>{}</i>".format(node.encode('utf-8'), list_label)))
+		neighbor_list = sorted([(neighbor, graph[node][neighbor]["weight"]) for neighbor in graph[node]], key=lambda tup: tup[1], reverse=True)[:3]
+		list_label = u"<br />".join([u"{} ({})".format(neighbor[0], neighbor[1]) for neighbor in neighbor_list])
+		html_labels.append( tip_div.format(u"<strong>{}</strong><br/><i>{}</i>".format(node, list_label)))
 
-	line_labels = [ tip_div.format("<strong>{}</strong> and <strong>{}</strong> <i>({})</i>".format(u.encode('utf-8'), v.encode('utf-8'), d["weight"])) for (u, v, d) in graph.edges(data=True) ]
+	line_labels = [ tip_div.format(u"<strong>{}</strong> and <strong>{}</strong> <i>({})</i>".format(u, v, d["weight"])) for (u, v, d) in graph.edges(data=True) ]
 
 	tooltips = mpld3.plugins.PointHTMLTooltip(nodes, labels=html_labels, voffset=-10, hoffset=10)
 	linetips = mpld3.plugins.PointHTMLTooltip(edges, labels=line_labels, voffset=-5, hoffset=10)
