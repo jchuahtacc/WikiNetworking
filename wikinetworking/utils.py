@@ -60,7 +60,14 @@ def intersection(list1, list2):
 # @param    reject          A list of URLs that the crawler will NOT follow
 # @param    host            A hostname to crawl articles on
 # @param    selector        A CSS selector used to select parent elements of links from each crawled article
-def crawl(start, max_articles=200, max_depth=3, accept=list(), reject=list(), host="https://en.wikipedia.org", selector=None):
+# @param    title_selector  A CSS selector for the HTML element that contains a page's title. Useful for non-Wikipedia wikis
+def crawl(start, \
+            max_articles=200, \
+            max_depth=3, accept=list(), \
+            reject=list(), \
+            host="https://en.wikipedia.org", \
+            selector=None, \
+            title_selector="#firstHeading"):
     from collections import deque
     result = dict()
     crawl_queue = deque()
@@ -85,7 +92,7 @@ def crawl(start, max_articles=200, max_depth=3, accept=list(), reject=list(), ho
                 result[current]["depth"] = 0
             
             # Save page data
-            result[current]["title"] = page("#firstHeading").text()
+            result[current]["title"] = page(title_selector).text()
             result[current]["links"] = [link for link in filter_links(page, selector=selector) if link in accept and link not in reject]
             
             # Check current depth, don't want to go to deep!
