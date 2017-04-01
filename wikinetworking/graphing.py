@@ -38,7 +38,7 @@ def make_interactive_graph(graph, pos=None, cmap=plt.cm.viridis, edge_cmap=plt.c
 	ax = plt.Axes(fig, [0., 0., 1., 1.])
 	ax.set_axis_off()
 	fig.add_axes(ax)
-	
+
 	weights = [ d["weight"] for (u, v, d) in graph.edges(data=True)]
 	degrees = nx.degree(graph)
 	sizes = [ degrees[name] * node_size_factor for name in graph.nodes() ]
@@ -76,11 +76,13 @@ def make_interactive_graph(graph, pos=None, cmap=plt.cm.viridis, edge_cmap=plt.c
 # @param	pos					An optional layout for graph nodes. If not specified, spring_layout will be used
 # @param	cmap 				A colormap for graph nodes. Nodes are color mapped to node degree
 # @param	edge_cmap			A colormap for graph edges. Edges are color mapped to edge weights
+# @param    width               Image width, in inches (default is 8)
+# @param    height              Image height, in inches (default is 6)
 # @param	node_size_factor	A node size factor. Node sizes are a product of the size factor and the node's degree
 # @param	dpi 				Linear DPI of the graph. The graph is 8 inches wide and 6 inches tall
 # @param	font_size			A font size for node labels
 # @param	output_file			A filename for the output image
-def save_big_graph(graph, pos=None, cmap=plt.cm.viridis, edge_cmap=plt.cm.Reds, dpi=600, font_size=1, node_size_factor=5, output_file="network.png"):
+def save_big_graph(graph, pos=None, cmap=plt.cm.viridis, edge_cmap=plt.cm.Reds, width=8, height=6, dpi=600, font_size=1, node_size_factor=5, output_file="network.png"):
 	import matplotlib
 	weights = [ d["weight"] for (u, v, d) in graph.edges(data=True)]
 	degrees = nx.degree(graph)
@@ -88,8 +90,8 @@ def save_big_graph(graph, pos=None, cmap=plt.cm.viridis, edge_cmap=plt.cm.Reds, 
 	urls = [ d["url"] for u, d in graph.nodes(data=True) ]
 
 	print "Rendering hi-resolution image..."
-	
-	fig = plt.figure(1, figsize=(8, 6), dpi=dpi)
+
+	fig = plt.figure(1, figsize=(width, height), dpi=dpi)
 	ax = plt.Axes(fig, [0., 0., 1., 1.])
 	ax.set_axis_off()
 	fig.add_axes(ax)
