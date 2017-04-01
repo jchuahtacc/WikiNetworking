@@ -1,5 +1,5 @@
 from pyquery import PyQuery
-import time  
+import time
 
 ## Filters a PyQuery object populated from a Wiki page for links
 # @param    selector    An optional DOM selector for elements containing desired links
@@ -60,13 +60,12 @@ def intersection(list1, list2):
 # @param    reject          A list of URLs that the crawler will NOT follow
 # @param    host            A hostname to crawl articles on
 # @param    selector        A CSS selector used to select parent elements of links from each crawled article
-# @param    title_selector  A CSS selector for the HTML element that contains a page's title. Useful for non-Wikipedia wikis
 def crawl(start, \
             max_articles=200, \
             max_depth=3, accept=list(), \
             reject=list(), \
             host="https://en.wikipedia.org", \
-            selector=None, \
+            selector="", \
             title_selector="#firstHeading"):
     from collections import deque
     result = dict()
@@ -85,28 +84,28 @@ def crawl(start, \
         print "{}: Retrieving {}, ({} left in queue)".format(count, current.encode('utf-8'), len(crawl_queue))
         try:
             page = PyQuery(url=host+current)
-            
+
             # Make sure page exists in structure
             if current not in result:
                 result[current] = dict()
                 result[current]["depth"] = 0
-            
+
             # Save page data
             result[current]["title"] = page(title_selector).text()
             result[current]["links"] = [link for link in filter_links(page, selector=selector) if link in accept and link not in reject]
-            
+
             # Check current depth, don't want to go to deep!
-            if result[current]["depth"] <= max_depth: 
+            if result[current]["depth"] <= max_depth:
                 for link in result[current]["links"]:
                     if link not in result and link not in crawl_queue:
                         crawl_queue.append(link)
                         result[link] = dict()
                         result[link]["depth"] = result[current]["depth"] + 1
-                        
+
             # Important!!!
             time.sleep(2)
-        except:
-            print "Error retrieving", host+current
+        except Exception as ex:
+            print "Error retrieving", host+current, ":", ex
 
     return result
 
@@ -127,7 +126,7 @@ def directed_graph(data):
                 link_title = link
             if link_title not in result[current_title]:
                 result[current_title]["edges"][link_title] = data[item]["links"].count(link)
-    return result 
+    return result
 
 ## Creates a dictionary representing an undirected graph from crawl data
 # @param    data    A dictionary from the result of @link <crawl>
@@ -151,7 +150,7 @@ def undirected_graph(data):
                 elif link_title not in result[current_title]:
                     result[current_title]["edges"][link_title] = data[item]["links"].count(link)
                 already_counted.append(link)
-    return result 
+    return result
 
 ## Saves a dictionary to a file in JSON format
 # @param    data        The dictionary to save
@@ -168,7 +167,7 @@ def save_dict(data, filename, pretty=True):
 
 ## Reads a dictionary from a file in JSON format
 # @param    filename    The input filename
-# @return               A dictionary from the JSON file        
+# @return               A dictionary from the JSON file
 def load_dict(filename):
     import json
     with open(filename, 'r') as f:
