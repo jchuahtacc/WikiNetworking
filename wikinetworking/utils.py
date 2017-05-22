@@ -13,7 +13,7 @@ def filter_links(page, selector=""):
             linkQuery = PyQuery(link)
             if not linkQuery.hasClass("mw-redirect"):
                 href = linkQuery.attr("href")
-                if "/wiki/" in href and "#" not in href:
+                if href and "/wiki/" in href and "#" not in href:
                     result.append(linkQuery.attr("href"))
     return result
 
