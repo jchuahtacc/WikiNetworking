@@ -96,6 +96,7 @@
 /wiki/Baron_Mordo
 /wiki/Baron_Strucker
 /wiki/Baron_Zemo
+/wiki/Helmut_Zemo
 /wiki/Barracuda_(comics)
 /wiki/Dark_Riders_(comics)
 /wiki/Force_of_Nature_(comics)
@@ -331,6 +332,7 @@
 /wiki/Copycat_(Marvel_Comics)
 /wiki/Anya_Corazon
 /wiki/Peter_Corbeau
+/wiki/Edwin_Cord
 /wiki/Abraham_Cornelius
 /wiki/Archie_Corrigan
 /wiki/Corsair_(comics)
@@ -346,6 +348,7 @@
 /wiki/Crimson_Cowl_(Justine_Hammer)
 /wiki/Crimson_Curse
 /wiki/Crimson_Dynamo
+/wiki/Dmitri_Bukharin
 /wiki/Crippler_(comics)
 /wiki/Augustine_Cross
 /wiki/Darren_Cross
@@ -445,6 +448,7 @@
 /wiki/Dragonfly_(Marvel_Comics)
 /wiki/Dragoness_(comics)
 /wiki/Frank_Drake_(comics)
+/wiki/Damon_Dran
 /wiki/Drax_the_Destroyer
 /wiki/Dreadknight
 /wiki/Dreadnought_(comics)
@@ -551,7 +555,7 @@
 /wiki/Foundry_(comics)
 /wiki/Foxbat_(comics)
 /wiki/Foxfire_(comics)
-/wiki/Fraktur
+/wiki/Nova_Corps
 /wiki/Frankenstein%27s_Monster_(Marvel_Comics)
 /wiki/Freak_(Marvel_Comics)
 /wiki/Freakshow_(comics)
@@ -655,6 +659,7 @@
 /wiki/Harry_Osborn
 /wiki/Phil_Urich
 /wiki/Grey_Gargoyle
+/wiki/Jean_Grey
 /wiki/Griffin_(Marvel_Comics)
 /wiki/D._W._Griffith
 /wiki/Grim_Hunter
@@ -736,6 +741,7 @@
 /wiki/Decimation_(comics)
 /wiki/Hope_Summers_(comics)
 /wiki/Hornet_(comics)
+/wiki/Spider-Man
 /wiki/Phineas_Horton
 /wiki/Howard_the_Duck
 /wiki/Hrimhari
@@ -770,7 +776,6 @@
 /wiki/Hydro-Man
 /wiki/Hyperion_(comics)
 /wiki/Hypno-Hustler
-/wiki/Iceman_(comics)
 /wiki/Icemaster
 /wiki/Ikaris
 /wiki/Immortus
@@ -897,6 +902,7 @@
 /wiki/Kraven_the_Hunter_(Ana_Kravinoff)
 /wiki/Kro_(comics)
 /wiki/Kronos_(comics)
+/wiki/Marvel_Cinematic_Universe
 /wiki/Krystalin
 /wiki/Kurse
 /wiki/Kylun
@@ -986,6 +992,9 @@
 /wiki/Mad_Dog_Rassitano
 /wiki/Mad_Jim_Jaspers
 /wiki/Mad_Thinker
+/wiki/Madame_Hydra
+/wiki/Viper_(Madame_Hydra)
+/wiki/Valentina_Allegra_de_Fontaine
 /wiki/Madame_Masque
 /wiki/Madame_Sanctity
 /wiki/Madame_Web
@@ -1004,7 +1013,6 @@
 /wiki/Enchanters_Three
 /wiki/Elementals_(Marvel_Comics)
 /wiki/Magus_(Technarchy)
-/wiki/Maha_Yogi
 /wiki/Mahkizmo
 /wiki/Brett_Mahony
 /wiki/Mahr_Vehl
@@ -1039,6 +1047,8 @@
 /wiki/Marvel_Boy
 /wiki/Marvel_Boy_(Robert_Grayson)
 /wiki/Noh-Varr
+/wiki/Jean_Grey
+/wiki/Rachel_Summers
 /wiki/Marvelman
 /wiki/Masque_(comics)
 /wiki/Jack_Power
@@ -1231,6 +1241,7 @@
 /wiki/Obnoxio_the_Clown
 /wiki/Occulus
 /wiki/Oddball_(comics)
+/wiki/Aleta_Ogord
 /wiki/Ogre_(Marvel_Comics)
 /wiki/Ogress_(comics)
 /wiki/Ogun_(comics)
@@ -1334,6 +1345,7 @@
 /wiki/Poundcakes
 /wiki/Powderkeg
 /wiki/Power_Broker
+/wiki/Luke_Cage
 /wiki/Power_Man_(Victor_Alvarez)
 /wiki/Power_Princess
 /wiki/Powerhouse_(comics)
@@ -1392,6 +1404,7 @@
 /wiki/Raiders_(comics)
 /wiki/Rakkus
 /wiki/Rebel_Ralston
+/wiki/Marvel_Cinematic_Universe
 /wiki/Rampage_(Marvel_Comics)
 /wiki/Random_(comics)
 /wiki/Harriers_(comics)
@@ -1415,6 +1428,7 @@
 /wiki/Red_Ghost
 /wiki/Red_Guardian
 /wiki/Red_Lotus_(comics)
+/wiki/Red_Hulk
 /wiki/Thunderbolt_Ross
 /wiki/Robert_Maverick
 /wiki/Red_Nine
@@ -1442,6 +1456,7 @@
 /wiki/Nathaniel_Richards_(Marvel_Comics)
 /wiki/Valeria_Richards
 /wiki/Ricochet_(comics)
+/wiki/Spider-Man
 /wiki/Rictor
 /wiki/Right-Winger_(comics)
 /wiki/Ringer_(comics)
@@ -1493,8 +1508,13 @@
 /wiki/Scarecrow_(Marvel_Comics)
 /wiki/Scarlet_Scarab
 /wiki/Scarlet_Spider
+/wiki/Ben_Reilly
+/wiki/Kaine_Parker
 /wiki/Scarlet_Witch
 /wiki/Schizoid_Man_(comics)
+/wiki/Hank_Pym
+/wiki/Monica_Rappaccini
+/wiki/Andrew_Forson
 /wiki/Scorcher_(comics)
 /wiki/Scorpia_(comics)
 /wiki/Scorpio_(comics)
@@ -1589,7 +1609,6 @@
 /wiki/Sise-Neg
 /wiki/Jasper_Sitwell
 /wiki/Giants_(Marvel_Comics)
-/wiki/Skaar_(comics)
 /wiki/Skein_(comics)
 /wiki/Skids_(comics)
 /wiki/Skin_(Marvel_Comics)

@@ -1,1 +1,1950 @@
-{"Iron Man": {"url": "/wiki/Iron_Man", "edges": {"Laufey (comics)": 2, "Sharon Carter": 4, "Helmut Zemo": 4, "Iron Monger": 8, "Ultron": 5, "Tyr (Marvel Comics)": 2, "Loki (comics)": 7, "Volstagg": 2, "Maria Stark": 5, "Friday (comics)": 6, "War Machine": 16, "Gabe Jones": 4, "Scarlet Witch": 2, "Justin Hammer": 10, "Crossbones (comics)": 5, "Thor (Marvel Comics)": 14, "Vision (Marvel Comics)": 3, "Collector (comics)": 3, "Thanos": 6, "Sif (comics)": 2, "Maria Hill": 8, "Ego the Living Planet": 3, "Alexander Goodwin Pierce": 2, "Captain America": 18, "Phil Coulson": 3, "Grandmaster (Marvel Comics)": 3, "Fandral": 2}}, "Hank Pym": {"url": "/wiki/Hank_Pym", "edges": {"Hope Pym": 9, "Iron Man": 7, "Quicksilver (comics)": 3, "Sharon Carter": 2, "Darren Cross": 10, "Helmut Zemo": 2, "Thanos": 2, "Red Skull": 3, "Ultron": 17, "Jasper Sitwell": 2, "Loki (comics)": 3, "Vulture (Marvel Comics)": 1, "War Machine": 3, "Ant-Man (Scott Lang)": 11, "Captain America": 5, "Thor (Marvel Comics)": 6, "Vision (Marvel Comics)": 2, "Collector (comics)": 2, "Doctor Strange": 2, "Yellowjacket (Marvel Comics)": 17, "Gabe Jones": 2, "Nick Fury": 2, "Hulk (comics)": 5, "Wasp (comics)": 22, "Crossbones (comics)": 2, "Grandmaster (Marvel Comics)": 2}}, "Helmut Zemo": {"url": "/wiki/Helmut_Zemo", "edges": {"Sharon Carter": 2, "Collector (comics)": 2, "Hawkeye (comics)": 3, "Black Panther (comics)": 1, "Loki (comics)": 4, "Spider-Man": 1, "Captain America": 7, "Thor (Marvel Comics)": 3, "Thanos": 2, "Erik Selvig": 1, "Justin Hammer": 2, "Crossbones (comics)": 3, "Ultron": 3, "Grandmaster (Marvel Comics)": 5, "Klaw (Marvel Comics)": 2, "Bucky Barnes": 7, "Maria Hill": 1}}, "Thunderbolt Ross": {"url": "/wiki/Thunderbolt_Ross", "edges": {"Iron Man": 5, "Black Widow (Natasha Romanova)": 1, "Nick Fury": 1, "Thor (Marvel Comics)": 2, "Baron Mordo": 1, "Captain America": 3, "Grandmaster (Marvel Comics)": 2, "Spider-Man": 2}}, "Kurse": {"url": "/wiki/Kurse", "edges": {"Tyr (Marvel Comics)": 2, "Iron Man": 2, "Hela (comics)": 3, "Loki (comics)": 3, "Executioner (comics)": 2, "Thor (Marvel Comics)": 6, "Sif (comics)": 2, "Fandral": 2, "Laufey (comics)": 2, "Hogun": 2, "Jane Foster (comics)": 2, "Valkyrie (Marvel Comics)": 2, "Captain America": 2, "Volstagg": 3, "Ego the Living Planet": 2, "Malekith the Accursed": 7}}, "Friday (comics)": {"url": "/wiki/Friday_(comics)", "edges": {"Maria Hill": 2, "Captain America": 2}}, "Justin Hammer": {"url": "/wiki/Justin_Hammer", "edges": {"Trevor Slattery": 1, "Hawkeye (comics)": 1, "Spider-Man": 1, "Captain America": 4, "Friday (comics)": 2, "Red Skull": 1, "Ultron": 1, "Falcon (comics)": 1, "Maria Hill": 2}}, "Scarlet Witch": {"url": "/wiki/Scarlet_Witch", "edges": {"Baron Mordo": 2, "Black Panther (comics)": 1, "Loki (comics)": 6, "Hank Pym": 1, "Sharon Carter": 1, "Thor (Marvel Comics)": 3, "Vision (Marvel Comics)": 7, "Nick Fury": 1, "Captain America": 8, "Ultron": 4, "Gabe Jones": 1, "Jasper Sitwell": 1}}, "Hela (comics)": {"url": "/wiki/Hela_(comics)", "edges": {"Tyr (Marvel Comics)": 4, "Executioner (comics)": 3, "Loki (comics)": 10, "Dormammu": 1, "Hulk (comics)": 1, "Thor (Marvel Comics)": 5, "Sif (comics)": 3, "Fandral": 2, "Laufey (comics)": 2, "Hogun": 2, "Iron Man": 2, "Volstagg": 2, "Jane Foster (comics)": 2, "Valkyrie (Marvel Comics)": 5, "Collector (comics)": 1, "Captain America": 2, "Thanos": 1, "Ego the Living Planet": 2, "Malekith the Accursed": 4}}, "Heimdall (comics)": {"url": "/wiki/Heimdall_(comics)", "edges": {"Tyr (Marvel Comics)": 2, "Executioner (comics)": 4, "Hela (comics)": 2, "Loki (comics)": 5, "Kurse": 2, "Hulk (comics)": 1, "Thor (Marvel Comics)": 5, "Fandral": 2, "Laufey (comics)": 2, "Hogun": 2, "Iron Man": 2, "Volstagg": 2, "Jane Foster (comics)": 2, "Valkyrie (Marvel Comics)": 2, "Captain America": 2, "Sif (comics)": 4, "Ego the Living Planet": 2, "Malekith the Accursed": 3}}, "Malekith the Accursed": {"url": "/wiki/Malekith_the_Accursed", "edges": {"Tyr (Marvel Comics)": 2, "Laufey (comics)": 6, "Loki (comics)": 4, "Executioner (comics)": 3, "Thor (Marvel Comics)": 5, "Iron Man": 2, "Volstagg": 2, "Captain America": 2, "Sif (comics)": 2, "Ego the Living Planet": 2, "Fandral": 3}}, "Maria Hill": {"url": "/wiki/Maria_Hill", "edges": {"Vision (Marvel Comics)": 1, "Spider-Man": 3, "Bucky Barnes": 3, "Crossbones (comics)": 2}}, "Hawkeye (comics)": {"url": "/wiki/Hawkeye_(comics)", "edges": {"Hope Pym": 2, "Iron Man": 7, "Quicksilver (comics)": 2, "Black Widow (Natasha Romanova)": 12, "Hank Pym": 9, "Sharon Carter": 4, "Darren Cross": 3, "Peggy Carter": 2, "Ultron": 3, "Bucky Barnes": 5, "Crimson Dynamo": 2, "Falcon (comics)": 4, "War Machine": 4, "Ant-Man (Scott Lang)": 4, "Scarlet Witch": 7, "Jasper Sitwell": 2, "Crossbones (comics)": 2, "Thor (Marvel Comics)": 1, "Collector (comics)": 1, "Doctor Strange": 2, "Maria Hill": 4, "Yellowjacket (Marvel Comics)": 2, "Nick Fury": 4, "Hulk (comics)": 2, "Alexander Goodwin Pierce": 2, "Wasp (comics)": 6, "Captain America": 12, "Phil Coulson": 2}}, "Ned Leeds": {"url": "/wiki/Ned_Leeds", "edges": {"Shocker (comics)": 4, "Liz Allan": 5, "Spider-Man": 11, "Flash Thompson": 6, "Vulture (Marvel Comics)": 4, "Aunt May": 5, "Tinkerer": 4}}, "Valkyrie (Marvel Comics)": {"url": "/wiki/Valkyrie_(Marvel_Comics)", "edges": {"Iron Man": 3, "Hulk (comics)": 5, "Hank Pym": 1, "Sharon Carter": 2, "Laufey (comics)": 2, "Tyr (Marvel Comics)": 2, "Loki (comics)": 4, "Jane Foster (comics)": 2, "War Machine": 3, "Ego the Living Planet": 2, "Executioner (comics)": 2, "Ancient One": 1, "Thor (Marvel Comics)": 8, "Abomination (comics)": 1, "Sif (comics)": 4, "Malekith the Accursed": 2, "Hawkeye (comics)": 1, "Dormammu": 3, "Hogun": 2, "Captain America": 5, "Volstagg": 2, "Fandral": 2}}, "Betty Ross": {"url": "/wiki/Betty_Ross", "edges": {"Iron Man": 3, "Maria Hill": 1, "Loki (comics)": 1, "Black Widow (Natasha Romanova)": 1, "Nick Fury": 1, "Sharon Carter": 1, "Jasper Sitwell": 1, "Crossbones (comics)": 1, "Peggy Carter": 1, "Captain America": 1, "Phil Coulson": 1, "Alexander Goodwin Pierce": 1, "Thunderbolt Ross": 9, "Hawkeye (comics)": 1}}, "Quicksilver (comics)": {"url": "/wiki/Quicksilver_(comics)", "edges": {"Scarlet Witch": 14, "Black Panther (comics)": 1, "Loki (comics)": 2, "Liz Allan": 2, "Nick Fury": 1, "Sharon Carter": 1, "Hulk (comics)": 1, "Iron Man": 4, "Thor (Marvel Comics)": 1, "Vision (Marvel Comics)": 3, "Wasp (comics)": 1, "Peggy Carter": 1, "Captain America": 2, "Ultron": 5, "Thanos": 2, "Gabe Jones": 1, "Jasper Sitwell": 1, "Ronan the Accuser": 2}}, "Spider-Man": {"url": "/wiki/Spider-Man", "edges": {"Shocker (comics)": 12, "Carol Danvers": 5, "Liz Allan": 11, "Hulk (comics)": 2, "Doctor Strange": 4, "Flash Thompson": 18, "Thor (Marvel Comics)": 1, "Vulture (Marvel Comics)": 14, "Iron Man": 4, "Aunt May": 15, "Tinkerer": 10, "Captain America": 6}}, "Darren Cross": {"url": "/wiki/Darren_Cross", "edges": {"Hope Pym": 5, "Iron Man": 1, "Yellowjacket (Marvel Comics)": 9, "Spider-Man": 1, "Vision (Marvel Comics)": 1, "Captain America": 1, "Ultron": 4}}, "Peggy Carter": {"url": "/wiki/Peggy_Carter", "edges": {"Iron Man": 4, "Black Widow (Natasha Romanova)": 4, "Hank Pym": 3, "Sharon Carter": 12, "Helmut Zemo": 2, "Baron Strucker": 2, "Red Skull": 3, "Falcon (comics)": 3, "Jasper Sitwell": 4, "Jim Morita": 2, "Gabe Jones": 3, "Scarlet Witch": 2, "Batroc the Leaper": 2, "Crossbones (comics)": 4, "Thor (Marvel Comics)": 3, "Phil Coulson": 2, "Howard Stark": 4, "Maria Hill": 2, "Nick Fury": 4, "Hulk (comics)": 3, "Alexander Goodwin Pierce": 2, "Wasp (comics)": 2, "Captain America": 13, "Bucky Barnes": 3, "Arnim Zola": 2}}, "Maya Hansen": {"url": "/wiki/Maya_Hansen", "edges": {"Whiplash (comics)": 1, "Iron Man": 2, "Maria Hill": 1, "Justin Hammer": 1, "Iron Monger": 1, "Maria Stark": 1, "Friday (comics)": 1, "War Machine": 1, "Captain America": 1, "Aldrich Killian": 2, "Howard Stark": 1, "Happy Hogan (comics)": 1, "Ho Yinsen": 1, "Crimson Dynamo": 1}}, "Ronan the Accuser": {"url": "/wiki/Ronan_the_Accuser", "edges": {"Iron Man": 2, "Star-Lord": 6, "Loki (comics)": 1, "Hank Pym": 1, "Red Skull": 1, "Hulk (comics)": 2, "Thor (Marvel Comics)": 1, "Helmut Zemo": 1, "Wasp (comics)": 1, "Groot": 5, "Nebula (comics)": 6, "Collector (comics)": 4, "Captain America": 1, "Ultron": 3, "Thanos": 14, "Klaw (Marvel Comics)": 2, "Ego the Living Planet": 3, "Spider-Man": 1, "Grandmaster (Marvel Comics)": 4}}, "Whiplash (comics)": {"url": "/wiki/Whiplash_(comics)", "edges": {"Iron Man": 6, "Justin Hammer": 7, "Spider-Man": 2, "Iron Monger": 3, "Maria Stark": 2, "Friday (comics)": 2, "War Machine": 4, "Captain America": 5, "Maria Hill": 2}}, "Jane Foster (comics)": {"url": "/wiki/Jane_Foster_(comics)", "edges": {"Tyr (Marvel Comics)": 2, "Iron Man": 3, "Falcon (comics)": 1, "Volstagg": 2, "Loki (comics)": 4, "Executioner (comics)": 4, "Nick Fury": 1, "Captain America": 4, "Thor (Marvel Comics)": 7, "Malekith the Accursed": 4, "Laufey (comics)": 2, "Fandral": 3, "Doctor Strange": 2, "Phil Coulson": 1, "Sif (comics)": 4, "Ego the Living Planet": 2, "Spider-Man": 1}}, "Gabe Jones": {"url": "/wiki/Gabe_Jones", "edges": {"Maria Hill": 1, "Thunderbolt Ross": 1, "Crossbones (comics)": 1, "Thor (Marvel Comics)": 3, "Alexander Goodwin Pierce": 1, "Captain America": 8, "Phil Coulson": 1, "Thanos": 1, "Bucky Barnes": 2, "Hawkeye (comics)": 1}}, "Executioner (comics)": {"url": "/wiki/Executioner_(comics)", "edges": {"Tyr (Marvel Comics)": 2, "Scarlet Witch": 1, "Loki (comics)": 4, "Hulk (comics)": 1, "Thor (Marvel Comics)": 6, "Sif (comics)": 2, "Laufey (comics)": 2, "Iron Man": 2, "Volstagg": 3, "Collector (comics)": 1, "Captain America": 3, "Grandmaster (Marvel Comics)": 2, "Ego the Living Planet": 2, "Fandral": 3}}, "Liz Allan": {"url": "/wiki/Liz_Allan", "edges": {"Hulk (comics)": 1, "Scarlet Witch": 2, "Flash Thompson": 10, "Vulture (Marvel Comics)": 4}}, "Vision (Marvel Comics)": {"url": "/wiki/Vision_(Marvel_Comics)", "edges": {"Hawkeye (comics)": 1, "Spider-Man": 1, "Hulk (comics)": 2, "War Machine": 1, "Red Skull": 1, "Ultron": 6, "Grandmaster (Marvel Comics)": 1, "Ant-Man (Scott Lang)": 1, "Nick Fury": 1}}, "Groot": {"url": "/wiki/Groot", "edges": {"Spider-Man": 2, "Hulk (comics)": 1, "Aunt May": 1, "Collector (comics)": 3, "Ultron": 1, "Grandmaster (Marvel Comics)": 2, "Ego the Living Planet": 2}}, "Yondu": {"url": "/wiki/Yondu", "edges": {"Star-Lord": 6, "Sharon Carter": 1, "Thor (Marvel Comics)": 1, "Korath the Pursuer": 1, "Rocket Raccoon": 2, "Groot": 2, "Kismet (Marvel Comics)": 2, "Captain America": 1, "Nebula (comics)": 2, "Thanos": 2, "Ronan the Accuser": 3}}, "Grandmaster (Marvel Comics)": {"url": "/wiki/Grandmaster_(Marvel_Comics)", "edges": {"Hawkeye (comics)": 1, "Loki (comics)": 2, "Baron Mordo": 1, "Doctor Strange": 1, "Ultron": 2, "Spider-Man": 1}}, "Bereet": {"url": "/wiki/Bereet", "edges": {"Betty Ross": 2, "Star-Lord": 1, "Doc Samson": 1, "Leader (comics)": 1, "Thunderbolt Ross": 1, "Hulk (comics)": 3, "Abomination (comics)": 1, "Ego the Living Planet": 1}}, "Howard Stark": {"url": "/wiki/Howard_Stark", "edges": {"Iron Man": 11, "Black Widow (Natasha Romanova)": 1, "Hank Pym": 1, "Sharon Carter": 3, "Baron Strucker": 1, "Iron Monger": 8, "Red Skull": 1, "Happy Hogan (comics)": 2, "Jasper Sitwell": 1, "Whiplash (comics)": 2, "Bucky Barnes": 2, "Jim Morita": 2, "Maria Stark": 7, "Friday (comics)": 2, "Justin Hammer": 2, "War Machine": 3, "Crossbones (comics)": 1, "Hawkeye (comics)": 1, "Maria Hill": 3, "Alexander Goodwin Pierce": 1, "Captain America": 10, "Phil Coulson": 1}}, "Laufey (comics)": {"url": "/wiki/Laufey_(comics)", "edges": {"Leader (comics)": 1, "Loki (comics)": 7}}, "Dormammu": {"url": "/wiki/Dormammu", "edges": {"Scarlet Witch": 4, "Nick Fury": 1, "Loki (comics)": 2, "Baron Mordo": 8, "Thor (Marvel Comics)": 3, "Vision (Marvel Comics)": 1, "Phil Coulson": 1, "Spider-Man": 1}}, "Wasp (comics)": {"url": "/wiki/Wasp_(comics)", "edges": {"Hope Pym": 6, "Betty Ross": 1, "Iron Man": 9, "Spider-Man": 2, "Sharon Carter": 2, "Darren Cross": 4, "Helmut Zemo": 2, "Red Skull": 3, "Ultron": 8, "Jasper Sitwell": 2, "Carol Danvers": 3, "Loki (comics)": 4, "Ant-Man (Scott Lang)": 4, "Scarlet Witch": 5, "Thor (Marvel Comics)": 6, "Vision (Marvel Comics)": 5, "Collector (comics)": 3, "Thanos": 2, "Yellowjacket (Marvel Comics)": 3, "Gabe Jones": 2, "Nick Fury": 2, "Hulk (comics)": 6, "Captain America": 7, "Grandmaster (Marvel Comics)": 2}}, "Zuri (comics)": {"url": "/wiki/Zuri_(comics)", "edges": {}}, "Captain America": {"url": "/wiki/Captain_America", "edges": {"Jim Morita": 2, "Laufey (comics)": 2, "Maria Hill": 7, "Loki (comics)": 7, "Sif (comics)": 2, "Alexander Goodwin Pierce": 3, "Vision (Marvel Comics)": 5, "Erik Selvig": 2, "Collector (comics)": 2, "Crossbones (comics)": 11, "Ultron": 3, "Grandmaster (Marvel Comics)": 5, "Ego the Living Planet": 2, "Bucky Barnes": 23, "Klaw (Marvel Comics)": 3}}, "Batroc the Leaper": {"url": "/wiki/Batroc_the_Leaper", "edges": {"Hawkeye (comics)": 3, "Spider-Man": 2, "Sharon Carter": 4, "Helmut Zemo": 3, "Baron Strucker": 3, "Nick Fury": 1, "Iron Monger": 1, "Crossbones (comics)": 3, "Captain America": 5, "Alexander Goodwin Pierce": 1, "Bucky Barnes": 4, "Klaw (Marvel Comics)": 4}}, "Ho Yinsen": {"url": "/wiki/Ho_Yinsen", "edges": {"Whiplash (comics)": 2, "Iron Man": 9, "Maria Hill": 2, "Pepper Potts": 2, "Nick Fury": 1, "Justin Hammer": 2, "Iron Monger": 2, "Maria Stark": 2, "Friday (comics)": 2, "War Machine": 3, "Captain America": 2, "Ultron": 1, "Howard Stark": 3, "Happy Hogan (comics)": 2, "Crimson Dynamo": 2}}, "Fandral": {"url": "/wiki/Fandral", "edges": {"Laufey (comics)": 2, "Loki (comics)": 3, "Nick Fury": 1, "Hulk (comics)": 2, "Captain America": 2, "Sif (comics)": 2, "Ego the Living Planet": 3}}, "Hope Pym": {"url": "/wiki/Hope_Pym", "edges": {"Ultron": 2}}, "Trevor Slattery": {"url": "/wiki/Trevor_Slattery", "edges": {"Aldrich Killian": 2, "Phil Coulson": 2, "Iron Man": 2, "Erik Selvig": 2, "Claire Temple (Marvel Cinematic Universe)": 2}}, "Crimson Dynamo": {"url": "/wiki/Crimson_Dynamo", "edges": {"Whiplash (comics)": 5, "Iron Man": 7, "Justin Hammer": 3, "Maria Hill": 4, "Pepper Potts": 2, "Doc Samson": 1, "Black Widow (Natasha Romanova)": 3, "Nick Fury": 3, "Loki (comics)": 1, "Hulk (comics)": 2, "Abomination (comics)": 1, "Bucky Barnes": 2, "Iron Monger": 4, "Maria Stark": 2, "Friday (comics)": 2, "Tinkerer": 1, "War Machine": 4, "Captain America": 5, "Howard Stark": 4, "Happy Hogan (comics)": 2, "Thunderbolt Ross": 2}}, "Wong (comics)": {"url": "/wiki/Wong_(comics)", "edges": {"Baron Mordo": 6, "Dormammu": 5, "Scarlet Witch": 2}}, "Baron Strucker": {"url": "/wiki/Baron_Strucker", "edges": {"Iron Man": 2, "Sharon Carter": 2, "Maria Hill": 2, "Loki (comics)": 1, "Hulk (comics)": 1, "Hank Pym": 1, "Doctor Strange": 1, "Dormammu": 1, "Helmut Zemo": 3, "Thor (Marvel Comics)": 2, "Ultron": 1, "Crossbones (comics)": 2, "Scarlet Witch": 2, "Captain America": 9, "Phil Coulson": 1, "Alexander Goodwin Pierce": 1, "Gabe Jones": 4, "Bucky Barnes": 5, "Quicksilver (comics)": 1}}, "Nebula (comics)": {"url": "/wiki/Nebula_(comics)", "edges": {"Iron Man": 2, "Star-Lord": 4, "Loki (comics)": 1, "Spider-Man": 1, "Captain America": 2, "Hulk (comics)": 2, "Thor (Marvel Comics)": 4, "Helmut Zemo": 1, "Red Skull": 1, "Wasp (comics)": 1, "Groot": 4, "Collector (comics)": 3, "Doctor Strange": 1, "Ultron": 1, "Thanos": 11, "Ego the Living Planet": 4, "Hank Pym": 1, "Grandmaster (Marvel Comics)": 3}}, "Claire Temple (Marvel Cinematic Universe)": {"url": "/wiki/Claire_Temple_(Marvel_Cinematic_Universe)", "edges": {"Phil Coulson": 2, "Nick Fury": 1, "Erik Selvig": 2}}, "Red Skull": {"url": "/wiki/Red_Skull", "edges": {"Iron Man": 3, "Quicksilver (comics)": 3, "Black Panther (comics)": 1, "Hulk (comics)": 3, "Spider-Man": 1, "Sharon Carter": 7, "Helmut Zemo": 6, "Baron Strucker": 7, "Ultron": 3, "Bucky Barnes": 11, "Loki (comics)": 3, "Thunderbolt Ross": 1, "Jasper Sitwell": 2, "Gabe Jones": 2, "Scarlet Witch": 3, "Batroc the Leaper": 3, "Doc Samson": 1, "Leader (comics)": 1, "Crossbones (comics)": 8, "Thor (Marvel Comics)": 5, "Collector (comics)": 2, "Doctor Strange": 1, "Grandmaster (Marvel Comics)": 3, "Dormammu": 1, "Captain America": 24, "Thanos": 3, "Arnim Zola": 14}}, "Happy Hogan (comics)": {"url": "/wiki/Happy_Hogan_(comics)", "edges": {"Whiplash (comics)": 2, "Iron Man": 8, "War Machine": 4, "Maria Hill": 2, "Doc Samson": 1, "Justin Hammer": 2, "Vulture (Marvel Comics)": 1, "Iron Monger": 3, "Maria Stark": 2, "Friday (comics)": 2, "Abomination (comics)": 1, "Collector (comics)": 1, "Captain America": 2}}, "Falcon (comics)": {"url": "/wiki/Falcon_(comics)", "edges": {"Scarlet Witch": 2, "Sharon Carter": 3, "Batroc the Leaper": 4, "Nick Fury": 1, "Captain America": 14, "Hulk (comics)": 1, "Iron Man": 1, "Vulture (Marvel Comics)": 1, "Baron Strucker": 3, "Vision (Marvel Comics)": 2, "Crossbones (comics)": 7, "War Machine": 3, "Red Skull": 11, "Helmut Zemo": 4, "Bucky Barnes": 15, "Arnim Zola": 3}}, "W'Kabi": {"url": "/wiki/W%27Kabi", "edges": {"T'Chaka": 2, "Erik Killmonger": 2, "Man-Ape": 2, "Zuri (comics)": 4, "Klaw (Marvel Comics)": 2}}, "Loki (comics)": {"url": "/wiki/Loki_(comics)", "edges": {"Carol Danvers": 1, "Black Widow (Natasha Romanova)": 1, "Spider-Man": 3, "Vision (Marvel Comics)": 2, "Falcon (comics)": 1, "Hawkeye (comics)": 1}}, "Flash Thompson": {"url": "/wiki/Flash_Thompson", "edges": {"Iron Man": 2, "Star-Lord": 1, "Loki (comics)": 1, "Executioner (comics)": 1, "Thunderbolt Ross": 2, "Hulk (comics)": 1, "Thor (Marvel Comics)": 1, "Vulture (Marvel Comics)": 6, "Gamora": 1, "Collector (comics)": 1, "Captain America": 2, "Phil Coulson": 1, "Grandmaster (Marvel Comics)": 1, "Valkyrie (Marvel Comics)": 1}}, "Jim Morita": {"url": "/wiki/Jim_Morita", "edges": {"Nick Fury": 1}}, "Erik Selvig": {"url": "/wiki/Erik_Selvig", "edges": {"Maria Hill": 1, "Loki (comics)": 1, "Thor (Marvel Comics)": 2, "Phil Coulson": 2, "Jane Foster (comics)": 1, "Ultron": 1}}, "Aunt May": {"url": "/wiki/Aunt_May", "edges": {"Iron Man": 1, "Liz Allan": 5, "Nick Fury": 1, "Flash Thompson": 7, "Vulture (Marvel Comics)": 6, "Phil Coulson": 1}}, "Gamora": {"url": "/wiki/Gamora", "edges": {"Yondu": 3, "Howard the Duck": 3, "Star-Lord": 5, "Kismet (Marvel Comics)": 2, "Rhomann Dey": 3, "Rocket Raccoon": 4, "Groot": 5, "Nebula (comics)": 7, "Collector (comics)": 4, "Doctor Strange": 2, "Supernova (Marvel Comics)": 3, "Thanos": 13, "Ego the Living Planet": 2, "Ronan the Accuser": 9, "Grandmaster (Marvel Comics)": 2}}, "War Machine": {"url": "/wiki/War_Machine", "edges": {"Black Panther (comics)": 1, "Sharon Carter": 2, "Helmut Zemo": 1, "Iron Monger": 7, "Red Skull": 1, "Ultron": 1, "Bucky Barnes": 2, "Carol Danvers": 1, "Loki (comics)": 1, "Maria Stark": 2, "Friday (comics)": 2, "Justin Hammer": 4, "Thor (Marvel Comics)": 2, "Collector (comics)": 1, "Grandmaster (Marvel Comics)": 1, "Maria Hill": 2, "Nick Fury": 1, "Hulk (comics)": 1, "Wasp (comics)": 1, "Captain America": 8, "Phil Coulson": 1, "Thanos": 2}}, "Aldrich Killian": {"url": "/wiki/Aldrich_Killian", "edges": {"Whiplash (comics)": 1, "Iron Man": 3, "Maria Hill": 1, "Justin Hammer": 1, "Iron Monger": 1, "Maria Stark": 1, "Friday (comics)": 1, "War Machine": 1, "Captain America": 2, "Howard Stark": 1, "Happy Hogan (comics)": 1, "Ho Yinsen": 1, "Crimson Dynamo": 1}}, "Ego the Living Planet": {"url": "/wiki/Ego_the_Living_Planet", "edges": {"Grandmaster (Marvel Comics)": 2, "Sif (comics)": 2, "Laufey (comics)": 2, "Collector (comics)": 3, "Loki (comics)": 2}}, "Baron Mordo": {"url": "/wiki/Baron_Mordo", "edges": {"Iron Man": 1, "Loki (comics)": 1, "Hulk (comics)": 1, "Thor (Marvel Comics)": 1, "Abomination (comics)": 1, "Valkyrie (Marvel Comics)": 1, "War Machine": 1, "Ultron": 1, "Falcon (comics)": 1}}, "Howard the Duck": {"url": "/wiki/Howard_the_Duck", "edges": {"Scarlet Witch": 1, "Hawkeye (comics)": 1, "Star-Lord": 2, "Iron Man": 1, "Spider-Man": 7, "Doctor Strange": 3, "Thor (Marvel Comics)": 1, "Vulture (Marvel Comics)": 2, "Groot": 3, "Aunt May": 1, "Collector (comics)": 5, "Thanos": 4, "Nebula (comics)": 2, "Bereet": 1, "Ego the Living Planet": 2, "Ronan the Accuser": 2, "Grandmaster (Marvel Comics)": 2}}, "Star-Lord": {"url": "/wiki/Star-Lord", "edges": {"Hank Pym": 1, "Groot": 9, "Collector (comics)": 2, "Doctor Strange": 1, "Ultron": 1, "Thanos": 9, "Ego the Living Planet": 3, "Grandmaster (Marvel Comics)": 2}}, "Leader (comics)": {"url": "/wiki/Leader_(comics)", "edges": {"Betty Ross": 8, "Thunderbolt Ross": 6, "Iron Man": 1, "Spider-Man": 1, "Arnim Zola": 1}}, "Thor (Marvel Comics)": {"url": "/wiki/Thor_(Marvel_Comics)", "edges": {"Ho Yinsen": 1, "Whiplash (comics)": 1, "Laufey (comics)": 6, "Crimson Dynamo": 1, "Maria Hill": 2, "Loki (comics)": 10, "Happy Hogan (comics)": 1, "Justin Hammer": 1, "Captain America": 14, "Sif (comics)": 4, "Iron Monger": 1, "Maria Stark": 1, "Friday (comics)": 1, "Collector (comics)": 3, "Doctor Strange": 2, "Ultron": 2, "Thanos": 8, "Howard Stark": 1, "Ego the Living Planet": 9, "Fandral": 5, "Grandmaster (Marvel Comics)": 3}}, "Abomination (comics)": {"url": "/wiki/Abomination_(comics)", "edges": {"Betty Ross": 5, "Iron Man": 1, "Hawkeye (comics)": 1, "Doc Samson": 3, "Executioner (comics)": 2, "Leader (comics)": 9, "Thunderbolt Ross": 6, "Hulk (comics)": 8, "Thor (Marvel Comics)": 3, "Collector (comics)": 1, "Doctor Strange": 1, "Grandmaster (Marvel Comics)": 1, "Spider-Man": 1}}, "Collector (comics)": {"url": "/wiki/Collector_(comics)", "edges": {"Volstagg": 1, "Loki (comics)": 2, "Spider-Man": 2, "Sif (comics)": 1, "Aunt May": 1, "Baron Mordo": 1, "Doctor Strange": 1, "Ultron": 2, "Grandmaster (Marvel Comics)": 9, "Thunderbolt Ross": 3}}, "Doctor Strange": {"url": "/wiki/Doctor_Strange", "edges": {"Scarlet Witch": 4, "Black Panther (comics)": 1, "Loki (comics)": 3, "Hulk (comics)": 2, "Baron Mordo": 8, "Wong (comics)": 10, "Dormammu": 12, "Iron Man": 3, "Valkyrie (Marvel Comics)": 5, "Captain America": 1}}, "Sif (comics)": {"url": "/wiki/Sif_(comics)", "edges": {"Laufey (comics)": 2, "Loki (comics)": 5}}, "Shocker (comics)": {"url": "/wiki/Shocker_(comics)", "edges": {"Iron Man": 2, "Collector (comics)": 1, "Justin Hammer": 2, "Liz Allan": 4, "Hank Pym": 1, "Flash Thompson": 5, "Vulture (Marvel Comics)": 8, "Aunt May": 5, "Tinkerer": 4, "War Machine": 1, "Captain America": 2, "Heimdall (comics)": 1, "Grandmaster (Marvel Comics)": 1, "Carol Danvers": 1}}, "T'Chaka": {"url": "/wiki/T%27Chaka", "edges": {"Nick Fury": 1, "Captain America": 1, "Baron Strucker": 1, "Zuri (comics)": 2, "Red Skull": 1, "Howard Stark": 1, "Bucky Barnes": 1}}, "Nick Fury": {"url": "/wiki/Nick_Fury", "edges": {"Iron Man": 6, "Sharon Carter": 9, "Maria Hill": 6, "Doc Samson": 1, "Jasper Sitwell": 8, "Spider-Man": 2, "Captain America": 17, "Hulk (comics)": 3, "Thor (Marvel Comics)": 6, "Baron Strucker": 7, "Red Skull": 5, "Crossbones (comics)": 2, "Doctor Strange": 2, "Phil Coulson": 4, "Howard Stark": 3, "Alexander Goodwin Pierce": 4, "Gabe Jones": 10, "Bucky Barnes": 11}}, "Hulk (comics)": {"url": "/wiki/Hulk_(comics)", "edges": {"Betty Ross": 13, "Iron Man": 10, "Daniel Drumm": 3, "Maria Hill": 1, "Doc Samson": 12, "Leader (comics)": 6, "Thunderbolt Ross": 15, "Sharon Carter": 3, "Helmut Zemo": 2, "Scarlet Witch": 2, "Thor (Marvel Comics)": 9, "Loki (comics)": 4, "Thanos": 5, "Dormammu": 3, "Collector (comics)": 3, "Captain America": 6, "Ultron": 3, "Grandmaster (Marvel Comics)": 2, "Gabe Jones": 3, "Jasper Sitwell": 3}}, "Korath the Pursuer": {"url": "/wiki/Korath_the_Pursuer", "edges": {"Scarlet Witch": 1, "Star-Lord": 1, "Drax the Destroyer": 1, "Kismet (Marvel Comics)": 1, "Captain America": 1, "Ultron": 1, "Thanos": 1, "Ronan the Accuser": 2}}, "Alexander Goodwin Pierce": {"url": "/wiki/Alexander_Goodwin_Pierce", "edges": {"Crossbones (comics)": 3, "Maria Hill": 2, "Bucky Barnes": 1, "Falcon (comics)": 1}}, "Man-Ape": {"url": "/wiki/Man-Ape", "edges": {"Ultron": 2, "T'Chaka": 3, "Spider-Man": 1, "Zuri (comics)": 2, "Captain America": 1}}, "Hogun": {"url": "/wiki/Hogun", "edges": {"Tyr (Marvel Comics)": 2, "Executioner (comics)": 3, "Loki (comics)": 3, "Nick Fury": 1, "Captain America": 2, "Hulk (comics)": 2, "Thor (Marvel Comics)": 5, "Malekith the Accursed": 2, "Laufey (comics)": 2, "Iron Man": 2, "Jane Foster (comics)": 3, "Sif (comics)": 3, "Volstagg": 5, "Ego the Living Planet": 3, "Fandral": 6}}, "Kismet (Marvel Comics)": {"url": "/wiki/Kismet_(Marvel_Comics)", "edges": {"Star-Lord": 2, "Doc Samson": 1, "Hulk (comics)": 1, "Rocket Raccoon": 2, "Groot": 2, "Nebula (comics)": 2, "Thanos": 2, "Ronan the Accuser": 2}}, "Phil Coulson": {"url": "/wiki/Phil_Coulson", "edges": {"Maria Hill": 2, "Loki (comics)": 1, "Spider-Man": 1, "Sharon Carter": 2, "Thor (Marvel Comics)": 1, "Abomination (comics)": 1, "Alexander Goodwin Pierce": 2, "Iron Monger": 2, "Crossbones (comics)": 2, "Captain America": 3}}, "Thanos": {"url": "/wiki/Thanos", "edges": {"Loki (comics)": 3, "Spider-Man": 1, "Doctor Strange": 1, "Groot": 5, "Collector (comics)": 7, "Captain America": 2, "Ultron": 5, "Grandmaster (Marvel Comics)": 6, "Ego the Living Planet": 6}}, "Arnim Zola": {"url": "/wiki/Arnim_Zola", "edges": {"Executioner (comics)": 1, "Batroc the Leaper": 2, "Spider-Man": 1, "Sharon Carter": 4, "Flash Thompson": 2, "Helmut Zemo": 3, "Baron Strucker": 4, "Crossbones (comics)": 5, "Aunt May": 1, "Captain America": 9, "Alexander Goodwin Pierce": 2, "Bucky Barnes": 6}}, "Rhomann Dey": {"url": "/wiki/Rhomann_Dey", "edges": {"Collector (comics)": 2, "Howard the Duck": 2, "Star-Lord": 3, "Rocket Raccoon": 3, "Groot": 3, "Nebula (comics)": 2, "Yondu": 1, "Thanos": 3, "Grandmaster (Marvel Comics)": 3, "Ego the Living Planet": 2, "Ronan the Accuser": 4}}, "Black Panther (comics)": {"url": "/wiki/Black_Panther_(comics)", "edges": {"Iron Man": 3, "Crimson Dynamo": 1, "Hank Pym": 3, "Sharon Carter": 2, "Peggy Carter": 2, "Howard the Duck": 1, "Falcon (comics)": 4, "W'Kabi": 4, "Erik Killmonger": 5, "Carol Danvers": 2, "Wasp (comics)": 3, "Thunderbolt Ross": 1, "Jasper Sitwell": 2, "Jane Foster (comics)": 1, "Gabe Jones": 3, "Spider-Man": 2, "Batroc the Leaper": 4, "Star-Lord": 1, "Captain America": 3, "Thor (Marvel Comics)": 3, "Vision (Marvel Comics)": 1, "Howard Stark": 1, "Maria Hill": 1, "T'Chaka": 7, "Nick Fury": 3, "Hulk (comics)": 4, "Man-Ape": 6, "Zuri (comics)": 4, "Crossbones (comics)": 2, "Thanos": 1, "Klaw (Marvel Comics)": 9}}, "Black Widow (Natasha Romanova)": {"url": "/wiki/Black_Widow_(Natasha_Romanova)", "edges": {"Iron Man": 7, "Spider-Man": 1, "Sharon Carter": 8, "Helmut Zemo": 3, "Baron Strucker": 6, "Red Skull": 3, "Ultron": 1, "Jasper Sitwell": 2, "Carol Danvers": 2, "Falcon (comics)": 4, "War Machine": 3, "Gabe Jones": 3, "Batroc the Leaper": 2, "Doc Samson": 1, "Captain America": 18, "Vision (Marvel Comics)": 2, "Phil Coulson": 2, "Maria Hill": 5, "Nick Fury": 10, "Alexander Goodwin Pierce": 3, "Wasp (comics)": 2, "Valkyrie (Marvel Comics)": 4, "Crossbones (comics)": 5, "Bucky Barnes": 13, "Arnim Zola": 3}}, "Sharon Carter": {"url": "/wiki/Sharon_Carter", "edges": {"Carol Danvers": 1, "Captain America": 16, "Thor (Marvel Comics)": 3, "Alexander Goodwin Pierce": 2, "Jim Morita": 2, "Crossbones (comics)": 7, "Gabe Jones": 3, "Bucky Barnes": 4, "Maria Hill": 3}}, "Iron Monger": {"url": "/wiki/Iron_Monger", "edges": {"Friday (comics)": 2, "Captain America": 2, "Maria Hill": 2, "Justin Hammer": 4, "Red Skull": 1}}, "Ultron": {"url": "/wiki/Ultron", "edges": {"Spider-Man": 1, "Black Panther (comics)": 1, "Loki (comics)": 3}}, "Daniel Drumm": {"url": "/wiki/Daniel_Drumm", "edges": {"Baron Mordo": 1, "Scarlet Witch": 1, "Doctor Strange": 2}}, "Jasper Sitwell": {"url": "/wiki/Jasper_Sitwell", "edges": {"Baron Strucker": 2, "Iron Man": 6, "Maria Hill": 2, "Sharon Carter": 4, "Thor (Marvel Comics)": 3, "Bucky Barnes": 1, "Iron Monger": 1, "Crossbones (comics)": 2, "Captain America": 7, "Phil Coulson": 3, "Alexander Goodwin Pierce": 2, "Gabe Jones": 5, "Falcon (comics)": 1}}, "Coldblood": {"url": "/wiki/Coldblood", "edges": {"Iron Man": 1, "Trevor Slattery": 1, "Pepper Potts": 1, "War Machine": 1, "Captain America": 1, "Aldrich Killian": 1, "Happy Hogan (comics)": 2}}, "Tyr (Marvel Comics)": {"url": "/wiki/Tyr_(Marvel_Comics)", "edges": {"Laufey (comics)": 4, "Loki (comics)": 6, "Captain America": 2, "Thor (Marvel Comics)": 7, "Volstagg": 3, "Sif (comics)": 3, "Ego the Living Planet": 2, "Fandral": 3}}, "Carol Danvers": {"url": "/wiki/Carol_Danvers", "edges": {"Iron Man": 6, "Hawkeye (comics)": 2, "Scarlet Witch": 1, "Thor (Marvel Comics)": 1, "Vision (Marvel Comics)": 2, "Aunt May": 1, "Valkyrie (Marvel Comics)": 1, "Captain America": 4, "Ultron": 3, "Thanos": 2, "Falcon (comics)": 1, "Ronan the Accuser": 2, "Quicksilver (comics)": 1}}, "Drax the Destroyer": {"url": "/wiki/Drax_the_Destroyer", "edges": {"Iron Man": 5, "Supernova (Marvel Comics)": 2, "Howard the Duck": 2, "Star-Lord": 6, "Collector (comics)": 2, "Kismet (Marvel Comics)": 2, "Thor (Marvel Comics)": 6, "Rhomann Dey": 3, "Rocket Raccoon": 4, "Groot": 6, "Nebula (comics)": 8, "Gamora": 10, "Yondu": 2, "Grandmaster (Marvel Comics)": 2, "Ultron": 1, "Thanos": 17, "Ego the Living Planet": 4, "Ronan the Accuser": 5}}, "Vulture (Marvel Comics)": {"url": "/wiki/Vulture_(Marvel_Comics)", "edges": {"Captain America": 1}}, "Bucky Barnes": {"url": "/wiki/Bucky_Barnes", "edges": {"Iron Man": 3, "Doc Samson": 1, "Hank Pym": 1, "Thor (Marvel Comics)": 1, "Vision (Marvel Comics)": 1, "Gamora": 1, "Thanos": 1, "Grandmaster (Marvel Comics)": 1, "Ant-Man (Scott Lang)": 1, "Thunderbolt Ross": 1}}, "Maria Stark": {"url": "/wiki/Maria_Stark", "edges": {"Maria Hill": 2, "Iron Monger": 3, "Friday (comics)": 2, "Justin Hammer": 2, "Captain America": 2, "Bucky Barnes": 2}}, "Supernova (Marvel Comics)": {"url": "/wiki/Supernova_(Marvel_Comics)", "edges": {"Howard the Duck": 2, "Star-Lord": 2, "Rhomann Dey": 2, "Rocket Raccoon": 3, "Groot": 2, "Nebula (comics)": 3, "Collector (comics)": 2, "Grandmaster (Marvel Comics)": 2, "Thanos": 3, "Ego the Living Planet": 3, "Ronan the Accuser": 3}}, "Ant-Man (Scott Lang)": {"url": "/wiki/Ant-Man_(Scott_Lang)", "edges": {"Whiplash (comics)": 2, "Betty Ross": 1, "Iron Man": 2, "Justin Hammer": 1, "Yellowjacket (Marvel Comics)": 3, "Darren Cross": 7, "Spider-Man": 1, "Doctor Strange": 2, "Hulk (comics)": 2, "Scarlet Witch": 2, "Hope Pym": 2, "Captain America": 1, "War Machine": 1, "Leader (comics)": 1, "Ultron": 2}}, "Mantis (Marvel Comics)": {"url": "/wiki/Mantis_(Marvel_Comics)", "edges": {"Quicksilver (comics)": 1, "Nebula (comics)": 6, "Rhomann Dey": 2, "Ultron": 2, "Ronan the Accuser": 4, "Loki (comics)": 2, "Drax the Destroyer": 7, "Gamora": 5, "Supernova (Marvel Comics)": 2, "Ego the Living Planet": 5, "Scarlet Witch": 1, "Howard the Duck": 2, "Star-Lord": 7, "Thor (Marvel Comics)": 3, "Vision (Marvel Comics)": 2, "Rocket Raccoon": 5, "Groot": 5, "Yondu": 2, "Thanos": 10, "Collector (comics)": 2, "Kismet (Marvel Comics)": 2, "Captain America": 1, "Grandmaster (Marvel Comics)": 2, "Klaw (Marvel Comics)": 1}}, "Erik Killmonger": {"url": "/wiki/Erik_Killmonger", "edges": {"T'Chaka": 2, "Man-Ape": 2, "Iron Man": 1, "Zuri (comics)": 2, "War Machine": 1}}, "Ancient One": {"url": "/wiki/Ancient_One", "edges": {"Scarlet Witch": 2, "Daniel Drumm": 1, "Wong (comics)": 6, "Baron Mordo": 8, "Dormammu": 5, "Doctor Strange": 14, "Spider-Man": 1}}, "Doc Samson": {"url": "/wiki/Doc_Samson", "edges": {"Betty Ross": 6, "Iron Man": 4, "Maria Hill": 1, "Leader (comics)": 4, "Thunderbolt Ross": 6, "Captain America": 1, "Vision (Marvel Comics)": 1, "Doctor Strange": 2, "Spider-Man": 1, "Carol Danvers": 1}}, "Rocket Raccoon": {"url": "/wiki/Rocket_Raccoon", "edges": {"Howard the Duck": 4, "Star-Lord": 10, "Spider-Man": 1, "Groot": 11, "Nebula (comics)": 4, "Collector (comics)": 3, "Grandmaster (Marvel Comics)": 2, "Thanos": 5, "Ego the Living Planet": 2, "Ronan the Accuser": 6}}, "Tinkerer": {"url": "/wiki/Tinkerer", "edges": {"Iron Man": 2, "Carol Danvers": 1, "Liz Allan": 4, "Hank Pym": 1, "Flash Thompson": 4, "Vulture (Marvel Comics)": 8, "Aunt May": 4, "Captain America": 1, "Nick Fury": 2}}, "Pepper Potts": {"url": "/wiki/Pepper_Potts", "edges": {"Whiplash (comics)": 3, "Iron Man": 9, "Justin Hammer": 2, "Maria Hill": 4, "Hawkeye (comics)": 1, "Spider-Man": 1, "Captain America": 3, "Thor (Marvel Comics)": 2, "Nick Fury": 1, "Iron Monger": 4, "Maria Stark": 2, "Friday (comics)": 3, "Jane Foster (comics)": 1, "War Machine": 3, "Red Skull": 1, "Phil Coulson": 2, "Howard Stark": 2, "Happy Hogan (comics)": 8, "Bucky Barnes": 1, "Maya Hansen": 3, "Aldrich Killian": 3}}, "Yellowjacket (Marvel Comics)": {"url": "/wiki/Yellowjacket_(Marvel_Comics)", "edges": {"Ultron": 5, "Hope Pym": 2}}, "Crossbones (comics)": {"url": "/wiki/Crossbones_(comics)", "edges": {"Bucky Barnes": 5, "Spider-Man": 2, "Scarlet Witch": 1, "Doctor Strange": 1}}, "Volstagg": {"url": "/wiki/Volstagg", "edges": {"Laufey (comics)": 2, "Loki (comics)": 8, "Nick Fury": 1, "Hulk (comics)": 2, "Thor (Marvel Comics)": 6, "Captain America": 2, "Sif (comics)": 5, "Ego the Living Planet": 2, "Fandral": 4}}, "Klaw (Marvel Comics)": {"url": "/wiki/Klaw_(Marvel_Comics)", "edges": {"Erik Killmonger": 3, "Iron Man": 2, "Nick Fury": 1, "Loki (comics)": 1, "T'Chaka": 6, "Hank Pym": 2, "Sharon Carter": 1, "Hulk (comics)": 1, "Thor (Marvel Comics)": 1, "Spider-Man": 1, "Baron Strucker": 1, "Vision (Marvel Comics)": 1, "Wasp (comics)": 1, "Peggy Carter": 1, "Man-Ape": 3, "Zuri (comics)": 2, "Crossbones (comics)": 2, "Ultron": 3, "Gabe Jones": 1, "Jasper Sitwell": 1}}}
+{
+    "Abomination (comics)": {
+        "edges": {
+            "Betty Ross": 6, 
+            "Collector (comics)": 1, 
+            "Doc Samson": 3, 
+            "Doctor Strange": 1, 
+            "Executioner (comics)": 2, 
+            "Grandmaster (Marvel Comics)": 1, 
+            "Hawkeye (comics)": 1, 
+            "Hulk (comics)": 8, 
+            "Iron Man": 1, 
+            "Korg (comics)": 3, 
+            "Leader (comics)": 8, 
+            "Spider-Man": 2, 
+            "Thor (Marvel Comics)": 3, 
+            "Thunderbolt Ross": 6
+        }, 
+        "url": "/wiki/Abomination_(comics)"
+    }, 
+    "Aldrich Killian": {
+        "edges": {
+            "Captain America": 2, 
+            "Crimson Dynamo": 1, 
+            "Friday (comics)": 1, 
+            "Happy Hogan (comics)": 1, 
+            "Ho Yinsen": 1, 
+            "Howard Stark": 1, 
+            "Iron Man": 3, 
+            "Iron Monger": 1, 
+            "Justin Hammer": 1, 
+            "Maria Hill": 1, 
+            "Maria Stark": 1, 
+            "War Machine": 1, 
+            "Whiplash (comics)": 1
+        }, 
+        "url": "/wiki/Aldrich_Killian"
+    }, 
+    "Aleta Ogord": {
+        "edges": {
+            "Captain America": 1, 
+            "Cosmo the Spacedog": 1, 
+            "Drax the Destroyer": 1, 
+            "Gamora": 1, 
+            "Groot": 1, 
+            "Hawkeye (comics)": 1, 
+            "Howard the Duck": 1, 
+            "Iron Man": 1, 
+            "Kismet (Marvel Comics)": 1, 
+            "Mantis (Marvel Comics)": 1, 
+            "Nebula (comics)": 1, 
+            "Rocket Raccoon": 1, 
+            "Ronan the Accuser": 1, 
+            "Star-Lord": 1, 
+            "Starhawk (comics)": 9, 
+            "Thanos": 1, 
+            "Thor (Marvel Comics)": 1
+        }, 
+        "url": "/wiki/Aleta_Ogord"
+    }, 
+    "Alexander Goodwin Pierce": {
+        "edges": {
+            "Bucky Barnes": 1, 
+            "Crossbones (comics)": 3, 
+            "Falcon (comics)": 1, 
+            "Maria Hill": 2
+        }, 
+        "url": "/wiki/Alexander_Goodwin_Pierce"
+    }, 
+    "Ancient One": {
+        "edges": {
+            "Baron Mordo": 8, 
+            "Daniel Drumm": 1, 
+            "Doctor Strange": 15, 
+            "Dormammu": 5, 
+            "Scarlet Witch": 2, 
+            "Spider-Man": 1, 
+            "Wong (comics)": 6
+        }, 
+        "url": "/wiki/Ancient_One"
+    }, 
+    "Ant-Man (Scott Lang)": {
+        "edges": {
+            "Betty Ross": 1, 
+            "Captain America": 1, 
+            "Darren Cross": 7, 
+            "Doctor Strange": 1, 
+            "Hope Pym": 2, 
+            "Hulk (comics)": 2, 
+            "Iron Man": 2, 
+            "Justin Hammer": 1, 
+            "Leader (comics)": 1, 
+            "Scarlet Witch": 2, 
+            "Spider-Man": 1, 
+            "Ultron": 2, 
+            "War Machine": 1, 
+            "Whiplash (comics)": 2, 
+            "Yellowjacket (Marvel Comics)": 3
+        }, 
+        "url": "/wiki/Ant-Man_(Scott_Lang)"
+    }, 
+    "Arnim Zola": {
+        "edges": {
+            "Alexander Goodwin Pierce": 2, 
+            "Aunt May": 1, 
+            "Baron Strucker": 4, 
+            "Batroc the Leaper": 2, 
+            "Bucky Barnes": 5, 
+            "Captain America": 9, 
+            "Crossbones (comics)": 5, 
+            "Executioner (comics)": 1, 
+            "Flash Thompson": 2, 
+            "Helmut Zemo": 3, 
+            "Sharon Carter": 4, 
+            "Spider-Man": 1
+        }, 
+        "url": "/wiki/Arnim_Zola"
+    }, 
+    "Aunt May": {
+        "edges": {
+            "Flash Thompson": 7, 
+            "Iron Man": 1, 
+            "Liz Allan": 5, 
+            "Nick Fury": 1, 
+            "Phil Coulson": 1, 
+            "Vulture (Marvel Comics)": 6
+        }, 
+        "url": "/wiki/Aunt_May"
+    }, 
+    "Baron Mordo": {
+        "edges": {
+            "Abomination (comics)": 1, 
+            "Falcon (comics)": 1, 
+            "Hulk (comics)": 1, 
+            "Iron Man": 1, 
+            "Loki (comics)": 1, 
+            "Thor (Marvel Comics)": 1, 
+            "Ultron": 1, 
+            "Valkyrie (Marvel Comics)": 1, 
+            "War Machine": 1
+        }, 
+        "url": "/wiki/Baron_Mordo"
+    }, 
+    "Baron Strucker": {
+        "edges": {
+            "Alexander Goodwin Pierce": 1, 
+            "Bucky Barnes": 4, 
+            "Captain America": 9, 
+            "Crossbones (comics)": 2, 
+            "Doctor Strange": 1, 
+            "Dormammu": 1, 
+            "Gabe Jones": 4, 
+            "Hank Pym": 1, 
+            "Helmut Zemo": 3, 
+            "Hulk (comics)": 1, 
+            "Iron Man": 2, 
+            "Loki (comics)": 1, 
+            "Maria Hill": 2, 
+            "Phil Coulson": 1, 
+            "Quicksilver (comics)": 1, 
+            "Scarlet Witch": 2, 
+            "Sharon Carter": 2, 
+            "Thor (Marvel Comics)": 2, 
+            "Ultron": 1
+        }, 
+        "url": "/wiki/Baron_Strucker"
+    }, 
+    "Batroc the Leaper": {
+        "edges": {
+            "Alexander Goodwin Pierce": 1, 
+            "Baron Strucker": 3, 
+            "Bucky Barnes": 3, 
+            "Captain America": 5, 
+            "Crossbones (comics)": 3, 
+            "Hawkeye (comics)": 3, 
+            "Helmut Zemo": 3, 
+            "Iron Monger": 1, 
+            "Klaw (Marvel Comics)": 4, 
+            "Nick Fury": 1, 
+            "Sharon Carter": 4, 
+            "Spider-Man": 2
+        }, 
+        "url": "/wiki/Batroc_the_Leaper"
+    }, 
+    "Bereet": {
+        "edges": {
+            "Abomination (comics)": 1, 
+            "Betty Ross": 2, 
+            "Doc Samson": 1, 
+            "Ego the Living Planet": 1, 
+            "Hulk (comics)": 3, 
+            "Korg (comics)": 1, 
+            "Leader (comics)": 1, 
+            "Star-Lord": 1, 
+            "Thunderbolt Ross": 1
+        }, 
+        "url": "/wiki/Bereet"
+    }, 
+    "Betty Ross": {
+        "edges": {
+            "Alexander Goodwin Pierce": 1, 
+            "Black Widow (Natasha Romanova)": 1, 
+            "Captain America": 1, 
+            "Crossbones (comics)": 1, 
+            "Hawkeye (comics)": 1, 
+            "Iron Man": 3, 
+            "Jasper Sitwell": 1, 
+            "Loki (comics)": 1, 
+            "Maria Hill": 1, 
+            "Nick Fury": 1, 
+            "Peggy Carter": 1, 
+            "Phil Coulson": 1, 
+            "Sharon Carter": 1, 
+            "Thunderbolt Ross": 9
+        }, 
+        "url": "/wiki/Betty_Ross"
+    }, 
+    "Black Panther (comics)": {
+        "edges": {
+            "Batroc the Leaper": 4, 
+            "Captain America": 3, 
+            "Carol Danvers": 2, 
+            "Crimson Dynamo": 1, 
+            "Crossbones (comics)": 2, 
+            "Erik Killmonger": 5, 
+            "Falcon (comics)": 4, 
+            "Gabe Jones": 3, 
+            "Hank Pym": 3, 
+            "Howard Stark": 1, 
+            "Howard the Duck": 1, 
+            "Hulk (comics)": 4, 
+            "Iron Man": 3, 
+            "Jane Foster (comics)": 1, 
+            "Jasper Sitwell": 2, 
+            "Klaw (Marvel Comics)": 9, 
+            "Man-Ape": 6, 
+            "Maria Hill": 1, 
+            "Nick Fury": 3, 
+            "Peggy Carter": 2, 
+            "Sharon Carter": 2, 
+            "Shuri (comics)": 10, 
+            "Spider-Man": 2, 
+            "Star-Lord": 1, 
+            "T'Chaka": 7, 
+            "Thanos": 2, 
+            "Thor (Marvel Comics)": 3, 
+            "Thunderbolt Ross": 1, 
+            "Vision (Marvel Comics)": 1, 
+            "W'Kabi": 4, 
+            "Wasp (comics)": 3, 
+            "Zuri (comics)": 4
+        }, 
+        "url": "/wiki/Black_Panther_(comics)"
+    }, 
+    "Black Widow (Natasha Romanova)": {
+        "edges": {
+            "Alexander Goodwin Pierce": 3, 
+            "Arnim Zola": 3, 
+            "Baron Strucker": 6, 
+            "Batroc the Leaper": 2, 
+            "Bucky Barnes": 12, 
+            "Captain America": 18, 
+            "Carol Danvers": 2, 
+            "Crossbones (comics)": 5, 
+            "Doc Samson": 1, 
+            "Falcon (comics)": 4, 
+            "Gabe Jones": 3, 
+            "Helmut Zemo": 3, 
+            "Iron Man": 7, 
+            "Jasper Sitwell": 2, 
+            "Maria Hill": 5, 
+            "Nick Fury": 10, 
+            "Phil Coulson": 2, 
+            "Red Skull": 3, 
+            "Sharon Carter": 8, 
+            "Spider-Man": 1, 
+            "Ultron": 1, 
+            "Valkyrie (Marvel Comics)": 4, 
+            "Vision (Marvel Comics)": 2, 
+            "War Machine": 3, 
+            "Wasp (comics)": 2
+        }, 
+        "url": "/wiki/Black_Widow_(Natasha_Romanova)"
+    }, 
+    "Bucky Barnes": {
+        "edges": {
+            "Ant-Man (Scott Lang)": 1, 
+            "Doc Samson": 1, 
+            "Gamora": 1, 
+            "Grandmaster (Marvel Comics)": 1, 
+            "Hank Pym": 1, 
+            "Iron Man": 3, 
+            "Thanos": 1, 
+            "Thor (Marvel Comics)": 1, 
+            "Thunderbolt Ross": 1, 
+            "Vision (Marvel Comics)": 1
+        }, 
+        "url": "/wiki/Bucky_Barnes"
+    }, 
+    "Captain America": {
+        "edges": {
+            "Alexander Goodwin Pierce": 3, 
+            "Bucky Barnes": 22, 
+            "Collector (comics)": 2, 
+            "Crossbones (comics)": 11, 
+            "Ego the Living Planet": 2, 
+            "Erik Selvig": 2, 
+            "Grandmaster (Marvel Comics)": 5, 
+            "Jim Morita": 2, 
+            "Klaw (Marvel Comics)": 3, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 7, 
+            "Maria Hill": 7, 
+            "Sif (comics)": 2, 
+            "Ultron": 3, 
+            "Vision (Marvel Comics)": 4
+        }, 
+        "url": "/wiki/Captain_America"
+    }, 
+    "Carol Danvers": {
+        "edges": {
+            "Aunt May": 1, 
+            "Captain America": 4, 
+            "Falcon (comics)": 1, 
+            "Hawkeye (comics)": 2, 
+            "Iron Man": 6, 
+            "Quicksilver (comics)": 1, 
+            "Ronan the Accuser": 2, 
+            "Scarlet Witch": 1, 
+            "Thanos": 2, 
+            "Thor (Marvel Comics)": 1, 
+            "Ultron": 3, 
+            "Valkyrie (Marvel Comics)": 1, 
+            "Vision (Marvel Comics)": 2
+        }, 
+        "url": "/wiki/Carol_Danvers"
+    }, 
+    "Claire Temple (Marvel Cinematic Universe)": {
+        "edges": {
+            "Erik Selvig": 2, 
+            "Nick Fury": 1, 
+            "Phil Coulson": 2
+        }, 
+        "url": "/wiki/Claire_Temple_(Marvel_Cinematic_Universe)"
+    }, 
+    "Coldblood": {
+        "edges": {
+            "Aldrich Killian": 1, 
+            "Captain America": 1, 
+            "Happy Hogan (comics)": 2, 
+            "Iron Man": 1, 
+            "Pepper Potts": 1, 
+            "Trevor Slattery": 1, 
+            "War Machine": 1
+        }, 
+        "url": "/wiki/Coldblood"
+    }, 
+    "Collector (comics)": {
+        "edges": {
+            "Aunt May": 1, 
+            "Baron Mordo": 1, 
+            "Cosmo the Spacedog": 5, 
+            "Doctor Strange": 1, 
+            "Grandmaster (Marvel Comics)": 11, 
+            "Loki (comics)": 2, 
+            "Sif (comics)": 1, 
+            "Spider-Man": 2, 
+            "Thunderbolt Ross": 3, 
+            "Ultron": 2, 
+            "Volstagg": 1
+        }, 
+        "url": "/wiki/Collector_(comics)"
+    }, 
+    "Cosmo the Spacedog": {
+        "edges": {
+            "Grandmaster (Marvel Comics)": 3, 
+            "Korath the Pursuer": 1, 
+            "Spider-Man": 1
+        }, 
+        "url": "/wiki/Cosmo_the_Spacedog"
+    }, 
+    "Crimson Dynamo": {
+        "edges": {
+            "Abomination (comics)": 1, 
+            "Black Widow (Natasha Romanova)": 3, 
+            "Bucky Barnes": 2, 
+            "Captain America": 5, 
+            "Doc Samson": 1, 
+            "Friday (comics)": 2, 
+            "Happy Hogan (comics)": 2, 
+            "Howard Stark": 4, 
+            "Hulk (comics)": 2, 
+            "Iron Man": 9, 
+            "Iron Monger": 4, 
+            "Justin Hammer": 3, 
+            "Loki (comics)": 1, 
+            "Maria Hill": 4, 
+            "Maria Stark": 2, 
+            "Nick Fury": 3, 
+            "Pepper Potts": 2, 
+            "Thunderbolt Ross": 2, 
+            "Tinkerer": 1, 
+            "War Machine": 4, 
+            "Whiplash (comics)": 5
+        }, 
+        "url": "/wiki/Crimson_Dynamo"
+    }, 
+    "Crossbones (comics)": {
+        "edges": {
+            "Bucky Barnes": 4, 
+            "Doctor Strange": 1, 
+            "Scarlet Witch": 1, 
+            "Spider-Man": 2
+        }, 
+        "url": "/wiki/Crossbones_(comics)"
+    }, 
+    "Daniel Drumm": {
+        "edges": {
+            "Baron Mordo": 1, 
+            "Doctor Strange": 2, 
+            "Scarlet Witch": 1
+        }, 
+        "url": "/wiki/Daniel_Drumm"
+    }, 
+    "Darren Cross": {
+        "edges": {
+            "Captain America": 1, 
+            "Helmut Zemo": 1, 
+            "Hope Pym": 5, 
+            "Iron Man": 1, 
+            "Spider-Man": 1, 
+            "Ultron": 4, 
+            "Vision (Marvel Comics)": 1, 
+            "Yellowjacket (Marvel Comics)": 9
+        }, 
+        "url": "/wiki/Darren_Cross"
+    }, 
+    "Doc Samson": {
+        "edges": {
+            "Betty Ross": 6, 
+            "Captain America": 1, 
+            "Carol Danvers": 1, 
+            "Doctor Strange": 2, 
+            "Iron Man": 4, 
+            "Leader (comics)": 4, 
+            "Maria Hill": 1, 
+            "Spider-Man": 1, 
+            "Thunderbolt Ross": 6, 
+            "Vision (Marvel Comics)": 1
+        }, 
+        "url": "/wiki/Doc_Samson"
+    }, 
+    "Doctor Strange": {
+        "edges": {
+            "Baron Mordo": 8, 
+            "Black Panther (comics)": 1, 
+            "Captain America": 1, 
+            "Dormammu": 12, 
+            "Hulk (comics)": 2, 
+            "Iron Man": 3, 
+            "Loki (comics)": 3, 
+            "Scarlet Witch": 4, 
+            "Valkyrie (Marvel Comics)": 5, 
+            "Wong (comics)": 10
+        }, 
+        "url": "/wiki/Doctor_Strange"
+    }, 
+    "Dormammu": {
+        "edges": {
+            "Baron Mordo": 8, 
+            "Loki (comics)": 2, 
+            "Nick Fury": 1, 
+            "Phil Coulson": 1, 
+            "Scarlet Witch": 4, 
+            "Spider-Man": 1, 
+            "Thor (Marvel Comics)": 3, 
+            "Vision (Marvel Comics)": 1
+        }, 
+        "url": "/wiki/Dormammu"
+    }, 
+    "Drax the Destroyer": {
+        "edges": {
+            "Collector (comics)": 2, 
+            "Cosmo the Spacedog": 6, 
+            "Ego the Living Planet": 4, 
+            "Gamora": 10, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Groot": 6, 
+            "Howard the Duck": 2, 
+            "Iron Man": 6, 
+            "Kismet (Marvel Comics)": 2, 
+            "Martinex": 2, 
+            "Nebula (comics)": 8, 
+            "Rhomann Dey": 3, 
+            "Rocket Raccoon": 4, 
+            "Ronan the Accuser": 5, 
+            "Star-Lord": 6, 
+            "Starhawk (comics)": 2, 
+            "Supernova (Marvel Comics)": 2, 
+            "Thanos": 17, 
+            "Thor (Marvel Comics)": 6, 
+            "Ultron": 1, 
+            "Yondu": 2
+        }, 
+        "url": "/wiki/Drax_the_Destroyer"
+    }, 
+    "Ego the Living Planet": {
+        "edges": {
+            "Collector (comics)": 3, 
+            "Cosmo the Spacedog": 2, 
+            "Falcon (comics)": 1, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 2, 
+            "Scarlet Witch": 1, 
+            "Sif (comics)": 2, 
+            "Wasp (comics)": 1
+        }, 
+        "url": "/wiki/Ego_the_Living_Planet"
+    }, 
+    "Erik Killmonger": {
+        "edges": {
+            "Iron Man": 1, 
+            "Man-Ape": 2, 
+            "T'Chaka": 2, 
+            "War Machine": 1, 
+            "Zuri (comics)": 2
+        }, 
+        "url": "/wiki/Erik_Killmonger"
+    }, 
+    "Erik Selvig": {
+        "edges": {
+            "Loki (comics)": 1, 
+            "Maria Hill": 1, 
+            "Phil Coulson": 2, 
+            "Thor (Marvel Comics)": 2, 
+            "Ultron": 1
+        }, 
+        "url": "/wiki/Erik_Selvig"
+    }, 
+    "Executioner (comics)": {
+        "edges": {
+            "Captain America": 3, 
+            "Collector (comics)": 1, 
+            "Ego the Living Planet": 2, 
+            "Fandral": 3, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Hulk (comics)": 1, 
+            "Iron Man": 2, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 4, 
+            "Scarlet Witch": 1, 
+            "Sif (comics)": 2, 
+            "Thor (Marvel Comics)": 6, 
+            "Tyr (Marvel Comics)": 2, 
+            "Volstagg": 3
+        }, 
+        "url": "/wiki/Executioner_(comics)"
+    }, 
+    "Falcon (comics)": {
+        "edges": {
+            "Arnim Zola": 3, 
+            "Baron Strucker": 3, 
+            "Batroc the Leaper": 4, 
+            "Bucky Barnes": 14, 
+            "Captain America": 14, 
+            "Crossbones (comics)": 7, 
+            "Helmut Zemo": 4, 
+            "Hulk (comics)": 1, 
+            "Iron Man": 1, 
+            "Nick Fury": 1, 
+            "Red Skull": 11, 
+            "Scarlet Witch": 2, 
+            "Sharon Carter": 3, 
+            "Vision (Marvel Comics)": 2, 
+            "Vulture (Marvel Comics)": 1, 
+            "War Machine": 3
+        }, 
+        "url": "/wiki/Falcon_(comics)"
+    }, 
+    "Fandral": {
+        "edges": {
+            "Captain America": 2, 
+            "Ego the Living Planet": 3, 
+            "Hulk (comics)": 2, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 3, 
+            "Nick Fury": 1, 
+            "Sif (comics)": 2
+        }, 
+        "url": "/wiki/Fandral"
+    }, 
+    "Flash Thompson": {
+        "edges": {
+            "Captain America": 2, 
+            "Collector (comics)": 1, 
+            "Executioner (comics)": 1, 
+            "Gamora": 1, 
+            "Grandmaster (Marvel Comics)": 1, 
+            "Hulk (comics)": 1, 
+            "Iron Man": 2, 
+            "Loki (comics)": 1, 
+            "Phil Coulson": 1, 
+            "Star-Lord": 1, 
+            "Thor (Marvel Comics)": 1, 
+            "Thunderbolt Ross": 2, 
+            "Valkyrie (Marvel Comics)": 1, 
+            "Vulture (Marvel Comics)": 6
+        }, 
+        "url": "/wiki/Flash_Thompson"
+    }, 
+    "Friday (comics)": {
+        "edges": {
+            "Captain America": 2, 
+            "Maria Hill": 2
+        }, 
+        "url": "/wiki/Friday_(comics)"
+    }, 
+    "Gabe Jones": {
+        "edges": {
+            "Alexander Goodwin Pierce": 1, 
+            "Bucky Barnes": 2, 
+            "Captain America": 8, 
+            "Crossbones (comics)": 1, 
+            "Hawkeye (comics)": 1, 
+            "Maria Hill": 1, 
+            "Phil Coulson": 1, 
+            "Thanos": 1, 
+            "Thor (Marvel Comics)": 3, 
+            "Thunderbolt Ross": 1
+        }, 
+        "url": "/wiki/Gabe_Jones"
+    }, 
+    "Gamora": {
+        "edges": {
+            "Collector (comics)": 4, 
+            "Cosmo the Spacedog": 5, 
+            "Doctor Strange": 2, 
+            "Ego the Living Planet": 3, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Groot": 5, 
+            "Howard the Duck": 3, 
+            "Kismet (Marvel Comics)": 2, 
+            "Martinex": 2, 
+            "Nebula (comics)": 7, 
+            "Rhomann Dey": 3, 
+            "Rocket Raccoon": 4, 
+            "Ronan the Accuser": 9, 
+            "Star-Lord": 5, 
+            "Starhawk (comics)": 2, 
+            "Supernova (Marvel Comics)": 3, 
+            "Thanos": 13, 
+            "Yondu": 3
+        }, 
+        "url": "/wiki/Gamora"
+    }, 
+    "Grandmaster (Marvel Comics)": {
+        "edges": {
+            "Baron Mordo": 1, 
+            "Doctor Strange": 1, 
+            "Hawkeye (comics)": 1, 
+            "Loki (comics)": 2, 
+            "Spider-Man": 1, 
+            "Ultron": 2
+        }, 
+        "url": "/wiki/Grandmaster_(Marvel_Comics)"
+    }, 
+    "Groot": {
+        "edges": {
+            "Aunt May": 1, 
+            "Collector (comics)": 3, 
+            "Cosmo the Spacedog": 4, 
+            "Ego the Living Planet": 3, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Hulk (comics)": 1, 
+            "Spider-Man": 2, 
+            "Starhawk (comics)": 2, 
+            "Ultron": 1
+        }, 
+        "url": "/wiki/Groot"
+    }, 
+    "Hank Pym": {
+        "edges": {
+            "Ant-Man (Scott Lang)": 7, 
+            "Captain America": 5, 
+            "Collector (comics)": 2, 
+            "Crossbones (comics)": 2, 
+            "Darren Cross": 6, 
+            "Doctor Strange": 2, 
+            "Gabe Jones": 2, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Helmut Zemo": 2, 
+            "Hope Pym": 5, 
+            "Hulk (comics)": 5, 
+            "Iron Man": 7, 
+            "Jasper Sitwell": 2, 
+            "Loki (comics)": 3, 
+            "Nick Fury": 2, 
+            "Quicksilver (comics)": 3, 
+            "Red Skull": 3, 
+            "Sharon Carter": 2, 
+            "Thanos": 2, 
+            "Thor (Marvel Comics)": 6, 
+            "Ultron": 13, 
+            "Vision (Marvel Comics)": 2, 
+            "Vulture (Marvel Comics)": 1, 
+            "War Machine": 3, 
+            "Wasp (comics)": 17, 
+            "Yellowjacket (Marvel Comics)": 13
+        }, 
+        "url": "/wiki/Hank_Pym"
+    }, 
+    "Happy Hogan (comics)": {
+        "edges": {
+            "Abomination (comics)": 1, 
+            "Captain America": 2, 
+            "Collector (comics)": 1, 
+            "Doc Samson": 1, 
+            "Friday (comics)": 2, 
+            "Iron Man": 8, 
+            "Iron Monger": 3, 
+            "Justin Hammer": 2, 
+            "Maria Hill": 2, 
+            "Maria Stark": 2, 
+            "Vulture (Marvel Comics)": 1, 
+            "War Machine": 4, 
+            "Whiplash (comics)": 2
+        }, 
+        "url": "/wiki/Happy_Hogan_(comics)"
+    }, 
+    "Hawkeye (comics)": {
+        "edges": {
+            "Alexander Goodwin Pierce": 2, 
+            "Ant-Man (Scott Lang)": 4, 
+            "Black Widow (Natasha Romanova)": 12, 
+            "Bucky Barnes": 5, 
+            "Captain America": 12, 
+            "Collector (comics)": 1, 
+            "Crimson Dynamo": 2, 
+            "Crossbones (comics)": 2, 
+            "Darren Cross": 3, 
+            "Doctor Strange": 2, 
+            "Falcon (comics)": 4, 
+            "Hank Pym": 5, 
+            "Hope Pym": 2, 
+            "Hulk (comics)": 2, 
+            "Iron Man": 7, 
+            "Jasper Sitwell": 2, 
+            "Maria Hill": 4, 
+            "Nick Fury": 4, 
+            "Peggy Carter": 2, 
+            "Phil Coulson": 2, 
+            "Quicksilver (comics)": 2, 
+            "Scarlet Witch": 7, 
+            "Sharon Carter": 4, 
+            "Thor (Marvel Comics)": 1, 
+            "Ultron": 3, 
+            "War Machine": 4, 
+            "Wasp (comics)": 5, 
+            "Yellowjacket (Marvel Comics)": 2
+        }, 
+        "url": "/wiki/Hawkeye_(comics)"
+    }, 
+    "Heimdall (comics)": {
+        "edges": {
+            "Captain America": 2, 
+            "Ego the Living Planet": 2, 
+            "Executioner (comics)": 4, 
+            "Fandral": 2, 
+            "Hela (comics)": 2, 
+            "Hogun": 2, 
+            "Hulk (comics)": 1, 
+            "Iron Man": 2, 
+            "Jane Foster (comics)": 2, 
+            "Kurse": 2, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 5, 
+            "Malekith the Accursed": 3, 
+            "Sif (comics)": 4, 
+            "Thor (Marvel Comics)": 5, 
+            "Tyr (Marvel Comics)": 2, 
+            "Valkyrie (Marvel Comics)": 2, 
+            "Volstagg": 2
+        }, 
+        "url": "/wiki/Heimdall_(comics)"
+    }, 
+    "Hela (comics)": {
+        "edges": {
+            "Captain America": 2, 
+            "Collector (comics)": 1, 
+            "Dormammu": 1, 
+            "Ego the Living Planet": 2, 
+            "Executioner (comics)": 3, 
+            "Fandral": 2, 
+            "Hogun": 2, 
+            "Hulk (comics)": 1, 
+            "Iron Man": 2, 
+            "Jane Foster (comics)": 2, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 9, 
+            "Malekith the Accursed": 4, 
+            "Sif (comics)": 3, 
+            "Thanos": 2, 
+            "Thor (Marvel Comics)": 5, 
+            "Tyr (Marvel Comics)": 4, 
+            "Valkyrie (Marvel Comics)": 5, 
+            "Volstagg": 2
+        }, 
+        "url": "/wiki/Hela_(comics)"
+    }, 
+    "Helmut Zemo": {
+        "edges": {
+            "Black Panther (comics)": 1, 
+            "Bucky Barnes": 6, 
+            "Captain America": 7, 
+            "Collector (comics)": 2, 
+            "Crossbones (comics)": 3, 
+            "Erik Selvig": 1, 
+            "Grandmaster (Marvel Comics)": 5, 
+            "Hawkeye (comics)": 3, 
+            "Justin Hammer": 2, 
+            "Klaw (Marvel Comics)": 2, 
+            "Loki (comics)": 4, 
+            "Maria Hill": 1, 
+            "Sharon Carter": 2, 
+            "Spider-Man": 1, 
+            "Thanos": 2, 
+            "Thor (Marvel Comics)": 3, 
+            "Ultron": 3
+        }, 
+        "url": "/wiki/Helmut_Zemo"
+    }, 
+    "Ho Yinsen": {
+        "edges": {
+            "Captain America": 2, 
+            "Crimson Dynamo": 2, 
+            "Friday (comics)": 2, 
+            "Happy Hogan (comics)": 2, 
+            "Howard Stark": 3, 
+            "Iron Man": 9, 
+            "Iron Monger": 2, 
+            "Justin Hammer": 2, 
+            "Maria Hill": 2, 
+            "Maria Stark": 2, 
+            "Nick Fury": 1, 
+            "Pepper Potts": 2, 
+            "Ultron": 1, 
+            "War Machine": 3, 
+            "Whiplash (comics)": 2
+        }, 
+        "url": "/wiki/Ho_Yinsen"
+    }, 
+    "Hogun": {
+        "edges": {
+            "Captain America": 2, 
+            "Ego the Living Planet": 3, 
+            "Executioner (comics)": 3, 
+            "Fandral": 6, 
+            "Hulk (comics)": 2, 
+            "Iron Man": 2, 
+            "Jane Foster (comics)": 3, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 3, 
+            "Malekith the Accursed": 2, 
+            "Nick Fury": 1, 
+            "Sif (comics)": 3, 
+            "Thor (Marvel Comics)": 5, 
+            "Tyr (Marvel Comics)": 2, 
+            "Volstagg": 5
+        }, 
+        "url": "/wiki/Hogun"
+    }, 
+    "Hope Pym": {
+        "edges": {
+            "Ultron": 2
+        }, 
+        "url": "/wiki/Hope_Pym"
+    }, 
+    "Howard Stark": {
+        "edges": {
+            "Alexander Goodwin Pierce": 1, 
+            "Baron Strucker": 1, 
+            "Black Widow (Natasha Romanova)": 1, 
+            "Bucky Barnes": 2, 
+            "Captain America": 10, 
+            "Crossbones (comics)": 1, 
+            "Friday (comics)": 2, 
+            "Hank Pym": 1, 
+            "Happy Hogan (comics)": 2, 
+            "Hawkeye (comics)": 1, 
+            "Iron Man": 11, 
+            "Iron Monger": 8, 
+            "Jasper Sitwell": 1, 
+            "Jim Morita": 2, 
+            "Justin Hammer": 2, 
+            "Maria Hill": 3, 
+            "Maria Stark": 7, 
+            "Phil Coulson": 1, 
+            "Red Skull": 1, 
+            "Sharon Carter": 3, 
+            "War Machine": 3, 
+            "Whiplash (comics)": 2
+        }, 
+        "url": "/wiki/Howard_Stark"
+    }, 
+    "Howard the Duck": {
+        "edges": {
+            "Aunt May": 1, 
+            "Bereet": 1, 
+            "Collector (comics)": 5, 
+            "Cosmo the Spacedog": 5, 
+            "Doctor Strange": 3, 
+            "Ego the Living Planet": 2, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Groot": 3, 
+            "Hawkeye (comics)": 1, 
+            "Iron Man": 1, 
+            "Nebula (comics)": 2, 
+            "Ronan the Accuser": 2, 
+            "Scarlet Witch": 1, 
+            "Spider-Man": 7, 
+            "Star-Lord": 2, 
+            "Starhawk (comics)": 2, 
+            "Thanos": 4, 
+            "Thor (Marvel Comics)": 1, 
+            "Vulture (Marvel Comics)": 2
+        }, 
+        "url": "/wiki/Howard_the_Duck"
+    }, 
+    "Hulk (comics)": {
+        "edges": {
+            "Betty Ross": 13, 
+            "Captain America": 6, 
+            "Collector (comics)": 3, 
+            "Daniel Drumm": 3, 
+            "Doc Samson": 12, 
+            "Dormammu": 3, 
+            "Gabe Jones": 3, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Helmut Zemo": 2, 
+            "Iron Man": 9, 
+            "Jasper Sitwell": 3, 
+            "Leader (comics)": 6, 
+            "Loki (comics)": 4, 
+            "Maria Hill": 1, 
+            "Scarlet Witch": 1, 
+            "Sharon Carter": 3, 
+            "Thanos": 5, 
+            "Thor (Marvel Comics)": 9, 
+            "Thunderbolt Ross": 14, 
+            "Ultron": 3
+        }, 
+        "url": "/wiki/Hulk_(comics)"
+    }, 
+    "Iron Man": {
+        "edges": {
+            "Alexander Goodwin Pierce": 2, 
+            "Captain America": 18, 
+            "Collector (comics)": 3, 
+            "Crossbones (comics)": 5, 
+            "Ego the Living Planet": 3, 
+            "Fandral": 2, 
+            "Friday (comics)": 6, 
+            "Gabe Jones": 4, 
+            "Grandmaster (Marvel Comics)": 3, 
+            "Helmut Zemo": 4, 
+            "Iron Monger": 8, 
+            "Justin Hammer": 10, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 7, 
+            "Maria Hill": 8, 
+            "Maria Stark": 5, 
+            "Phil Coulson": 3, 
+            "Scarlet Witch": 1, 
+            "Sharon Carter": 4, 
+            "Sif (comics)": 2, 
+            "Thanos": 6, 
+            "Thor (Marvel Comics)": 14, 
+            "Tyr (Marvel Comics)": 2, 
+            "Ultron": 5, 
+            "Vision (Marvel Comics)": 3, 
+            "Volstagg": 2, 
+            "War Machine": 17
+        }, 
+        "url": "/wiki/Iron_Man"
+    }, 
+    "Iron Monger": {
+        "edges": {
+            "Captain America": 2, 
+            "Friday (comics)": 2, 
+            "Justin Hammer": 4, 
+            "Maria Hill": 2, 
+            "Red Skull": 1
+        }, 
+        "url": "/wiki/Iron_Monger"
+    }, 
+    "Jane Foster (comics)": {
+        "edges": {
+            "Captain America": 4, 
+            "Doctor Strange": 2, 
+            "Ego the Living Planet": 2, 
+            "Erik Selvig": 2, 
+            "Executioner (comics)": 4, 
+            "Falcon (comics)": 1, 
+            "Fandral": 3, 
+            "Iron Man": 3, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 4, 
+            "Malekith the Accursed": 4, 
+            "Nick Fury": 1, 
+            "Phil Coulson": 1, 
+            "Sif (comics)": 4, 
+            "Spider-Man": 1, 
+            "Thor (Marvel Comics)": 8, 
+            "Tyr (Marvel Comics)": 2, 
+            "Volstagg": 2
+        }, 
+        "url": "/wiki/Jane_Foster_(comics)"
+    }, 
+    "Jasper Sitwell": {
+        "edges": {
+            "Alexander Goodwin Pierce": 2, 
+            "Baron Strucker": 2, 
+            "Bucky Barnes": 1, 
+            "Captain America": 7, 
+            "Crossbones (comics)": 2, 
+            "Falcon (comics)": 1, 
+            "Gabe Jones": 5, 
+            "Iron Man": 6, 
+            "Iron Monger": 1, 
+            "Maria Hill": 2, 
+            "Phil Coulson": 3, 
+            "Sharon Carter": 4, 
+            "Thor (Marvel Comics)": 3
+        }, 
+        "url": "/wiki/Jasper_Sitwell"
+    }, 
+    "Jim Morita": {
+        "edges": {
+            "Nick Fury": 1
+        }, 
+        "url": "/wiki/Jim_Morita"
+    }, 
+    "Justin Hammer": {
+        "edges": {
+            "Captain America": 4, 
+            "Falcon (comics)": 1, 
+            "Friday (comics)": 2, 
+            "Hawkeye (comics)": 1, 
+            "Maria Hill": 2, 
+            "Red Skull": 1, 
+            "Spider-Man": 1, 
+            "Trevor Slattery": 1, 
+            "Ultron": 1
+        }, 
+        "url": "/wiki/Justin_Hammer"
+    }, 
+    "Kismet (Marvel Comics)": {
+        "edges": {
+            "Cosmo the Spacedog": 2, 
+            "Doc Samson": 1, 
+            "Ego the Living Planet": 1, 
+            "Groot": 2, 
+            "Hulk (comics)": 1, 
+            "Nebula (comics)": 3, 
+            "Rocket Raccoon": 3, 
+            "Ronan the Accuser": 2, 
+            "Star-Lord": 2, 
+            "Starhawk (comics)": 5, 
+            "Thanos": 2
+        }, 
+        "url": "/wiki/Kismet_(Marvel_Comics)"
+    }, 
+    "Klaw (Marvel Comics)": {
+        "edges": {
+            "Baron Strucker": 1, 
+            "Crossbones (comics)": 2, 
+            "Erik Killmonger": 3, 
+            "Gabe Jones": 1, 
+            "Hank Pym": 2, 
+            "Hulk (comics)": 1, 
+            "Iron Man": 2, 
+            "Jasper Sitwell": 1, 
+            "Loki (comics)": 1, 
+            "Man-Ape": 3, 
+            "Nick Fury": 1, 
+            "Peggy Carter": 1, 
+            "Sharon Carter": 1, 
+            "Spider-Man": 1, 
+            "T'Chaka": 6, 
+            "Thor (Marvel Comics)": 1, 
+            "Ultron": 3, 
+            "Vision (Marvel Comics)": 1, 
+            "Wasp (comics)": 1, 
+            "Zuri (comics)": 2
+        }, 
+        "url": "/wiki/Klaw_(Marvel_Comics)"
+    }, 
+    "Korath the Pursuer": {
+        "edges": {
+            "Captain America": 1, 
+            "Drax the Destroyer": 1, 
+            "Kismet (Marvel Comics)": 1, 
+            "Ronan the Accuser": 2, 
+            "Scarlet Witch": 1, 
+            "Star-Lord": 1, 
+            "Thanos": 1, 
+            "Ultron": 1
+        }, 
+        "url": "/wiki/Korath_the_Pursuer"
+    }, 
+    "Korg (comics)": {
+        "edges": {
+            "Betty Ross": 3, 
+            "Doc Samson": 2, 
+            "Doctor Strange": 1, 
+            "Grandmaster (Marvel Comics)": 1, 
+            "Hulk (comics)": 4, 
+            "Iron Man": 1, 
+            "Leader (comics)": 3, 
+            "Thor (Marvel Comics)": 2, 
+            "Thunderbolt Ross": 2
+        }, 
+        "url": "/wiki/Korg_(comics)"
+    }, 
+    "Kurse": {
+        "edges": {
+            "Captain America": 2, 
+            "Ego the Living Planet": 2, 
+            "Executioner (comics)": 2, 
+            "Fandral": 2, 
+            "Hela (comics)": 3, 
+            "Hogun": 2, 
+            "Iron Man": 2, 
+            "Jane Foster (comics)": 2, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 3, 
+            "Malekith the Accursed": 7, 
+            "Sif (comics)": 2, 
+            "Thor (Marvel Comics)": 6, 
+            "Tyr (Marvel Comics)": 2, 
+            "Valkyrie (Marvel Comics)": 2, 
+            "Volstagg": 3
+        }, 
+        "url": "/wiki/Kurse"
+    }, 
+    "Laufey (comics)": {
+        "edges": {
+            "Leader (comics)": 1, 
+            "Loki (comics)": 7
+        }, 
+        "url": "/wiki/Laufey_(comics)"
+    }, 
+    "Leader (comics)": {
+        "edges": {
+            "Arnim Zola": 1, 
+            "Betty Ross": 8, 
+            "Iron Man": 1, 
+            "Spider-Man": 1, 
+            "Thunderbolt Ross": 6
+        }, 
+        "url": "/wiki/Leader_(comics)"
+    }, 
+    "Liz Allan": {
+        "edges": {
+            "Flash Thompson": 10, 
+            "Hulk (comics)": 1, 
+            "Scarlet Witch": 2, 
+            "Vulture (Marvel Comics)": 4
+        }, 
+        "url": "/wiki/Liz_Allan"
+    }, 
+    "Loki (comics)": {
+        "edges": {
+            "Aleta Ogord": 1, 
+            "Black Widow (Natasha Romanova)": 1, 
+            "Carol Danvers": 1, 
+            "Falcon (comics)": 1, 
+            "Hawkeye (comics)": 1, 
+            "Spider-Man": 3, 
+            "Vision (Marvel Comics)": 2
+        }, 
+        "url": "/wiki/Loki_(comics)"
+    }, 
+    "Malekith the Accursed": {
+        "edges": {
+            "Captain America": 2, 
+            "Ego the Living Planet": 2, 
+            "Executioner (comics)": 3, 
+            "Fandral": 3, 
+            "Iron Man": 2, 
+            "Laufey (comics)": 6, 
+            "Loki (comics)": 4, 
+            "Sif (comics)": 2, 
+            "Thor (Marvel Comics)": 5, 
+            "Tyr (Marvel Comics)": 2, 
+            "Volstagg": 2
+        }, 
+        "url": "/wiki/Malekith_the_Accursed"
+    }, 
+    "Man-Ape": {
+        "edges": {
+            "Captain America": 1, 
+            "Spider-Man": 1, 
+            "T'Chaka": 3, 
+            "Ultron": 2, 
+            "Zuri (comics)": 2
+        }, 
+        "url": "/wiki/Man-Ape"
+    }, 
+    "Mantis (Marvel Comics)": {
+        "edges": {
+            "Captain America": 1, 
+            "Collector (comics)": 2, 
+            "Cosmo the Spacedog": 4, 
+            "Drax the Destroyer": 7, 
+            "Ego the Living Planet": 5, 
+            "Gamora": 6, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Groot": 5, 
+            "Howard the Duck": 2, 
+            "Kismet (Marvel Comics)": 2, 
+            "Klaw (Marvel Comics)": 1, 
+            "Loki (comics)": 2, 
+            "Martinex": 2, 
+            "Nebula (comics)": 6, 
+            "Quicksilver (comics)": 1, 
+            "Rhomann Dey": 2, 
+            "Rocket Raccoon": 5, 
+            "Ronan the Accuser": 4, 
+            "Scarlet Witch": 1, 
+            "Star-Lord": 7, 
+            "Starhawk (comics)": 2, 
+            "Supernova (Marvel Comics)": 2, 
+            "Thanos": 10, 
+            "Thor (Marvel Comics)": 3, 
+            "Ultron": 2, 
+            "Vision (Marvel Comics)": 2, 
+            "Yondu": 2
+        }, 
+        "url": "/wiki/Mantis_(Marvel_Comics)"
+    }, 
+    "Maria Hill": {
+        "edges": {
+            "Bucky Barnes": 3, 
+            "Crossbones (comics)": 2, 
+            "Spider-Man": 3, 
+            "Vision (Marvel Comics)": 1
+        }, 
+        "url": "/wiki/Maria_Hill"
+    }, 
+    "Maria Stark": {
+        "edges": {
+            "Bucky Barnes": 2, 
+            "Captain America": 2, 
+            "Friday (comics)": 2, 
+            "Iron Monger": 3, 
+            "Justin Hammer": 2, 
+            "Maria Hill": 2
+        }, 
+        "url": "/wiki/Maria_Stark"
+    }, 
+    "Martinex": {
+        "edges": {
+            "Aleta Ogord": 3, 
+            "Captain America": 2, 
+            "Cosmo the Spacedog": 2, 
+            "Groot": 2, 
+            "Kismet (Marvel Comics)": 2, 
+            "Nebula (comics)": 2, 
+            "Rocket Raccoon": 2, 
+            "Ronan the Accuser": 2, 
+            "Sharon Carter": 1, 
+            "Star-Lord": 3, 
+            "Starhawk (comics)": 8, 
+            "Thanos": 2, 
+            "Thor (Marvel Comics)": 2, 
+            "Vision (Marvel Comics)": 1, 
+            "Yondu": 7
+        }, 
+        "url": "/wiki/Martinex"
+    }, 
+    "Maya Hansen": {
+        "edges": {
+            "Aldrich Killian": 2, 
+            "Captain America": 1, 
+            "Crimson Dynamo": 1, 
+            "Friday (comics)": 1, 
+            "Happy Hogan (comics)": 1, 
+            "Ho Yinsen": 1, 
+            "Howard Stark": 1, 
+            "Iron Man": 2, 
+            "Iron Monger": 1, 
+            "Justin Hammer": 1, 
+            "Maria Hill": 1, 
+            "Maria Stark": 1, 
+            "War Machine": 1, 
+            "Whiplash (comics)": 1
+        }, 
+        "url": "/wiki/Maya_Hansen"
+    }, 
+    "Nebula (comics)": {
+        "edges": {
+            "Captain America": 2, 
+            "Collector (comics)": 3, 
+            "Cosmo the Spacedog": 4, 
+            "Doctor Strange": 1, 
+            "Ego the Living Planet": 4, 
+            "Grandmaster (Marvel Comics)": 3, 
+            "Groot": 4, 
+            "Hank Pym": 1, 
+            "Helmut Zemo": 1, 
+            "Hulk (comics)": 2, 
+            "Iron Man": 2, 
+            "Loki (comics)": 1, 
+            "Red Skull": 1, 
+            "Spider-Man": 1, 
+            "Star-Lord": 4, 
+            "Starhawk (comics)": 2, 
+            "Thanos": 11, 
+            "Thor (Marvel Comics)": 4, 
+            "Ultron": 1, 
+            "Wasp (comics)": 1
+        }, 
+        "url": "/wiki/Nebula_(comics)"
+    }, 
+    "Nick Fury": {
+        "edges": {
+            "Alexander Goodwin Pierce": 4, 
+            "Baron Strucker": 7, 
+            "Bucky Barnes": 11, 
+            "Captain America": 17, 
+            "Crossbones (comics)": 2, 
+            "Doc Samson": 1, 
+            "Doctor Strange": 2, 
+            "Gabe Jones": 10, 
+            "Howard Stark": 3, 
+            "Hulk (comics)": 3, 
+            "Iron Man": 5, 
+            "Jasper Sitwell": 8, 
+            "Maria Hill": 6, 
+            "Phil Coulson": 4, 
+            "Red Skull": 5, 
+            "Sharon Carter": 8, 
+            "Spider-Man": 2, 
+            "Thor (Marvel Comics)": 5
+        }, 
+        "url": "/wiki/Nick_Fury"
+    }, 
+    "Peggy Carter": {
+        "edges": {
+            "Alexander Goodwin Pierce": 2, 
+            "Arnim Zola": 2, 
+            "Baron Strucker": 2, 
+            "Batroc the Leaper": 2, 
+            "Black Widow (Natasha Romanova)": 4, 
+            "Bucky Barnes": 2, 
+            "Captain America": 13, 
+            "Crossbones (comics)": 4, 
+            "Falcon (comics)": 3, 
+            "Gabe Jones": 3, 
+            "Hank Pym": 3, 
+            "Helmut Zemo": 2, 
+            "Howard Stark": 4, 
+            "Hulk (comics)": 3, 
+            "Iron Man": 4, 
+            "Jasper Sitwell": 4, 
+            "Jim Morita": 2, 
+            "Maria Hill": 2, 
+            "Nick Fury": 4, 
+            "Phil Coulson": 2, 
+            "Red Skull": 3, 
+            "Scarlet Witch": 1, 
+            "Sharon Carter": 12, 
+            "Thor (Marvel Comics)": 3, 
+            "Wasp (comics)": 2
+        }, 
+        "url": "/wiki/Peggy_Carter"
+    }, 
+    "Pepper Potts": {
+        "edges": {
+            "Aldrich Killian": 3, 
+            "Bucky Barnes": 1, 
+            "Captain America": 3, 
+            "Friday (comics)": 3, 
+            "Happy Hogan (comics)": 8, 
+            "Hawkeye (comics)": 1, 
+            "Howard Stark": 2, 
+            "Iron Man": 9, 
+            "Iron Monger": 4, 
+            "Jane Foster (comics)": 1, 
+            "Justin Hammer": 2, 
+            "Maria Hill": 4, 
+            "Maria Stark": 2, 
+            "Maya Hansen": 3, 
+            "Nick Fury": 1, 
+            "Phil Coulson": 2, 
+            "Red Skull": 1, 
+            "Spider-Man": 1, 
+            "Thor (Marvel Comics)": 2, 
+            "War Machine": 3, 
+            "Whiplash (comics)": 3
+        }, 
+        "url": "/wiki/Pepper_Potts"
+    }, 
+    "Phil Coulson": {
+        "edges": {
+            "Abomination (comics)": 1, 
+            "Alexander Goodwin Pierce": 2, 
+            "Captain America": 3, 
+            "Crossbones (comics)": 2, 
+            "Iron Monger": 2, 
+            "Loki (comics)": 1, 
+            "Maria Hill": 2, 
+            "Sharon Carter": 2, 
+            "Spider-Man": 1, 
+            "Thor (Marvel Comics)": 1
+        }, 
+        "url": "/wiki/Phil_Coulson"
+    }, 
+    "Quicksilver (comics)": {
+        "edges": {
+            "Baron Mordo": 1, 
+            "Black Panther (comics)": 1, 
+            "Captain America": 2, 
+            "Gabe Jones": 1, 
+            "Hulk (comics)": 1, 
+            "Iron Man": 4, 
+            "Jasper Sitwell": 1, 
+            "Liz Allan": 2, 
+            "Loki (comics)": 2, 
+            "Nick Fury": 1, 
+            "Peggy Carter": 1, 
+            "Ronan the Accuser": 2, 
+            "Scarlet Witch": 14, 
+            "Sharon Carter": 1, 
+            "Thanos": 2, 
+            "Thor (Marvel Comics)": 1, 
+            "Ultron": 5, 
+            "Vision (Marvel Comics)": 3, 
+            "Wasp (comics)": 1
+        }, 
+        "url": "/wiki/Quicksilver_(comics)"
+    }, 
+    "Red Skull": {
+        "edges": {
+            "Arnim Zola": 14, 
+            "Baron Strucker": 7, 
+            "Batroc the Leaper": 3, 
+            "Black Panther (comics)": 1, 
+            "Bucky Barnes": 10, 
+            "Captain America": 23, 
+            "Collector (comics)": 2, 
+            "Crossbones (comics)": 8, 
+            "Doc Samson": 1, 
+            "Dormammu": 1, 
+            "Gabe Jones": 2, 
+            "Grandmaster (Marvel Comics)": 3, 
+            "Helmut Zemo": 6, 
+            "Hulk (comics)": 3, 
+            "Iron Man": 3, 
+            "Jasper Sitwell": 2, 
+            "Leader (comics)": 1, 
+            "Loki (comics)": 3, 
+            "Quicksilver (comics)": 3, 
+            "Scarlet Witch": 3, 
+            "Sharon Carter": 7, 
+            "Spider-Man": 1, 
+            "Thanos": 3, 
+            "Thor (Marvel Comics)": 5, 
+            "Thunderbolt Ross": 1, 
+            "Ultron": 3
+        }, 
+        "url": "/wiki/Red_Skull"
+    }, 
+    "Rhomann Dey": {
+        "edges": {
+            "Collector (comics)": 2, 
+            "Cosmo the Spacedog": 4, 
+            "Ego the Living Planet": 2, 
+            "Grandmaster (Marvel Comics)": 3, 
+            "Groot": 3, 
+            "Howard the Duck": 2, 
+            "Nebula (comics)": 2, 
+            "Rocket Raccoon": 3, 
+            "Ronan the Accuser": 4, 
+            "Star-Lord": 3, 
+            "Thanos": 3, 
+            "Yondu": 1
+        }, 
+        "url": "/wiki/Rhomann_Dey"
+    }, 
+    "Rocket Raccoon": {
+        "edges": {
+            "Collector (comics)": 3, 
+            "Cosmo the Spacedog": 6, 
+            "Ego the Living Planet": 4, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Groot": 11, 
+            "Howard the Duck": 4, 
+            "Nebula (comics)": 4, 
+            "Ronan the Accuser": 6, 
+            "Spider-Man": 1, 
+            "Star-Lord": 10, 
+            "Starhawk (comics)": 2, 
+            "Thanos": 5
+        }, 
+        "url": "/wiki/Rocket_Raccoon"
+    }, 
+    "Ronan the Accuser": {
+        "edges": {
+            "Captain America": 1, 
+            "Collector (comics)": 4, 
+            "Cosmo the Spacedog": 4, 
+            "Ego the Living Planet": 3, 
+            "Grandmaster (Marvel Comics)": 4, 
+            "Groot": 5, 
+            "Hank Pym": 1, 
+            "Helmut Zemo": 1, 
+            "Hulk (comics)": 2, 
+            "Iron Man": 2, 
+            "Klaw (Marvel Comics)": 2, 
+            "Loki (comics)": 1, 
+            "Nebula (comics)": 6, 
+            "Red Skull": 1, 
+            "Spider-Man": 1, 
+            "Star-Lord": 6, 
+            "Starhawk (comics)": 2, 
+            "Thanos": 14, 
+            "Thor (Marvel Comics)": 1, 
+            "Ultron": 3, 
+            "Wasp (comics)": 1
+        }, 
+        "url": "/wiki/Ronan_the_Accuser"
+    }, 
+    "Scarlet Witch": {
+        "edges": {
+            "Baron Mordo": 2, 
+            "Captain America": 7, 
+            "Loki (comics)": 6, 
+            "Thor (Marvel Comics)": 2, 
+            "Ultron": 4, 
+            "Vision (Marvel Comics)": 7
+        }, 
+        "url": "/wiki/Scarlet_Witch"
+    }, 
+    "Sharon Carter": {
+        "edges": {
+            "Alexander Goodwin Pierce": 2, 
+            "Bucky Barnes": 3, 
+            "Captain America": 17, 
+            "Carol Danvers": 1, 
+            "Crossbones (comics)": 7, 
+            "Gabe Jones": 3, 
+            "Jim Morita": 2, 
+            "Maria Hill": 3, 
+            "Thor (Marvel Comics)": 3
+        }, 
+        "url": "/wiki/Sharon_Carter"
+    }, 
+    "Shocker (comics)": {
+        "edges": {
+            "Aunt May": 5, 
+            "Captain America": 2, 
+            "Carol Danvers": 1, 
+            "Collector (comics)": 1, 
+            "Flash Thompson": 5, 
+            "Grandmaster (Marvel Comics)": 1, 
+            "Hank Pym": 1, 
+            "Heimdall (comics)": 1, 
+            "Iron Man": 2, 
+            "Justin Hammer": 2, 
+            "Liz Allan": 4, 
+            "Tinkerer": 4, 
+            "Vulture (Marvel Comics)": 8, 
+            "War Machine": 1
+        }, 
+        "url": "/wiki/Shocker_(comics)"
+    }, 
+    "Shuri (comics)": {
+        "edges": {
+            "Erik Killmonger": 3, 
+            "Klaw (Marvel Comics)": 3, 
+            "Man-Ape": 2, 
+            "Spider-Man": 1, 
+            "T'Chaka": 6, 
+            "Zuri (comics)": 3
+        }, 
+        "url": "/wiki/Shuri_(comics)"
+    }, 
+    "Sif (comics)": {
+        "edges": {
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 5
+        }, 
+        "url": "/wiki/Sif_(comics)"
+    }, 
+    "Spider-Man": {
+        "edges": {
+            "Aunt May": 14, 
+            "Captain America": 6, 
+            "Carol Danvers": 5, 
+            "Doctor Strange": 4, 
+            "Flash Thompson": 17, 
+            "Hulk (comics)": 2, 
+            "Iron Man": 4, 
+            "Liz Allan": 10, 
+            "Shocker (comics)": 11, 
+            "Thor (Marvel Comics)": 1, 
+            "Tinkerer": 9, 
+            "Vulture (Marvel Comics)": 13
+        }, 
+        "url": "/wiki/Spider-Man"
+    }, 
+    "Star-Lord": {
+        "edges": {
+            "Collector (comics)": 2, 
+            "Cosmo the Spacedog": 4, 
+            "Doctor Strange": 1, 
+            "Ego the Living Planet": 3, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Groot": 9, 
+            "Hank Pym": 1, 
+            "Starhawk (comics)": 3, 
+            "Thanos": 9, 
+            "Ultron": 1
+        }, 
+        "url": "/wiki/Star-Lord"
+    }, 
+    "Starhawk (comics)": {
+        "edges": {
+            "Captain America": 1, 
+            "Cosmo the Spacedog": 2, 
+            "Hawkeye (comics)": 1, 
+            "Iron Man": 1, 
+            "Thor (Marvel Comics)": 2
+        }, 
+        "url": "/wiki/Starhawk_(comics)"
+    }, 
+    "Supernova (Marvel Comics)": {
+        "edges": {
+            "Collector (comics)": 2, 
+            "Cosmo the Spacedog": 2, 
+            "Ego the Living Planet": 3, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Groot": 2, 
+            "Howard the Duck": 2, 
+            "Nebula (comics)": 3, 
+            "Rhomann Dey": 2, 
+            "Rocket Raccoon": 3, 
+            "Ronan the Accuser": 3, 
+            "Star-Lord": 2, 
+            "Thanos": 3
+        }, 
+        "url": "/wiki/Supernova_(Marvel_Comics)"
+    }, 
+    "T'Chaka": {
+        "edges": {
+            "Baron Strucker": 1, 
+            "Bucky Barnes": 1, 
+            "Captain America": 1, 
+            "Helmut Zemo": 1, 
+            "Howard Stark": 1, 
+            "Nick Fury": 1, 
+            "Red Skull": 1, 
+            "Zuri (comics)": 2
+        }, 
+        "url": "/wiki/T%27Chaka"
+    }, 
+    "Thanos": {
+        "edges": {
+            "Captain America": 2, 
+            "Collector (comics)": 7, 
+            "Cosmo the Spacedog": 5, 
+            "Doctor Strange": 1, 
+            "Ego the Living Planet": 6, 
+            "Grandmaster (Marvel Comics)": 6, 
+            "Groot": 5, 
+            "Loki (comics)": 3, 
+            "Spider-Man": 1, 
+            "Starhawk (comics)": 2, 
+            "Ultron": 5
+        }, 
+        "url": "/wiki/Thanos"
+    }, 
+    "Thor (Marvel Comics)": {
+        "edges": {
+            "Captain America": 14, 
+            "Collector (comics)": 3, 
+            "Crimson Dynamo": 1, 
+            "Doctor Strange": 2, 
+            "Ego the Living Planet": 9, 
+            "Fandral": 5, 
+            "Friday (comics)": 1, 
+            "Grandmaster (Marvel Comics)": 3, 
+            "Happy Hogan (comics)": 1, 
+            "Ho Yinsen": 1, 
+            "Howard Stark": 1, 
+            "Iron Monger": 1, 
+            "Justin Hammer": 1, 
+            "Laufey (comics)": 6, 
+            "Loki (comics)": 10, 
+            "Maria Hill": 2, 
+            "Maria Stark": 1, 
+            "Sif (comics)": 4, 
+            "Thanos": 8, 
+            "Ultron": 2, 
+            "Whiplash (comics)": 1
+        }, 
+        "url": "/wiki/Thor_(Marvel_Comics)"
+    }, 
+    "Thunderbolt Ross": {
+        "edges": {
+            "Baron Mordo": 1, 
+            "Black Widow (Natasha Romanova)": 1, 
+            "Captain America": 3, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Iron Man": 4, 
+            "Nick Fury": 1, 
+            "Spider-Man": 2, 
+            "Thor (Marvel Comics)": 2, 
+            "Ultron": 1
+        }, 
+        "url": "/wiki/Thunderbolt_Ross"
+    }, 
+    "Tinkerer": {
+        "edges": {
+            "Aunt May": 4, 
+            "Captain America": 1, 
+            "Carol Danvers": 1, 
+            "Flash Thompson": 4, 
+            "Hank Pym": 1, 
+            "Iron Man": 2, 
+            "Liz Allan": 4, 
+            "Nick Fury": 2, 
+            "Vulture (Marvel Comics)": 8
+        }, 
+        "url": "/wiki/Tinkerer"
+    }, 
+    "Trevor Slattery": {
+        "edges": {
+            "Aldrich Killian": 2, 
+            "Claire Temple (Marvel Cinematic Universe)": 2, 
+            "Erik Selvig": 2, 
+            "Iron Man": 2, 
+            "Phil Coulson": 2
+        }, 
+        "url": "/wiki/Trevor_Slattery"
+    }, 
+    "Tyr (Marvel Comics)": {
+        "edges": {
+            "Captain America": 2, 
+            "Ego the Living Planet": 2, 
+            "Fandral": 3, 
+            "Laufey (comics)": 4, 
+            "Loki (comics)": 6, 
+            "Sif (comics)": 3, 
+            "Thor (Marvel Comics)": 7, 
+            "Volstagg": 3
+        }, 
+        "url": "/wiki/Tyr_(Marvel_Comics)"
+    }, 
+    "Ultron": {
+        "edges": {
+            "Black Panther (comics)": 1, 
+            "Loki (comics)": 3, 
+            "Spider-Man": 1
+        }, 
+        "url": "/wiki/Ultron"
+    }, 
+    "Valkyrie (Marvel Comics)": {
+        "edges": {
+            "Abomination (comics)": 1, 
+            "Ancient One": 1, 
+            "Captain America": 5, 
+            "Dormammu": 3, 
+            "Ego the Living Planet": 2, 
+            "Executioner (comics)": 2, 
+            "Fandral": 2, 
+            "Hank Pym": 1, 
+            "Hawkeye (comics)": 1, 
+            "Hogun": 2, 
+            "Hulk (comics)": 5, 
+            "Iron Man": 3, 
+            "Jane Foster (comics)": 2, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 4, 
+            "Malekith the Accursed": 2, 
+            "Sharon Carter": 2, 
+            "Sif (comics)": 4, 
+            "Thor (Marvel Comics)": 8, 
+            "Tyr (Marvel Comics)": 2, 
+            "Volstagg": 2, 
+            "War Machine": 3
+        }, 
+        "url": "/wiki/Valkyrie_(Marvel_Comics)"
+    }, 
+    "Vision (Marvel Comics)": {
+        "edges": {
+            "Ant-Man (Scott Lang)": 1, 
+            "Grandmaster (Marvel Comics)": 1, 
+            "Hawkeye (comics)": 1, 
+            "Hulk (comics)": 2, 
+            "Nick Fury": 1, 
+            "Red Skull": 1, 
+            "Spider-Man": 1, 
+            "Ultron": 7, 
+            "War Machine": 1
+        }, 
+        "url": "/wiki/Vision_(Marvel_Comics)"
+    }, 
+    "Volstagg": {
+        "edges": {
+            "Captain America": 2, 
+            "Ego the Living Planet": 2, 
+            "Fandral": 4, 
+            "Hulk (comics)": 2, 
+            "Laufey (comics)": 2, 
+            "Loki (comics)": 8, 
+            "Nick Fury": 1, 
+            "Sif (comics)": 5, 
+            "Thor (Marvel Comics)": 6
+        }, 
+        "url": "/wiki/Volstagg"
+    }, 
+    "Vulture (Marvel Comics)": {
+        "edges": {
+            "Captain America": 1
+        }, 
+        "url": "/wiki/Vulture_(Marvel_Comics)"
+    }, 
+    "W'Kabi": {
+        "edges": {
+            "Erik Killmonger": 2, 
+            "Klaw (Marvel Comics)": 2, 
+            "Man-Ape": 2, 
+            "Shuri (comics)": 3, 
+            "T'Chaka": 2, 
+            "Zuri (comics)": 4
+        }, 
+        "url": "/wiki/W%27Kabi"
+    }, 
+    "War Machine": {
+        "edges": {
+            "Black Panther (comics)": 1, 
+            "Bucky Barnes": 2, 
+            "Captain America": 8, 
+            "Carol Danvers": 1, 
+            "Collector (comics)": 1, 
+            "Friday (comics)": 2, 
+            "Grandmaster (Marvel Comics)": 1, 
+            "Helmut Zemo": 1, 
+            "Hulk (comics)": 1, 
+            "Iron Monger": 7, 
+            "Justin Hammer": 4, 
+            "Loki (comics)": 1, 
+            "Maria Hill": 2, 
+            "Maria Stark": 2, 
+            "Nick Fury": 1, 
+            "Phil Coulson": 1, 
+            "Red Skull": 1, 
+            "Sharon Carter": 2, 
+            "Thanos": 2, 
+            "Thor (Marvel Comics)": 2, 
+            "Ultron": 1, 
+            "Wasp (comics)": 1
+        }, 
+        "url": "/wiki/War_Machine"
+    }, 
+    "Wasp (comics)": {
+        "edges": {
+            "Ant-Man (Scott Lang)": 3, 
+            "Betty Ross": 1, 
+            "Captain America": 7, 
+            "Carol Danvers": 3, 
+            "Collector (comics)": 3, 
+            "Darren Cross": 3, 
+            "Gabe Jones": 2, 
+            "Grandmaster (Marvel Comics)": 2, 
+            "Helmut Zemo": 2, 
+            "Hope Pym": 5, 
+            "Hulk (comics)": 6, 
+            "Iron Man": 9, 
+            "Jasper Sitwell": 2, 
+            "Loki (comics)": 4, 
+            "Nick Fury": 2, 
+            "Red Skull": 3, 
+            "Scarlet Witch": 4, 
+            "Sharon Carter": 2, 
+            "Spider-Man": 2, 
+            "Thanos": 2, 
+            "Thor (Marvel Comics)": 6, 
+            "Ultron": 7, 
+            "Vision (Marvel Comics)": 5, 
+            "Yellowjacket (Marvel Comics)": 2
+        }, 
+        "url": "/wiki/Wasp_(comics)"
+    }, 
+    "Whiplash (comics)": {
+        "edges": {
+            "Captain America": 5, 
+            "Friday (comics)": 2, 
+            "Iron Man": 6, 
+            "Iron Monger": 3, 
+            "Justin Hammer": 7, 
+            "Maria Hill": 2, 
+            "Maria Stark": 2, 
+            "Spider-Man": 2, 
+            "War Machine": 4
+        }, 
+        "url": "/wiki/Whiplash_(comics)"
+    }, 
+    "Wong (comics)": {
+        "edges": {
+            "Baron Mordo": 6, 
+            "Dormammu": 5, 
+            "Scarlet Witch": 2
+        }, 
+        "url": "/wiki/Wong_(comics)"
+    }, 
+    "Yellowjacket (Marvel Comics)": {
+        "edges": {
+            "Hope Pym": 2, 
+            "Ultron": 5
+        }, 
+        "url": "/wiki/Yellowjacket_(Marvel_Comics)"
+    }, 
+    "Yondu": {
+        "edges": {
+            "Aleta Ogord": 4, 
+            "Captain America": 1, 
+            "Cosmo the Spacedog": 3, 
+            "Groot": 2, 
+            "Kismet (Marvel Comics)": 2, 
+            "Nebula (comics)": 2, 
+            "Rocket Raccoon": 2, 
+            "Ronan the Accuser": 3, 
+            "Sharon Carter": 1, 
+            "Star-Lord": 6, 
+            "Starhawk (comics)": 6, 
+            "Thanos": 2, 
+            "Thor (Marvel Comics)": 1
+        }, 
+        "url": "/wiki/Yondu"
+    }, 
+    "Zuri (comics)": {
+        "edges": {}, 
+        "url": "/wiki/Zuri_(comics)"
+    }
+}
