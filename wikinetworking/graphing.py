@@ -91,7 +91,7 @@ def save_big_graph(graph, pos=None, cmap=plt.cm.viridis, edge_cmap=plt.cm.Reds, 
 
 	print "Rendering hi-resolution image..."
 
-	fig = plt.figure(1, figsize=(width, height), dpi=dpi)
+	fig = plt.figure(1, figsize=(height, width), dpi=dpi)
 	ax = plt.Axes(fig, [0., 0., 1., 1.])
 	ax.set_axis_off()
 	fig.add_axes(ax)
