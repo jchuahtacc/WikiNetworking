@@ -3,3 +3,4 @@ matplotlib
 networkx
 pyquery
 mpld3
+ipython==5.4
