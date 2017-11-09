@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='WikiNetworking',
-    version='0.1.2',
+    version='0.1.3',
     packages=['wikinetworking',],
     description='Utilities for graphing Wiki articles',
     author='Joon-Yee Chuah',
